@@ -30,6 +30,8 @@ Rice, as the most important staple crop in Asia, has garnered significant attent
 
 Traditional natural language processing methods typically rely on multi-step text mining pipelines, including named entity recognition, entity normalization, relationship extraction, etc. However, these methods often face two major challenges. Firstly, the implementation strategy based on pipelines often encounters the issue of cascading error propagation. This means that errors generated in one step may be further propagated in subsequent steps. Secondly, the implementation of these steps, in the era of deep learning, usually relies on large and precise manually annotated corpora, which are undeniably difficult to prepare, especially for specialized domains such as rice.
 
+Fortunately, in recent years, the emergence of large language models has demonstrated powerful language understanding and extensive domain knowledge. This implies that often only simple prompts need to be provided, and the language model can respond to specific questions accordingly. The quality of the response largely depends on the design of the prompt, giving rise to the development strategy of prompt engineering for large models.
+
 Add to this section a couple of paragraphs introducing the work done dring the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayama:2010].
 
 Please separate paragraphs with a double line.
