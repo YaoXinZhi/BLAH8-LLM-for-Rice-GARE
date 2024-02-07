@@ -32,6 +32,8 @@ Traditional natural language processing methods typically rely on multi-step tex
 
 Fortunately, in recent years, the emergence of large language models has demonstrated powerful language understanding and extensive domain knowledge. This implies that often only simple prompts need to be provided, and the language model can respond to specific questions accordingly. The quality of the response largely depends on the design of the prompt, giving rise to the development strategy of prompt engineering for large models.
 
+As an invited presentation at the Biomedical Linked Annotation Hackathon 8 (BLAH8), the topic "Rice-Alterome, Regulatory Events Extraction from Annotated Rice Corpus by LLM" explores the implementation strategy of prompt engineering based on the Rice-Alterome annotation corpus previously constructed by the team. This project aims to develop large language models (LLMs) for the task of mining regulatory events caused by genetic mutations in the field of rice. The results indicate that LLMs can achieve significant effectiveness in this task through appropriate prompt design. Specifically, GPT-3.5-turbo achieves a precision of 0.7470, a recall of 0.5041, and an F1 score of 0.6019, while GPT-4 achieves a precision of 0.7925, a recall of 0.4970, and an F1 score of 0.6109.
+
 Add to this section a couple of paragraphs introducing the work done dring the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayama:2010].
 
 Please separate paragraphs with a double line.
