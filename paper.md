@@ -25,6 +25,10 @@ event: Biomedical Linked Annotation Hackathon 8
 
 # Introduction or Background
 
+
+Rice, as the most important staple crop in Asia, has garnered significant attention in precision breeding research. The study of precise breeding in rice is crucial due to the potential alterations in downstream biological processes or plant traits caused by mutations in rice genes. In recent years, a plethora of research papers in the field of rice have been published, and with the continuous advancement of natural language processing technology, automated collection and organization of knowledge from literature have become feasible.
+
+
 Add to this section a couple of paragraphs introducing the work done dring the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayama:2010].
 
 Please separate paragraphs with a double line.
