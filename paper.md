@@ -1,26 +1,26 @@
 ---
-title: 'BioHackrXiv  template'
+title: 'BLAH 8 Report: Rice-Alterome, Regulatory Events Extraction from Annotated Rice Corpus by LLM'
 tags:
-  - replace with your own keywords
-  - at least 3 is recommended
+  - Oryza sativa
+  - regulatory event
+  - text mining
+  - large language model
+  - prompt engineering
 authors:
-  - name: First Last
-    orcid: 0000-0000-0000-0000
+  - name: Xinzhi Yao
+    orcid: 0000-0001-6795-2653
     affiliation: 1
-  - name: Second Last
-    orcid: 0000-0000-0000-0000
-    affiliation: 2
-
+  - name: Jingbo Xia
+    orcid: 0000-0002-7285-588X
+    affiliation: 1
 affiliations:
- - name: Institution 1, address, city, country
+ - name: College of Informatics, Hubei Key Laboratory of Agricultural Bioinformatics, Huazhong Agricultural University, Wuhan, China
    index: 1
- - name: Institution 1, address, city, country
-   index: 2
-date: 01 January 2020
+date: 15 January 2024
 bibliography: paper.bib
-authors_short: Last et al. (2021) BioHackrXiv  template
-group: BioHackrXiv
-event: BioHackathon Europe 2021
+authors_short: Yao \emph{et al.}
+group: HZAU-BioNLP
+event: Biomedical Linked Annotation Hackathon 8
 ---
 
 # Introduction or Background
