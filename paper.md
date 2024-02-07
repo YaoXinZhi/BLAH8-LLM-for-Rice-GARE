@@ -28,6 +28,7 @@ event: Biomedical Linked Annotation Hackathon 8
 
 Rice, as the most important staple crop in Asia, has garnered significant attention in precision breeding research. The study of precise breeding in rice is crucial due to the potential alterations in downstream biological processes or plant traits caused by mutations in rice genes. In recent years, a plethora of research papers in the field of rice have been published, and with the continuous advancement of natural language processing technology, automated collection and organization of knowledge from literature have become feasible.
 
+Traditional natural language processing methods typically rely on multi-step text mining pipelines, including named entity recognition, entity normalization, relationship extraction, etc. However, these methods often face two major challenges. Firstly, the implementation strategy based on pipelines often encounters the issue of cascading error propagation. This means that errors generated in one step may be further propagated in subsequent steps. Secondly, the implementation of these steps, in the era of deep learning, usually relies on large and precise manually annotated corpora, which are undeniably difficult to prepare, especially for specialized domains such as rice.
 
 Add to this section a couple of paragraphs introducing the work done dring the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayama:2010].
 
