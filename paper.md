@@ -52,11 +52,20 @@ In this project, we utilized the OpenAI API to make requests to GPT-3.5-turbo an
 
 ### Prompt Engineering
 
-During the BLAH8 conference, we designed and experimented with different versions of prompts for requesting OpenAI API and obtaining results. The final version of the prompt consists of five parts:
+During the BLAH8 conference, we designed and experimented with different versions of prompts for requesting responses from the OpenAI API. The final version of the prompt, as illustrated in Figure *, consists of five components:
 
-- **Task Defination**
 
-- 
+
+- **Task Defination**: This part is used to prompt GPT to understand the task it needs to accomplish and define the concepts involved. For example, it prompts GPT to extract GARE and provides the specific definition of GARE.
+
+- **Extraction Rules**: This component defines the specific extraction rules for the task, such as ensuring that each GARE instance contains only one independent gene.
+
+- **Format Require**: It prompts GPT to return results in a specific format, facilitating further analysis and evaluation of the results.
+
+- **Empty Sentences**: These sentences are provided to GPT for GARE extraction.
+
+- **Examples**: Several annotated examples are provided to GPT. It is essential to select examples with sufficient distinctiveness and representativeness to help GPT better understand the task requirements.
+
 
 ### Result Evaluation
 
