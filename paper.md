@@ -35,18 +35,22 @@ Fortunately, in recent years, the emergence of large language models has demonst
 As an invited presentation at the Biomedical Linked Annotation Hackathon 8 (BLAH8), the topic "Rice-Alterome, Regulatory Events Extraction from Annotated Rice Corpus by LLM" explores the implementation strategy of prompt engineering based on the Rice-Alterome annotation corpus previously constructed by the team. This project aims to develop large language models (LLMs) for the task of mining regulatory events caused by genetic mutations in the field of rice. The results indicate that LLMs can achieve significant effectiveness in this task through appropriate prompt design. Specifically, GPT-3.5-turbo achieves a precision of 0.7470, a recall of 0.5041, and an F1 score of 0.6019, while GPT-4 achieves a precision of 0.7925, a recall of 0.4970, and an F1 score of 0.6109.
 
 ## Materials and methods
+In this section, we will describe the preliminary preparation work for BLAH8, including the preparation of the rice annotation corpus and task definition, as well as the progress of the project during the BLAH8 conference, including prompt engineering, experimental setup, and results evaluation.
+
 
 ### Annotated Rice Corpus
-
+The project is based on our previously developed rice annotation corpus, Rice-Alterome. Specifically, within the Rice-Alterome corpus, we adopted the definition of genetic alteration caused regulatory events (GARE) from the Active Gene Annotation Corpus (AGAC). We employed conventional text mining pipelines, including Named Entity Recognition (NER), Named Entity Normalization (NEN), Relationship Extraction (RE), and rule-based GARE identification. The final Rice-Alterome corpus comprises 1080 annotated GARE instances.
 
 
 ### Task Definition
+
+As mentioned earlier, conventional text mining pipelines often lead to cascading error accumulation, and the specificity of rice domain text further complicates the construction of Rice-Alterome based on pipelines. Therefore, during BLAH8, we plan to leverage the powerful semantic understanding and extensive knowledge background of LLMs, combined with prompt engineering strategies, to extract rice genetic alteration caused regulatory events (rice-GARE) from rice literature. Specifically, we intend to provide only raw text without any additional NER, NEN, or RE knowledge and directly output structured rice-GARE knowledge using LLMs.
 
 ### Prompt Engineering
 
 ### Experimental Setup
 
-### Evaluation
+### Result Evaluation
 
 
 
