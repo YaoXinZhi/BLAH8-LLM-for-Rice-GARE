@@ -46,9 +46,17 @@ The project is based on our previously developed rice annotation corpus, Rice-Al
 
 As mentioned earlier, conventional text mining pipelines often lead to cascading error accumulation, and the specificity of rice domain text further complicates the construction of Rice-Alterome based on pipelines. Therefore, during BLAH8, we plan to leverage the powerful semantic understanding and extensive knowledge background of LLMs, combined with prompt engineering strategies, to extract rice genetic alteration caused regulatory events (rice-GARE) from rice literature. Specifically, we intend to provide only raw text without any additional NER, NEN, or RE knowledge and directly output structured rice-GARE knowledge using LLMs.
 
+### Experimental Setup
+
+In this project, we utilized the OpenAI API to make requests to GPT-3.5-turbo and GPT-4. The API requests were implemented using the OpenAI Python library. The complete code for making requests and usage instructions can be found in the GitHub repository associated with the project.
+
 ### Prompt Engineering
 
-### Experimental Setup
+During the BLAH8 conference, we designed and experimented with different versions of prompts for requesting OpenAI API and obtaining results. The final version of the prompt consists of five parts:
+
+- **Task Defination**
+
+- 
 
 ### Result Evaluation
 
