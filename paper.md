@@ -68,6 +68,29 @@ During the BLAH8 conference, we designed and experimented with different version
 
 
 ### Result Evaluation
+To assess the direct generation results of GPT, we manually annotated 70 sentences to create a benchmark dataset. Among these, 50 sentences were designated as positive samples, containing a total of 89 annotated GARE instances, while 20 sentences were designated as negative samples, not containing any GARE descriptions.
+
+We evaluated the performance of GPT by directly using its generated results for assessment. The results are presented in Table *, showing that GPT-3.5-turbo and GPT-4 perform similarly in terms of F1-score. However, GPT-4 achieved higher precision, while GPT-3.5-turbo demonstrated better recall. It is noteworthy that in tasks involving knowledge extraction for knowledge base construction, we often prioritize higher precision to ensure the authenticity and accuracy of the extracted knowledge, even though this may result in lower recall.
+
+To better understand the generated results of GPT and design a more reasonable evaluation scheme, we conducted manual inspections of the generated results. During this process, we identified several interesting cases:
+
+··· # wait to update
+
+LLM mistake: Negation or Long-distance inference
+28338653 TP53 mutations were exclusive to high grade DCIS and more frequent in PR-negative tumors compared with PR-positive tumors (P=0.037).
+TP53 -- mutations -- exclusive to(Reg) -- high grade DCIS
+
+Different with gold, but meanful
+28338653 However, an increase in GATA3 mutations and fewer copy number changes were noted in DCIS compared with invasive carcinomas.
+GATA3 -- mutations -- increase (PosReg) -- DCIS
+
+
+17873349 We have investigated the role of Notch in a pre-invasive breast lesion, ductal carcinoma in situ (DCIS), and have found that aberrant activation of Notch signalling is an early event in breast cancer.
+Notch -- aberrant activation -- early event in (Reg) -- breast cancer
+
+···
+
+
 
 
 
