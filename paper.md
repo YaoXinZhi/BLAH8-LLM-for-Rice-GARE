@@ -90,7 +90,7 @@ Notch -- aberrant activation -- early event in (Reg) -- breast cancer
 
 ···
 
-
+Based on the adjusted evaluation metrics, we obtained the metrics shown in Table *. It can be observed that both versions of GPT have achieved more promising results, particularly with GPT-4 achieving a precision of 0.79.
 
 
 
