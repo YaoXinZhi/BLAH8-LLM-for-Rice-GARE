@@ -1,5 +1,5 @@
 ---
-title: 'BLAH 8 Report: Rice-Alterome, Regulatory Events Extraction from Annotated Rice Corpus by LLM'
+title: 'Biomedical Linked Annotation Hackathon 8: Rice-Alterome, Regulatory Events Extraction from Annotated Rice Corpus by LLM'
 tags:
   - Oryza sativa
   - regulatory event
