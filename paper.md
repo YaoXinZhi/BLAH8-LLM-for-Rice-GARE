@@ -92,7 +92,7 @@ Notch -- aberrant activation -- early event in (Reg) -- breast cancer
 
 Based on the adjusted evaluation metrics, we obtained the metrics shown in Table *. It can be observed that both versions of GPT have achieved more promising results, particularly with GPT-4 achieving a precision of 0.79.
 
-# Discussion and/or Conclusion
+# Discussion and Conclusion
 
 This project leveraged a fascinating attempt with BLAH8 to explore whether large language models (LLMs) have the capability to surpass traditional, cumbersome multi-step NLP pipelines solely through prompt engineering. The results demonstrated promising outcomes, suggesting the potential for further improvement with prompt engineering. However, limitations in corpus size and narrow thematic scope pose challenges to generalizability, a problem likely alleviated by LLMs. Specifically, the AGAC corpus utilized in this project illustrates these limitations. With only 250 manually annotated abstracts, leveraging deep learning to fully exploit AGAC's knowledge or extend it to full-text annotation presents challenges. The outcomes of public evaluations such as OST-19 and CHIP-23 highlight these challenges, where the top-performing team achieved only * F-score in NER tasks and * F-score in RE tasks. Additionally, AGAC is tailored to human diseases, particularly cancer and Alzheimer's, meaning its effectiveness diminishes significantly when applied to other topics such as plants. However, as demonstrated by LLM's robust understanding of few-shot datasets and its transferability to rice-related contexts, LLMs hint at the potential to mitigate these challenges by tapping into valuable knowledge from diverse corpora like GENIA, which focuses on regulatory events, as well as other corpora addressing various topics.
 
@@ -101,14 +101,6 @@ Furthermore, we attempted to use LLMs to cover the NEN steps in this project but
 
 In conclusion, traditional NLP methods and tools will undoubtedly face challenges in the era of LLMs. However, this disruption is promising, as works like this project, which utilize prompt engineering to explore the potential of LLMs in the BioNLP domain, are expected to yield more hopeful outcomes.
 
-
-## Subsection level 2
-
-Please keep sections to a maximum of three levels, even better if only two levels.
-
-### Subsection level 3
-
-Please keep sections to a maximum of three levels.
 
 ## Tables, figures and so on
 
@@ -126,11 +118,6 @@ Remember to introduce figures (see Figure 1) before they appear on the document.
  
 Figure 1. A figure corresponding to the logo of our BioHackrXiv preprint.
 
-# Other main section on your manuscript level 1
-
-Feel free to use numbered lists or bullet points as you need.
-* Item 1
-* Item 2
 
 
 # Future work
