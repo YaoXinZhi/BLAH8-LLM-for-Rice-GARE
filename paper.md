@@ -55,16 +55,16 @@ In this project, we utilized the OpenAI API to make requests to GPT-3.5-turbo an
 During the BLAH8 conference, we designed and experimented with different versions of prompts for requesting responses from the OpenAI API. The final version of the prompt, as illustrated in Figure *, consists of five components:
 
 
-- **Task Defination**: This part is used to prompt GPT to understand the task it needs to accomplish and define the concepts involved. For example, it prompts GPT to extract GARE and provides the specific definition of GARE.
+* **Task Defination**: This part is used to prompt GPT to understand the task it needs to accomplish and define the concepts involved. For example, it prompts GPT to extract GARE and provides the specific definition of GARE.
 
 
-- **Extraction Rules**: This component defines the specific extraction rules for the task, such as ensuring that each GARE instance contains only one independent gene.
+* **Extraction Rules**: This component defines the specific extraction rules for the task, such as ensuring that each GARE instance contains only one independent gene.
 
-- **Format Require**: It prompts GPT to return results in a specific format, facilitating further analysis and evaluation of the results.
+* **Format Require**: It prompts GPT to return results in a specific format, facilitating further analysis and evaluation of the results.
 
-- **Empty Sentences**: These sentences are provided to GPT for GARE extraction.
+* **Empty Sentences**: These sentences are provided to GPT for GARE extraction.
 
-- **Examples**: Several annotated examples are provided to GPT. It is essential to select examples with sufficient distinctiveness and representativeness to help GPT better understand the task requirements.
+* **Examples**: Several annotated examples are provided to GPT. It is essential to select examples with sufficient distinctiveness and representativeness to help GPT better understand the task requirements.
 
 
 ### Result Evaluation
@@ -92,7 +92,14 @@ Notch -- aberrant activation -- early event in (Reg) -- breast cancer
 
 Based on the adjusted evaluation metrics, we obtained the metrics shown in Table *. It can be observed that both versions of GPT have achieved more promising results, particularly with GPT-4 achieving a precision of 0.79.
 
+# Discussion and/or Conclusion
 
+This project leveraged a fascinating attempt with BLAH8 to explore whether large language models (LLMs) have the capability to surpass traditional, cumbersome multi-step NLP pipelines solely through prompt engineering. The results demonstrated promising outcomes, suggesting the potential for further improvement with prompt engineering. However, limitations in corpus size and narrow thematic scope pose challenges to generalizability, a problem likely alleviated by LLMs. Specifically, the AGAC corpus utilized in this project illustrates these limitations. With only 250 manually annotated abstracts, leveraging deep learning to fully exploit AGAC's knowledge or extend it to full-text annotation presents challenges. The outcomes of public evaluations such as OST-19 and CHIP-23 highlight these challenges, where the top-performing team achieved only * F-score in NER tasks and * F-score in RE tasks. Additionally, AGAC is tailored to human diseases, particularly cancer and Alzheimer's, meaning its effectiveness diminishes significantly when applied to other topics such as plants. However, as demonstrated by LLM's robust understanding of few-shot datasets and its transferability to rice-related contexts, LLMs hint at the potential to mitigate these challenges by tapping into valuable knowledge from diverse corpora like GENIA, which focuses on regulatory events, as well as other corpora addressing various topics.
+
+Furthermore, we attempted to use LLMs to cover the NEN steps in this project but ultimately abandoned this approach. Our experiments revealed that NEN tasks typically require a vast and accurate dictionary for entity normalization, such as the NCBI Gene dictionary, Gene Ontology, or Human Phenotype Ontology. However, teaching an LLM to memorize and accurately map concepts to IDs is exceedingly difficult. One intuitive example is the inability to provide such a large dictionary within the prompt due to token limitations. Even when we tried to shrink the dictionary to fit within the prompt sent to GPT, the model still struggled to remember all mappings, resulting in frequent errors and even hallucinations of non-existent IDs, a phenomenon often referred to as LLM hallucinations. Fortunately, tools and platforms like LangChain that offer additional association extensions to LLMs are continuously evolving, suggesting that this issue will likely be mitigated soon.
+
+
+In conclusion, traditional NLP methods and tools will undoubtedly face challenges in the era of LLMs. However, this disruption is promising, as works like this project, which utilize prompt engineering to explore the potential of LLMs in the BioNLP domain, are expected to yield more hopeful outcomes.
 
 
 ## Subsection level 2
@@ -125,9 +132,6 @@ Feel free to use numbered lists or bullet points as you need.
 * Item 1
 * Item 2
 
-# Discussion and/or Conclusion
-
-We recommend to include some discussion or conclusion about your work. Feel free to modify the section title as it fits better to your manuscript.
 
 # Future work
 
