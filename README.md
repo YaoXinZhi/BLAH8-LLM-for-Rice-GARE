@@ -2,7 +2,6 @@
 
 # BLAH8 Project: Bioregulatory Event Extraction Using Large Language Models: A Case Study of Rice Literature
 
-
 This repository contains the code and data for the paper "Bioregulatory Event Extraction Using Large Language Models: A Case Study of Rice Literature"
 
 ## Abstract
@@ -14,15 +13,15 @@ Extracting biological regulation events has long been a focal point in the field
 ## Directories
 - ```blah_expr_dir```: Contains the original text files.
   
-- real-data: Contains the manually annotated gold dataset.
+- ```real-data```: Contains the manually annotated gold dataset.
   
-- prompt_design: Contains different versions of prompts tested during BLAH8, with base-prompt.v4.2.template.txt being the final version of prompt reported in the paper.
+- ```prompt_design```: Contains different versions of prompts tested during BLAH8, with base-prompt.v4.2.template.txt being the final version of prompt reported in the paper.
 
-- ChatGPT_result: Contains the generated results of GPT-3.5-turbo and GPT-4.0.
+- ```ChatGPT_result```: Contains the generated results of GPT-3.5-turbo and GPT-4.0.
 
-- rice-GARE-gpt-extraction_query_xzyao.py: Used to request OpenAI API and generate results using ChatGPT. The prompt version and ChatGPT version can be selected in the code.
+- ```rice-GARE-gpt-extraction_query_xzyao.py```: Used to request OpenAI API and generate results using ChatGPT. The prompt version and ChatGPT version can be selected in the code.
   
-- event-generation-evaluation.py: Used to evaluate the generated results.
+- ```event-generation-evaluation.py```: Used to evaluate the generated results.
 
 ## Dependencies
 - Python 3.7+   
@@ -31,9 +30,13 @@ Extracting biological regulation events has long been a focal point in the field
 ## Instructions  
 1. Clone the repository.  
 2. Install the dependencies.  
-3. Run rice-GARE-gpt-extraction_query_xzyao.py to generate results using ChatGPT.  
-4. Run event-generation-evaluation.py to evaluate the generated results.  
+3. Run ```rice-GARE-gpt-extraction_query_xzyao.py``` to generate results using ChatGPT.  
+4. Run ```event-generation-evaluation.py``` to evaluate the generated results.  
 
 
 ## Citation
 If you use this code in your research, please cite the following paper: 
+
+```python
+Bioregulatory Event Extraction Using Large Language Models: A Case Study of Rice Literature
+```
