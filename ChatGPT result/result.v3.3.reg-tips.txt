@@ -1,0 +1,18 @@
+sent-1:
+event-1: EUI -- overexpression -- causes (NegReg) -- dwarf phenotype
+event-2: EUI -- mutation -- increases (PosReg) -- internode length
+
+sent-2:
+event-1: Xb24 -- silenced -- enhances (PosReg) -- XA21-mediated immunity
+event-2: XB24 -- overexpressing -- compromises (NegReg) -- immunity
+
+sent-3:
+event-1: Bc6 -- mutant -- reduces (NegReg) -- percentage of cellulose
+event-2: Bc6 -- mutant -- causes (NegReg) -- brittle phenotypes
+
+sent-4:
+event-1: lax2 -- mutant -- has altered (Reg) -- AM formation
+
+sent-5:
+event-1: OsPAO -- Knockdown -- causes (Reg) -- plant death phenotypes
+event-2: OsRCCR1 -- Knockdown -- causes (Reg) -- plant death phenotypes

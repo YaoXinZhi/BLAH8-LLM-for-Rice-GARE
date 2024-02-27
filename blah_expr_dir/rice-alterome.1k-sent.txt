@@ -1,0 +1,1000 @@
+sent-1: 20838584 Therefore, overexpression of EUI causes a dwarf phenotype whereas mutation within this gene increases the internode length in rice.
+sent-2: 21107422 Mutations in the homologue CiSWEET1/Ci-RGA from the sea squirt Ciona leads to early developmental defects, underlining the importance of SWEETs in metazoa.
+sent-3: 20498118 Another explanation for the more severe phenotypes of the d3-1 mutants is that D3 may have roles in SL-independent processes.
+sent-4: 21156806 Moreover, overexpression of TOM1 or HvTOM1 resulted in increased tolerance of Fe deficiency.
+sent-5: 20385831 Rice lines silenced for Xb24 display enhanced XA21-mediated immunity, whereas rice lines overexpressing XB24 are compromised for immunity.
+sent-6: 20803423 The effects of uncoupling protein 1 and beta3-adrenergic receptor gene polymorphisms on weight loss and lipid profiles in obese women.
+sent-7: 20803423 The effects of uncoupling protein 1 and beta3-adrenergic receptor gene polymorphisms on weight loss and lipid profiles in obese women.
+sent-8: 21613379 Expression of OsGMST1 in sgb1-2 mutants rescued the short hypocotyl phenotype to the wild type (P=0.634) (Fig.
+sent-9: 21984651 This shift in amylopectin chain lengths agrees with the enhanced SSI and depressed PUL activities in the mutant (Fig.
+sent-10: 21253568 Thus, MEL2 function may be required not only for meiotic entry, but also for synchronous tapetal-cell binucleation, the disruption of which may induce hypertrophy and precocious tapetal-cell death.
+sent-11: 22194889 Our data suggests that PR-ASG enhances IGF-1 production in STZ-diabetic rat islet beta-cells and INS-1 cells by the same mechanism.
+sent-12: 21209026 Introduction of the semi-dominant Bc6 mutant gene into wild-type rice significantly reduced the percentage of cellulose, causing brittle phenotypes.
+sent-13: 21283781 Ku80 and the Mosho1 mutant caused numerous lesions on inoculated leaves.
+sent-14: 21209026 Introduction of the semi-dominant Bc6 mutant gene into wild-type rice significantly reduced the percentage of cellulose, causing brittle phenotypes.
+sent-15: 21963665 Here, we characterized the rice (Oryza sativa) lax panicle2 (lax2) mutant, which has altered AM formation.
+sent-16: 21317339 Furthermore, the elongation of primary and adventitious roots was enhanced in the ltn1 mutant under Pi starvation, suggesting that LTN1 is involved in Pi-dependent root architecture alteration.
+sent-17: 22194889 CONCLUSION/SIGNIFICANCE: These findings suggest that PR-ASG may affect pancreatic beta-cells through the activation of an IGF-1-dependent mechanism in the diabetic condition.
+sent-18: 21807436 Knockdown of OsPAO and OsRCCR1 cause different plant death phenotypes in rice.
+sent-19: 21631533 Current studies, particularly in Arabidopsis, have demonstrated that mutants deficient in cytosolic ascorbate peroxidases (APXs) are susceptible to the oxidative damage induced by abiotic stress.
+sent-20: 22483849 Additionally, in an auxin overproducing mutant, yucca, FIT and FRO2 expression were increased in Fe deficiency compared to WT.
+sent-21: 23050870 The plant R2R3-MYB genes probably evolved from an R1R2R3-MYB gene progenitor through loss of R1 repeat or from an R1MYB gene through duplication of R1 repeat  .
+sent-22: 23050870 The plant R2R3-MYB genes probably evolved from an R1R2R3-MYB gene progenitor through loss of R1 repeat or from an R1MYB gene through duplication of R1 repeat  .
+sent-23: 22792078 Previous studies have shown that the rice zep1 mutant retains CO formation and successful equal homolog segregation, which renders it difficult to unravel the exact role of SC in rice.
+sent-24: 22483849 In addition to IRT1 and FRO2, FIT is induced in the epidermis of the root upon Fe-deficiency and like the irt1 mutant, fit is seedling lethal unless watered with supplemental Fe.
+sent-25: 22558413 PH1 is an inherited disease characterized by increased oxalate production from accumulated glyoxylate when AGT is deficient, leading to renal failure.
+sent-26: 22558413 PH1 is an inherited disease characterized by increased oxalate production from accumulated glyoxylate when AGT is deficient, leading to renal failure.
+sent-27: 23020586 AT-less promoters (14.36%) are overestimated in uterus while CG-less and ATCG-balanced promoters are overestimated in testis (Additional file 4: Figure S10E,F,H online).
+sent-28: 22666315 In addition, Ghd7 is a pleiotropic gene and changes to Ghd7 protein may result in changes in the three traits (PH, HD and SPP) simultaneously.
+sent-29: 22666315 In accordance with this, the SNP S_555 in the promoter region was associated with the expression level of Ghd7 and PH rather than HD and SPP.
+sent-30: 23170937 The ability of OsSUT1 and OsSUT1(R188K) to rescue the dwarf phenotype of Arabidopsis atsuc2 mutants was also tested.
+sent-31: 22558386 However, in this study silencing OsCOI1 did not increase BPH-induced SA levels (Fig.
+sent-32: 22558386 However, in this study silencing OsCOI1 did not increase BPH-induced SA levels (Fig.
+sent-33: 23048127 These SSII-deficient mutants also accumulated a modified amylopectin, which was enriched with short chains with DP <=12, instead of intermediate length chains with DP 13-24 (mostly B1 chains).
+sent-34: 23048127 These SSII-deficient mutants also accumulated a modified amylopectin, which was enriched with short chains with DP <=12, instead of intermediate length chains with DP 13-24 (mostly B1 chains).
+sent-35: 22969430 To test whether CAP1 is functional in S. cerevisiae, the CAP1 ORF was cloned into pYES2 and transformed into the srv2 mutant, which is hypersensitive to osmotic and oxidative stresses.
+sent-36: 23217057 In this study we used a rice waxy mutant to gain molecular insights into how amylose deficiency affects carbon allocation in cereal seeds.
+sent-37: 22859673 Some mutants of Arabidopsis RecA/RAD51 family members (RAD51, RAD51C, XRCC3, and DMC1) cause abnormalities in meiosis, including chromosome fragmentation and defective homologue pairing and synapsis.
+sent-38: 22969430 Deletion of the MAC1 adenylate cyclase gene affected appressorium formation and plant infection.
+sent-39: 22960246 Our results indicate that OsSPL14 can be used to manipulate the branching patterns of SL-deficient mutants.
+sent-40: 22267486 By contrast, gene silencing of CEBiP in rice allows M. oryzae to cause rice blast disease in the absence of Slp1.
+sent-41: 23519729 The second clade comprises AtCSLD2, AtCSLD3, OsCSLD1, and ZmCSLD5, and their mutations cause aberrant root-hair development.
+sent-42: 24253678 Knockdown of a Lotus japonicus HRZ homologue, LjnsRING, reduces symbiotic infection, whereas silencing of another HRZ homologue in tobacco, TARF, enhances tobacco mosaic virus infection.
+sent-43: 24336200 D14 encodes a member of alpha/beta-hydrolase fold family protein and is proposed to be a candidate SL receptor, and D3 encodes a Leu-rich repeat F-box protein and participates in SL perception.
+sent-44: 23761487 The Cd-hypersensitive ycf1 mutant transformed with OsMTP1 clearly confers tolerance to low levels of Cd (Fig.
+sent-45: 24312593 Down-regulation of OsSPX1 causes high sensitivity to cold and oxidative stresses in rice seedlings.
+sent-46: 24094741 Rice mutant lines lacking a functional DAO display increased levels of free IAA in anthers and ovaries.
+sent-47: 23289852 Rice faded green leaf (fgl) mutants develop yellow/white leaf variegation and necrotic lesions during leaf elongation in field-grown plants.
+sent-48: 24143807 Transgenic plants overexpressing OsSIK2 and mutant sik2 exhibit enhanced and reduced tolerance to salt and drought stress, respectively, compared with the controls.
+sent-49: 24299927 A spontaneous rice mutant, erect leaf1 (elf1-1), produced a dwarf phenotype with erect leaves and short grains.
+sent-50: 24492654 Expression of OsMATE1 and OsMATE2 alters development, stress responses and pathogen susceptibility in Arabidopsis.
+sent-51: 24492654 Expression of OsMATE1 and OsMATE2 alters development, stress responses and pathogen susceptibility in Arabidopsis.
+sent-52: 24940877 The rice ortholog of DREB1, OsDREB1b, is transcriptionally induced by cold stress and over-expression of OsDREB1b results in increase tolerance towards high salt and freezing stress.
+sent-53: 25052102 Our results indicate that mutations at diverse sites in OsGBSS1 reduces its activity by affecting its starch-binding capacity, its ADP-glucose-binding capability or its protein stability.
+sent-54: 25318938 Meanwhile, the expression of ABA-responsive genes was not affected in the ospp18 mutant, and the ABA sensitivities of the ospp18 mutant and OsPP18-overexpressing plants were also not altered.
+sent-55: 25324400 Down-regulation of a LBD-like gene, OsIG1, leads to occurrence of unusual double ovules and developmental abnormalities of various floral organs and megagametophyte in rice.
+sent-56: 25017161 Rice SAPs are responsive to multiple biotic stresses and overexpression of OsSAP1, an A20/AN1 zinc-finger protein, enhances the basal resistance against pathogen infection in tobacco.
+sent-57: 25280352 Mutation of the rice ASL2 gene encoding plastid ribosomal protein L21 causes chloroplast developmental defects and seedling death.
+sent-58: 25856577 The rice OsEPSPS gene encodes a key enzyme in the synthesis of aromatic amino acids, loss of function in this gene results in a lack of essential amino acids, leading to plant death.
+sent-59: 25607985 In rice, a transposon-insertional XB15 mutant exhibits constitutive cell death lesions, enhanced XA21-mediated resistance and induction of defense gene expression.
+sent-60: 25770588 1), but the BR-deficient mutant d2-1 was more tolerant to Fe deficiency than WT plants (Fig.
+sent-61: 25688565 Loss-of-function ago18 mutation abolishes, whereas over-expression of AGO18 increases, the AGO1 antiviral activity.
+sent-62: 25925167 Therefore, constitutive overexpression of OsTCP19 in Arabidopsis affects initial seedling growth, LR development, trichome and RH formation, and condition-dependent early flowering.
+sent-63: 26573512 Knock-down of OsCPS4 caused lower accumulation levels of momilactones and oryzalexin S and the cps4 rice mutant is more susceptible to M. oryzae infection than the wild-type.
+sent-64: 25658704 We found that mutations in NAL1 disturb both anticlinal and periclinal cell divisions in leaves and internodes and that NAL1 plays a role in cell division as early as during leaf primordia initiation.
+sent-65: 26685186 Partial loss of MIT leads to the accumulation of some oligosaccharides of the raffinose family (RFO) such as galactose and raffinose.
+sent-66: 26690131 Induced TDC activity by M. oryzae infection was reported in sekiguchi lesion (sl) mutant rice.
+sent-67: 25770588 Upregulation of OsIRT1 and OsYSL15 was observed after 1-d treatment with Fe deficiency in both the WT and d2-1 mutants (Fig.
+sent-68: 25770588 Upregulation of OsIRT1 and OsYSL15 was observed after 1-d treatment with Fe deficiency in both the WT and d2-1 mutants (Fig.
+sent-69: 25770588 Upregulation of OsIRT1 and OsYSL15 was observed after 1-d treatment with Fe deficiency in both the WT and d2-1 mutants (Fig.
+sent-70: 26122204 Cyclin D1 is a Wnt target gene, and mutations of this signaling pathway contribute to nearly 90 % of colorectal cancer.
+sent-71: 26122204 Cyclin D1 is a Wnt target gene, and mutations of this signaling pathway contribute to nearly 90 % of colorectal cancer.
+sent-72: 26691393 The rls2-2 mutants also exhibited necrotic leaves with ferruginous spots, short plant height, and lower tiller number, similar to observed in the rls2-1 mutants (Fig.
+sent-73: 26690131 Rice sekiguchi lesion (sl) mutants were observed to accumulate tryptamine, and the SL gene was identified as the cytochrome P450 monooxygenase gene (Os12g16720) encoding T5H.
+sent-74: 25979979 Deletion of the guard cell-expressed ERA1 gene leads to an ABA-hypersensitive activation of guard cell anion-channels resulting in stomatal closure.
+sent-75: 25770588 Rice mutant d2-1, which is defective in BR biosynthesis, was more tolerant to Fe deficiency than the WT, and accumulated greater amounts of Fe in roots than the WT under Fe-sufficient conditions.
+sent-76: 25688565 The AGO18 promoter is induced in infected plants and the mutants are hypersusceptible to virus infection.
+sent-77: 26278778 SNP in CDS region of this biomarker gene can change the fate of this GDPD under P deficiency.
+sent-78: 26083713 We found that GA3 application restored BPH resistance in hemi-oeWRKY70 mutants (Figure 9D-F).
+sent-79: 25923512 Mutation of OsNPF2.2 also caused abnormal vasculature and retarded plant growth and development.
+sent-80: 26398683 The defect was caused by mutation in the gene encoding the CHD3 protein CHR729 (CHD-Related).
+sent-81: 26222686 The deletions of mitochondrial complexes I and V cause production of more ATP through light reactions, thus alter the ATP/NADPH ratio generated by the light cyclic and non-cyclic reactions.
+sent-82: 25788736 Rice LAX PANICLE1 (LAX1) encodes a basic helix-loop-helix (bHLH) transcription factor, and mutants in this affect AM development.
+sent-83: 25788736 Rice LAX PANICLE1 (LAX1) encodes a basic helix-loop-helix (bHLH) transcription factor, and mutants in this affect AM development.
+sent-84: 25770588 Treatment with Fe deficiency also induced upregulation of expression of OsYSL2, OsNAS1, and OsNAS2 in d2-1 mutant plants (Fig.
+sent-85: 25770588 Treatment with Fe deficiency also induced upregulation of expression of OsYSL2, OsNAS1, and OsNAS2 in d2-1 mutant plants (Fig.
+sent-86: 25770588 Treatment with Fe deficiency also induced upregulation of expression of OsYSL2, OsNAS1, and OsNAS2 in d2-1 mutant plants (Fig.
+sent-87: 26040493 Altogether, our results suggested that the point mutation in OsCDC48 was responsible for the premature senescence and death phenotype.
+sent-88: 26040493 Altogether, our results suggested that the point mutation in OsCDC48 was responsible for the premature senescence and death phenotype.
+sent-89: 25711711 Interestingly, the phyB mutant exhibited increased grain size (both grain width and length), and high grain chalkiness with reduced plumpness (Supplementary Fig.
+sent-90: 25711711 Interestingly, the phyB mutant exhibited increased grain size (both grain width and length), and high grain chalkiness with reduced plumpness (Supplementary Fig.
+sent-91: 26443104 Variation in the ammonia transporters affects the activity GS/GOGAT pathway and the Glu-Gln antiporter.
+sent-92: 25439309 As shown in Figure5, over-expression of the TOND1 gene enhanced tolerance of N deficiency in YIL105.
+sent-93: 26552588 In addition, inhibition of SH containing enzymes by As, alters cellular redox state and finally leads to cytotoxicity.
+sent-94: 25280352 Mutation of the rice ASL2 gene encoding plastid ribosomal protein L21 causes chloroplast developmental defects and seedling death.
+sent-95: 26275424 Analyses of chromosomal segment substitution lines indicated that a mutation (G1509A single-nucleotide mutation, causing an R233H amino acid substitution in NAL1) was present at the QTL.
+sent-96: 25324400 Down-regulation of a LBD-like gene, OsIG1, leads to occurrence of unusual double ovules and developmental abnormalities of various floral organs and megagametophyte in rice.
+sent-97: 25770588 Rice mutant d2-1, which is defective in BR biosynthesis, was more tolerant to Fe deficiency than the WT, and accumulated greater amounts of Fe in roots than the WT under Fe-sufficient conditions.
+sent-98: 25647350 Mutation in CCP1 resulted in abnormal palea with ectopic stigmatic tissues and other pleiotropic phenotypes.
+sent-99: 26617267 Because loss of function of DL causes the drooping leaf phenotype in regenerated seedlings, the effect of gene disruption should be easily detected.
+sent-100: 25697101 We isolated a new monoculm mutant, monoculm 3 (moc3), in which a point mutation causes the premature termination of rice O. sativa WUS (OsWUS).
+sent-101: 25804812 Further site-directed mutagenesis analysis revealed that single amino acid substitution of I194F in OsFIE2 could improve its OsCLF binding capacity.
+sent-102: 27223278 Although Slr1-d3 mutants produced normal floral organs with morphologically normal pistils and stamens, their pollen had very low viability, leading to a semi-fertile phenotype.
+sent-103: 27113712 As reported in human, ETF and ETFDH mutation could impact upstream fatty acid metabolism and cause metabolic diseases.
+sent-104: 27328657 1F), indicating that although the silencing of TRE1-1 did not decrease the concentration of TRE, it could affect gene expression and lead to moulting deformities (Fig.
+sent-105: 27472897 Consistent with these results, rice accession IRBB5 (TFIIAgamma5V39E) was more resistant to infection by different Xoc strains than IR24 (TFIIAgamma5) (Figure 5:figure supplement 2C).
+sent-106: 27606959 Finally, we show that knock-down of OsIAA10 enhances the resistance of rice to RDV infection, whereas OsIAA10 overexpression has the opposite effect.
+sent-107: 27764161 A recent study showed that mutation in OsFIE1 causes a dwarf stature and various floral defects.
+sent-108: 26994476 Therefore, the phenotypes of the ospls1 mutant were, at least in part, a result of the elevated SA levels, which were ultimately linked to a null mutation of the OsPLS1/VHA-A1 gene.
+sent-109: 26994476 Therefore, the phenotypes of the ospls1 mutant were, at least in part, a result of the elevated SA levels, which were ultimately linked to a null mutation of the OsPLS1/VHA-A1 gene.
+sent-110: 27448032 In humans, defects in SCP are associated with severe diseases ranging from obesity to epilepsy to neurodegeneration.
+sent-111: 27113712 Inherited mutations of ETF and/or ETFDH can result in multiple acyl-CoA dehydrogenase deficiency (MADD) and disrupt fatty acid beta oxidation leading to a series of metabolic disorders.
+sent-112: 27444058 Deregulation of the OsmiR160 Target Gene OsARF18 Causes Growth and Developmental Defects with an Alteration of Auxin Signaling in Rice.
+sent-113: 27241493 We suggest that ribosome aberrancy or polysome insufficiency might be responsible for the aberrant growth and development in the rml1 mutant.
+sent-114: 27588462 Each of their mutations, osppgm, osagps2, and apl1, caused starch deficiency in rice leaves (Supplementary Fig.
+sent-115: 27606959 The importance of this new mechanism, from a practical point of view and as demonstrated here, is that the engineered reduction of OsIAA10 can improve the resistance of rice to RDV infection.
+sent-116: 27332964 By contrast, OsBZR1 and DLT plays positive roles in BR signaling, and OsD2 and OsDWARF4 expression levels were induced in OsBZR1 RNAi plants and dlt mutant.
+sent-117: 27332964 By contrast, OsBZR1 and DLT plays positive roles in BR signaling, and OsD2 and OsDWARF4 expression levels were induced in OsBZR1 RNAi plants and dlt mutant.
+sent-118: 27332964 By contrast, OsBZR1 and DLT plays positive roles in BR signaling, and OsD2 and OsDWARF4 expression levels were induced in OsBZR1 RNAi plants and dlt mutant.
+sent-119: 27618555 Map-based cloning reveals that Lrd6-6 encodes an AAA ATPase, and disruption of the AAA ATPase LRD6-6 leads to autoimmunity and spontaneous cell death in the lrd6-6 mutant.
+sent-120: 27543605 Phenotypic analysis revealed that the al2 mutation caused obvious albino leaves at the early developmental stage, eventually leading to al2 seedling death.
+sent-121: 27113712 In human, ETF or ETFDH mutation can lead to lipid storage myopathy because of disruption of fatty acid metabolism.
+sent-122: 27031246 All of the lines in the NPB Piz-t:HA background showed cell death and dwarf phenotypes (S11A Fig).
+sent-123: 27814357 Suppression of OsPIN1 or over-expression of OsPIN2 (two auxin efflux transporters) alters PAT and increases tiller angle.
+sent-124: 27814357 Suppression of OsPIN1 or over-expression of OsPIN2 (two auxin efflux transporters) alters PAT and increases tiller angle.
+sent-125: 26994476 Recently, reported that RNAi-mediated inhibition of OsVHA-A resulted in an increase in stomatal aperture and density, and higher susceptibility to drought and salt stress in transgenic rice.
+sent-126: 26994476 6A) suggested that OsPLS1/VHA-A1 mutation resulted in an alteration in the SA signal pathway in rice.
+sent-127: 26994476 6A) suggested that OsPLS1/VHA-A1 mutation resulted in an alteration in the SA signal pathway in rice.
+sent-128: 26751680 Some mutations in DHCR7 lead to human autosomal recessive metabolic disorder, known as the Smith-Lemli-Opitz syndrome (SLOS).
+sent-129: 27194802 The 21-bp deletion occurs at exon 1 of OsWUS and would result in deletion of seven amino acids in the highly conserved HD (Figure 7, A-D).
+sent-130: 27258255 We investigated whether silencing OsWRKY45 has an effect on BPH preference and performance.
+sent-131: 27258255 We found that silencing OsWRKY45 enhances levels of BPH-elicited H2O2 and ethylene but did not influence basal and induced levels of JA and SA (Figure 3).
+sent-132: 27258255 We found that silencing OsWRKY45 enhances levels of BPH-elicited H2O2 and ethylene but did not influence basal and induced levels of JA and SA (Figure 3).
+sent-133: 27588462 In the present study, we show that mutations in the rice plastidic PGM, OspPGM, and the plastidic AGP LS, OsAGPL4, result in starch deficiency in pollen grains and induce male sterility.
+sent-134: 27588462 In the present study, we show that mutations in the rice plastidic PGM, OspPGM, and the plastidic AGP LS, OsAGPL4, result in starch deficiency in pollen grains and induce male sterility.
+sent-135: 27258255 The data suggest that silencing OsWRKY45 significantly increased the levels of BPH-induced ethylene and H2O2 but did not influence the biosynthesis of JA and SA.
+sent-136: 27258255 The data suggest that silencing OsWRKY45 significantly increased the levels of BPH-induced ethylene and H2O2 but did not influence the biosynthesis of JA and SA.
+sent-137: 27194802 In this study, we have identified a new mutant of OsWUS named srt1, which would produce a nearly full-length WUS peptide except for the deletion of seven amino acids in the HD.
+sent-138: 27194802 In this study, we have identified a new mutant of OsWUS named srt1, which would produce a nearly full-length WUS peptide except for the deletion of seven amino acids in the HD.
+sent-139: 26903527 Targeted Knockdown of GDCH in Rice Leads to a Photorespiratory-Deficient Phenotype Useful as a Building Block for C4 Rice.
+sent-140: 26903527 Targeted Knockdown of GDCH in Rice Leads to a Photorespiratory-Deficient Phenotype Useful as a Building Block for C4 Rice.
+sent-141: 26617267 Because loss of function of DL causes the drooping leaf phenotype in regenerated seedlings, the effect of gene disruption should be easily detected.
+sent-142: 27543605 Phenotypic analysis revealed that the al2 mutation caused obvious albino leaves at the early developmental stage, eventually leading to al2 seedling death.
+sent-143: 27642009 Deletion of GCN5 led to impaired growth, loss of conidiation and alteration of SM biosynthesis.
+sent-144: 27113712 Moreover, ETF mutant etfb(-) induced ROS accumulation in infected host cells and exogenous antioxidant GSH accelerated mutant invading growth without increasing the penetration rate.
+sent-145: 27444058 Deregulation of the OsmiR160 Target Gene OsARF18 Causes Growth and Developmental Defects with an Alteration of Auxin Signaling in Rice.
+sent-146: 27095476 The Uvhog1 mutant was reduced in growth rate and conidiation but had increased sensitivities to SDS, Congo red, and hyperosmotic stress.
+sent-147: 27059015 Whereas the Deltatrx1 mutants had no detectable phenotypes, deletion of TRX2 caused pleiotropic defects in growth, conidiation, light sensing, responses to stresses and plant infection progresses.
+sent-148: 27328657 These results demonstrated that TRE silencing could affect the regulation of chitin biosynthesis and degradation, causing moulting deformities.
+sent-149: 28960566 Accordingly, the loss of CLD1/SRL1 function causes abnormal expression of genes and proteins associated with cell wall formation, cuticle development and water stress.
+sent-150: 29237723 ROC4 degradation was promoted by DHS but delayed in dhs mutants.
+sent-151: 28102545 Here, we test the hypothesis that OsCPK17 plays a role in rice cold stress response by analysing OsCPK17 knockout, silencing and overexpressing rice lines under low temperature.
+sent-152: 29085070 Duplication of an upstream silencer of FZP increases grain yield in rice.
+sent-153: 30341356 In case of tiller number, compared to N22 in E1; 166 mutants had a higher tiller number and 79 had lower tiller number.
+sent-154: 29309410 In the present study, the flag leaf of the esl mutant promoted the O2- production and increased the ABA levels during leaf senescence (Fig 1, S1 Table).
+sent-155: 30072633 The SSIIIa-deficient mutant causes a floury endosperm and reduces the content of long branch-chains of amylopectin.
+sent-156: 29385213 The observation of induction of OsAKT1 and OsCIPK23 at the later stage of M. oryzae infection may further strengthen this hypothesis (S5A and S10A Figs).
+sent-157: 29385213 The observation of induction of OsAKT1 and OsCIPK23 at the later stage of M. oryzae infection may further strengthen this hypothesis (S5A and S10A Figs).
+sent-158: 29385213 The observation of induction of OsAKT1 and OsCIPK23 at the later stage of M. oryzae infection may further strengthen this hypothesis (S5A and S10A Figs).
+sent-159: 30275307 Furthermore, using an in-house TILLING platform, we identified an additional 23 ta2 alleles with point mutations in OsROS1 (SI Appendix, Table S2).
+sent-160: 30275307 Furthermore, using an in-house TILLING platform, we identified an additional 23 ta2 alleles with point mutations in OsROS1 (SI Appendix, Table S2).
+sent-161: 30367631 In contrast, silencing of OsWRKY67 increased the susceptibility to blast and bacterial blight diseases.
+sent-162: 29588443 In contrast, null gs9 mutation caused a slender grain shape, while GS9 overexpression resulted in a rounder grain shape (Fig.
+sent-163: 29632179 However, mutation of the OsIAA26 protein caused root wave growth in the presence of 10 ppm ethylene (SI Appendix, Fig.
+sent-164: 29701802 In addition, expression of OsCYCA2;1 in the cyca2;34 mutant background induced formation of excessive stomata, reflected by an increased stomatal density and stomatal index (Fig.
+sent-165: 30177627 The protonema cells of gain-of-function mutants, PpSARKg, were not sensitive to ABA treatment, while the gametophore cells enhanced tolerance to salt stress treatment (Figure 4).
+sent-166: 29463697 Gene expression analysis revealed that neither mhz3 mutation nor MHZ3 overexpression significantly altered the transcript levels of OsEIN2 compared with those in WT seedlings (SI Appendix, Fig.
+sent-167: 29463697 Gene expression analysis revealed that neither mhz3 mutation nor MHZ3 overexpression significantly altered the transcript levels of OsEIN2 compared with those in WT seedlings (SI Appendix, Fig.
+sent-168: 30274246 Some of these MDS genes may possess a variant of the MDM with a single nucleotide deviation.
+sent-169: 30464344 However, the C-terminally truncated D3 mutant protein could neither form a ternary complex with D14 and D53-D2 on a sizing column, nor restore the D53 degradation activity of the max2-1 extracts (Fig.
+sent-170: 30464344 However, the C-terminally truncated D3 mutant protein could neither form a ternary complex with D14 and D53-D2 on a sizing column, nor restore the D53 degradation activity of the max2-1 extracts (Fig.
+sent-171: 29893903 Conversely, transcript levels of OsICS1 and OsPAL as well as SA concentrations were clearly increased in the lhdd10 mutant at 24 h post-infestation (Supplementary Fig.
+sent-172: 29395728 Loss of TKL1 in M. oryzae has severe effects on ATP levels, IH growth and cell cycle progression in planta.
+sent-173: 30092010 In this report, it is demonstrated that over-expression of the rice gene OsSIZ1 in Arabidopsis leads to increased tolerance to multiple abiotic stresses.
+sent-174: 29237723 ROC4 degradation was promoted by DHS but delayed in dhs mutants.
+sent-175: 29604140 In addition, the loss of CDS5 led to an elevated PA level and enhanced hyperosmotic tolerance.
+sent-176: 29660235 Inhibition of OsSWEET11 function in mesophyll cells improves resistance of rice to sheath blight disease.
+sent-177: 30241349 Knocking Out the Gene RLS1 Induces Hypersensitivity to Oxidative Stress and Premature Leaf Senescence in Rice.
+sent-178: 30542157 Triple knockout of the genes BBM1, BBM2 and BBM3 causes embryo arrest and abortion, which are fully rescued by male-transmitted BBM1.
+sent-179: 30542157 Triple knockout of the genes BBM1, BBM2 and BBM3 causes embryo arrest and abortion, which are fully rescued by male-transmitted BBM1.
+sent-180: 30542157 Triple knockout of the genes BBM1, BBM2 and BBM3 causes embryo arrest and abortion, which are fully rescued by male-transmitted BBM1.
+sent-181: 30367631 In contrast, silencing of OsWRKY67 increased the susceptibility to blast and bacterial blight diseases.
+sent-182: 30678069 Deficiency of OsSSIIa lead to a chalky interior appearance and the endosperm of the mutant lines are mainly consisted of loosely packed, spherical starch granules with larger air spaces.
+sent-183: 30840766 Furthermore, over-expression of OsHMA3 also increases tolerance to Cd toxicity in rice, indicating that OsHMA3 localized at the tonoplast transports both Cd and Zn into to the vacuoles.
+sent-184: 31096659 These findings were further supported by a recent experimental study that CRISPR-Cas9 knockout of OsPGSIP-C1 led to dwarf plant height and spike shape changes of rice.
+sent-185: 31096659 These findings were further supported by a recent experimental study that CRISPR-Cas9 knockout of OsPGSIP-C1 led to dwarf plant height and spike shape changes of rice.
+sent-186: 31096659 These findings were further supported by a recent experimental study that CRISPR-Cas9 knockout of OsPGSIP-C1 led to dwarf plant height and spike shape changes of rice.
+sent-187: 31235564 6C), while this treatment resulted in pronounced induction of D53 in shoot bases of the osckx9 mutants (SI Appendix, Fig.
+sent-188: 30771248 In this study, we isolated and characterized the rice mutant ds8, which exhibited increased sensitivity to drought stress.
+sent-189: 31466256 Similarly, OsFIE2 RNA interference (RNAi) transgenic genotypes and mutant fie2 also exhibited a dwarf phenotype.
+sent-190: 31667503 Both exogenous GA application and overproduction led to more severe symptoms pf NH4+ toxicity in the WT and eui1 mutant, suggesting a negative regulation of NH4+ toxicity by GA.
+sent-191: 30939720 A mutant harboring a mutation in OsCIPK31 revealed panicle degeneration of the apical spikelet, and trypan blue staining also revealed an excessive level of (ROS) reactive oxygen species.
+sent-192: 31892124 High SA content induces chlorotic cell death at non-inoculation sites of Arabidopsis ATG2 and ATG5 mutants infected by Pst with avirulent gene avrRpm1.
+sent-193: 31500108 In oscaf1 mutants, the reduced splicing efficiency of ycf3 was responsible for mutant deaths after the three leaves stages.
+sent-194: 31207967 RICE SALT SENSITIVE3 (RSS3) acts as a negative regulator of JA signaling by interacting with OsJAZ9 and OsJAZ11, and the rss3 mutant exhibits the salt-hypersensitive phenotype.
+sent-195: 31207967 RICE SALT SENSITIVE3 (RSS3) acts as a negative regulator of JA signaling by interacting with OsJAZ9 and OsJAZ11, and the rss3 mutant exhibits the salt-hypersensitive phenotype.
+sent-196: 31207967 RICE SALT SENSITIVE3 (RSS3) acts as a negative regulator of JA signaling by interacting with OsJAZ9 and OsJAZ11, and the rss3 mutant exhibits the salt-hypersensitive phenotype.
+sent-197: 31207967 RICE SALT SENSITIVE3 (RSS3) acts as a negative regulator of JA signaling by interacting with OsJAZ9 and OsJAZ11, and the rss3 mutant exhibits the salt-hypersensitive phenotype.
+sent-198: 31615964 The mutants caused typical disease symptoms similar to those caused by Guy11 and complemented strains in the injected-rice assays (Table S1).
+sent-199: 30626062 Knockout of OsMGT1 resulted in much lower Mg accumulation and higher sensitivity to Mg deficiency, while overexpression of OsMGT1 enhanced the tolerance to Mg deficiency.
+sent-200: 31667503 However, NH4+ concentrations in roots were significantly increased in eui1 mutant plants, while a decrease in NH4+ concentration was observed in roots of sd1 mutant plants (Fig.
+sent-201: 31667503 However, NH4+ concentrations in roots were significantly increased in eui1 mutant plants, while a decrease in NH4+ concentration was observed in roots of sd1 mutant plants (Fig.
+sent-202: 31701152 Increases in SA levels were achieved by overexpression of SLC1 in rice, and the involvement of SLC1 and SLC2 in maintaining the balance of SA levels was demonstrated.
+sent-203: 31318448 This finding was supported by the fact that RBSDV infection in rice can be promoted through knockdown of OsCSN5A in rice via stable transformation (Fig.
+sent-204: 31667503 In our study, we found that NH4+ toxicity induced leaf necrosis in the GA overproduction mutant eui1 (Fig.
+sent-205: 31667503 In our study, we found that NH4+ toxicity induced leaf necrosis in the GA overproduction mutant eui1 (Fig.
+sent-206: 31575938 Thus, silencing Nlst45 might have affected the sugar transports in BPH, eventually affecting the sugar metabolism, energy production, and overall fitness.
+sent-207: 31667503 Both exogenous GA application to the WT and increases in endogenous GA levels in eui1 mutants rendered them more sensitive to NH4+ toxicity.
+sent-208: 31667503 Both exogenous GA application to the WT and increases in endogenous GA levels in eui1 mutants rendered them more sensitive to NH4+ toxicity.
+sent-209: 31836812 Knockout mutants of OsGSK1 which is an orthologue of Arabidopsis BIN2 showed enhanced tolerance to cold, heat, salt, and drought stresses.
+sent-210: 31701152 Disruption of SLC1 or SLC2 led to dwarf plants, while simultaneous down-regulation of SLC1 and SLC2 resulted in a severe defect in early leaf development.
+sent-211: 30931952 In addition, the activity of ATP-synthase is inhibited in the pht4;1-1 mutant, causing a dwarf phenotype with a lack of Pi.
+sent-212: 31667503 In contrast, growth of sd1 GA-deficient mutants was more tolerant to NH4+ toxicity than that of their WT counterparts.
+sent-213: 31667503 In contrast, growth of sd1 GA-deficient mutants was more tolerant to NH4+ toxicity than that of their WT counterparts.
+sent-214: 31667503 These results indicate that endogenous GA overproduction caused by the mutation of EUI1 can enhance sensitivity of rice to NH4+ toxicity.
+sent-215: 31667503 These results indicate that endogenous GA overproduction caused by the mutation of EUI1 can enhance sensitivity of rice to NH4+ toxicity.
+sent-216: 31248369 Mutation of OsMET1 led to a global loss of 75% CmG in rice, causing developmental abnormities.
+sent-217: 31861687 The overexpression of OsIRO2 in rice increases MA secretion and Fe content in shoots, and thus improves the tolerance of rice plants to Fe deficiency.
+sent-218: 31125438 However, GR24 treatment significantly increased the total number of nematodes per plant in SL-deficient d10 and d27 mutants (Fig.
+sent-219: 31125438 However, GR24 treatment significantly increased the total number of nematodes per plant in SL-deficient d10 and d27 mutants (Fig.
+sent-220: 31109052 In morning glories Ipomoea purpurea and Ipomoea tricolor, a mutant of bHLH2 and IVS (IVORY SEED) affects the biosynthesis of anthocyanins and the accumulation of proanthocyanins.
+sent-221: 30921464 Coincidently, overexpression of OsPIP1;3 or de novo expression of LE of OsPIP1;3 in OsPIP1;1 caused enhancements of OsSWEET11 expression (Fig.
+sent-222: 30921464 Coincidently, overexpression of OsPIP1;3 or de novo expression of LE of OsPIP1;3 in OsPIP1;1 caused enhancements of OsSWEET11 expression (Fig.
+sent-223: 31086007 The transcription levels of OsbZIP81.1 and OsbZIP81.2 were strongly induced by Agrobacterium infection and MeJA, PGE6000 treatments, and weakly induced by AS treatment (Figure 8A-C).
+sent-224: 31783788 This shows that unlike for wild type OsPUB41, the expression of OsPUB41C40A does not lead to enhanced tolerance to R. solani infection in Arabidopsis.
+sent-225: 31541388 Germination and gene expression analyses corroborated that OsPP2C50 AS and AK mutants modulated ABA responsiveness in Arabidopsis.
+sent-226: 30542157 Triple knockout of the genes BBM1, BBM2 and BBM3 causes embryo arrest and abortion, which are fully rescued by male-transmitted BBM1.
+sent-227: 30542157 Triple knockout of the genes BBM1, BBM2 and BBM3 causes embryo arrest and abortion, which are fully rescued by male-transmitted BBM1.
+sent-228: 30542157 Triple knockout of the genes BBM1, BBM2 and BBM3 causes embryo arrest and abortion, which are fully rescued by male-transmitted BBM1.
+sent-229: 31848048 Consistent with this observation, the rl1 mutant exhibited altered mitochondrial morphology and lower ATP accumulation compared with the wild type.
+sent-230: 30916395 Loss of function of FLO10 affected the trans-splicing of the mitochondrial nad1 intron 1, which was accompanied by the increased accumulation of the nad1 exon 1 and exons 2-5 precursors.
+sent-231: 30916395 Loss of function of FLO10 affected the trans-splicing of the mitochondrial nad1 intron 1, which was accompanied by the increased accumulation of the nad1 exon 1 and exons 2-5 precursors.
+sent-232: 31412785 CONCLUSION: Our results revealed two DNA polymorphisms regulating maize RCA gene ZmRCAbeta expression, and the RCA gene promoter activity of rice was stronger than that of maize.
+sent-233: 31627334 Overexpression of OsPIN2 Regulates Root Growth and Formation in Response to Phosphate Deficiency in Rice.
+sent-234: 33375295 In mouse, loss of Mre11 nuclease activity increases genomic instability and early embryonic lethality.
+sent-235: 32532001 In the latter, for example, the knockdown of SCD1 enhanced the mortality of larvae and inhibited egg development in female adults.
+sent-236: 33375295 In plant-related research, such as in Arabidopsis, the mutation of Mre11 led to abnormal meiosis, cell cycle stagnation, chromosome instability, and failure of DNA damage repair.
+sent-237: 33050591 Mutants of OsPKS2, OsTKPR1, PTC1, and OsMYB80 lead to abnormal tapetum degeneration and most microspores lacked exines in mature anthers.
+sent-238: 33050591 Mutants of OsPKS2, OsTKPR1, PTC1, and OsMYB80 lead to abnormal tapetum degeneration and most microspores lacked exines in mature anthers.
+sent-239: 33050591 Mutants of OsPKS2, OsTKPR1, PTC1, and OsMYB80 lead to abnormal tapetum degeneration and most microspores lacked exines in mature anthers.
+sent-240: 33239288 In antiviral responses, mammalian cells with deletion of the mitochondrial fission factors DRP1 and FIS1 have an elongated mitochondrial network and increased RLR signaling.
+sent-241: 32961678 Consistent with the results of our PPI network analysis, sgr mutants also exhibited altered expression levels of four hub genes in response to cold stress.
+sent-242: 33009432 Here we reported the effects of Bt rice T1C-19 (Cry1C rice) on the non-target herbivore, Nilaparvata lugens (rice brown planthopper, BPH) with or without RDV (rice dwarf virus) infection conditions.
+sent-243: 33009432 Here we reported the effects of Bt rice T1C-19 (Cry1C rice) on the non-target herbivore, Nilaparvata lugens (rice brown planthopper, BPH) with or without RDV (rice dwarf virus) infection conditions.
+sent-244: 31923187 The osko2 mutant was previously reported as d35 mutant, with single mutation on the fifth exon leading to semi-dwarfism and an insertion in the 4th exon leading to serious dwarfism or even death.
+sent-245: 33009432 By comparison with non-Bt control, Bt rice T1C-19 with or without RDV infection had no significant effects on the life-table parameters of BPH including rm, R0, T, DT and lambda.
+sent-246: 33009432 Thus, it could be concluded that Bt rice T1C-19 doesn't affect the ecological fitness of BPH either under RDV stress or not.
+sent-247: 32532001 In Anopheles coluzzii, the knockdown of stearoyl CoA desaturase (SCD1) leads to undeveloped ovaries.
+sent-248: 32521717 The knockdown of OsTBP2.2 alter some GO terms such as "cell surface receptor signaling pathway", "signal transduction" and "defense responses" which is related to resistance (Figure 8B).
+sent-249: 31952365 In marked contrast, downregulation of SNAT2 in rice (snat2) led to an enhanced tolerance to abiotic stress, a semidwarf phenotype with erect leaves, and a decrease in melatonin content.
+sent-250: 33147495 Functional loss of the Polyubiquitin b (Ubb) in mice also leads to the arrest of spermatocytes and oocytes at the prophase of meiosis, and similar phenomena are also present in Drosophila .
+sent-251: 31811745 A JA-deficient rice mutant, hebiba, exhibited enhanced susceptibility to the sheath blight disease (Taheri and Tarighi, 2010), suggesting the involvement of JA in resistance response.
+sent-252: 33009432 Similarly, Bt rice T1C-19 with or without RDV infection had negligible impact on biological parameters and life-table parameters of BPH at most cases, compared with the non-Bt control rice MH63.
+sent-253: 32796598 Silencing of Nicotiana benthamiana histone deacetylase 6 (NbHDA6) expression results in a reduced DNA methylation level of the viral genome and enhanced host susceptibility to TYLCV infection.
+sent-254: 33177521 Knockout of OsChz1 leads to multiple plant developmental defects.
+sent-255: 32064504 Moreover, this new induced phosphorylated protein band disappeared in the sapk9 mutant, revealing the role of OsSAPK9 in ABA-induced phosphorylation of OsbZIP20 (Fig.
+sent-256: 32064504 Moreover, this new induced phosphorylated protein band disappeared in the sapk9 mutant, revealing the role of OsSAPK9 in ABA-induced phosphorylation of OsbZIP20 (Fig.
+sent-257: 33009432 Thus, it is clear that Bt rice T1C-19 doesn't affect the ecological fitness of BPH either under RDV stress or not.
+sent-258: 32532001 Table S3: Knockdown of Nlug-desatA2 leads to ovarian atrophy phenotype of female BPH adults.
+sent-259: 32532001 Table S3: Knockdown of Nlug-desatA2 leads to ovarian atrophy phenotype of female BPH adults.
+sent-260: 32516520 The overexpression of the crucial enzyme of shikimate pathway, that is EPSP synthase can lead to more fitness advantages to rice plants which in turn results in increased productivity and yield.
+sent-261: 31922260 The highly enhanced booting stage cold tolerance of the mutant suggests that the activation of ROS metabolism system is beneficial for plants to cope with the coming cold stress.
+sent-262: 32384162 2K), suggesting that disruption of OsASN1 could disturb the GS/GOGAT cycle.
+sent-263: 32384162 2K), suggesting that disruption of OsASN1 could disturb the GS/GOGAT cycle.
+sent-264: 31964983 While CMS, caused by specific nuclear and mitochondrial genetic interactions, is maternally inherited; NMS results due to defects in nuclear genes usually inherited as a recessive trait.
+sent-265: 31964983 While CMS, caused by specific nuclear and mitochondrial genetic interactions, is maternally inherited; NMS results due to defects in nuclear genes usually inherited as a recessive trait.
+sent-266: 32964416 In addition, knockout of OsCUC1 leads to multiple defects, including dwarf plant architecture, male sterility and twisted-rolling leaves.
+sent-267: 32384162 Our results indicate that the disruption of OsASN1 reduced the ammonium uptake capacity by regulating the expression of OsAMTs and disturbed the balance of GS/GOGT cycle.
+sent-268: 33301482 The knockout of OsNRAMP1 brought about noteworthy reductions in root take-up of Cd and Mn and their amassing in rice shoot and grain, and expanded affectability to Mn insufficiency.
+sent-269: 33264360 We previously showed that knocking down OsIAA10 expression in rice causes enhanced resistance to RDV infection, suggesting that OsIAA10 negatively regulates rice response to RDV infection.
+sent-270: 32521717 Knockdown of a Novel Gene OsTBP2.2 Increases Sensitivity to Drought Stress in Rice.
+sent-271: 33009432 Here we reported the effects of Bt rice T1C-19 (Cry1C rice) on the non-target herbivore, Nilaparvata lugens (rice brown planthopper, BPH) with or without RDV (rice dwarf virus) infection conditions.
+sent-272: 33009432 Here we reported the effects of Bt rice T1C-19 (Cry1C rice) on the non-target herbivore, Nilaparvata lugens (rice brown planthopper, BPH) with or without RDV (rice dwarf virus) infection conditions.
+sent-273: 33009432 By comparison with non-Bt control, Bt rice T1C-19 with or without RDV infection had no significant effects on the life-table parameters of BPH including rm, R0, T, DT and lambda.
+sent-274: 32129444 Knockout of OsOASTL-A1 led to significantly lower levels of cysteine, glutathione, and phytochelatins in roots and increased sensitivity to arsenate stress.
+sent-275: 32129444 Knockout of OsOASTL-A1 led to significantly lower levels of cysteine, glutathione, and phytochelatins in roots and increased sensitivity to arsenate stress.
+sent-276: 33009432 Thus, it could be concluded that Bt rice T1C-19 doesn't affect the ecological fitness of BPH either under RDV stress or not.
+sent-277: 31828801 Deleting UPL3 depleted Sir2 during growth in rice cells, triggering host immunity and preventing infection.
+sent-278: 31828801 Deleting UPL3 depleted Sir2 during growth in rice cells, triggering host immunity and preventing infection.
+sent-279: 32691446 Loss of rice PARAQUAT TOLERANCE 3 confers enhanced resistance to abiotic stresses and increases grain yield in field.
+sent-280: 33177521 Knockout of OsChz1 leads to multiple plant developmental defects.
+sent-281: 32337581 Additionally, water deficiency caused abscisic acid accumulation and triggered drought responses in the mutants.
+sent-282: 31848048 Consistent with this observation, the rl1 mutant exhibited altered mitochondrial morphology and lower ATP accumulation compared with the wild type.
+sent-283: 31917861 Disruption of Os3BGlu6 resulted in the increased stomatal density and impaired stomatal movement.
+sent-284: 32791358 After TIL lacking, OsCHL, OsZEP1, OsZEP2 and OsUN in mutant were strongly evoked to against PCB stress.
+sent-285: 32791358 After TIL lacking, OsCHL, OsZEP1, OsZEP2 and OsUN in mutant were strongly evoked to against PCB stress.
+sent-286: 33098731 Mutation of G-protein gamma subunit DEP1 increases planting density and resistance to sheath blight disease in rice.
+sent-287: 31667503 In contrast, growth of sd1 GA-deficient mutants was more tolerant to NH4+ toxicity than that of their WT counterparts.
+sent-288: 31667503 In contrast, growth of sd1 GA-deficient mutants was more tolerant to NH4+ toxicity than that of their WT counterparts.
+sent-289: 31667503 Both exogenous GA application to the WT and increases in endogenous GA levels in eui1 mutants rendered them more sensitive to NH4+ toxicity.
+sent-290: 31667503 Both exogenous GA application to the WT and increases in endogenous GA levels in eui1 mutants rendered them more sensitive to NH4+ toxicity.
+sent-291: 34250718 Overexpression of OsRLP1 increased rice defence, while the OsRLP1 mutant was more susceptible to RBSDV infection, compared with wild-type plants.
+sent-292: 33925978 Since the colored intermediates Pheide a and RCC are phototoxic, the knockdown and knockout mutations in OsPAO and OsRCCR1 generate cell death symptoms.
+sent-293: 34679114 The silencing of the OsSYT-5 gene affected the expression of several genes associated with ABA-related stress signaling in the transgenic rice plants.
+sent-294: 34186295 The smax1 and d3/smax1 transcriptome analysis also revealed that removal of SMAX1 causes induction of SL biosynthesis, which was mirrored by significantly elevated SL levels in rice roots.
+sent-295: 33570603 OsGH3-2 affects IAA and ABA contents in mutants.
+sent-296: 34343171 Recent study has shown that overexpression of OsNCED3 or OsNCED4 in plants can enhance water stress tolerance by increasing ABA levels.
+sent-297: 34343171 Recent study has shown that overexpression of OsNCED3 or OsNCED4 in plants can enhance water stress tolerance by increasing ABA levels.
+sent-298: 33662041 Silencing NbATG7 blocks plant autophagy and facilitates RSV infection, which indicates that autophagy plays an anti-RSV role in N. benthamiana.
+sent-299: 33950284 Mutant seeds had yellowish pericarps and exhibited embryonic lethality, with significantly reduced grain size and weight.
+sent-300: 34904518 These results indicate that D14L2a gene was induced by infection of AM fungus, independently of arbuscule development.
+sent-301: 34904518 These results indicate that D14L2a gene was induced by infection of AM fungus, independently of arbuscule development.
+sent-302: 33368943 These results indicate that an enhanced defence response was activated by P. oryzae infection both in the rlr1 mutant lines and in OsRLR1-OX lines.
+sent-303: 34866195 Here, we show that mutation of OsSCYL2 in rice gave rise to a novel phenotype:hypersensitive response-like (HR) cell death in a light-dependent manner.
+sent-304: 33458815 Indeed, the even larger increases in ABA levels observed in the cps mutants relative to WT indicates appropriate induction of this hormone in response to their earlier wilting.
+sent-305: 33531490 These results confirmed that PM H+-ATPase modification in rice roots regulated NH4+ absorption.
+sent-306: 34250718 Viral inoculation on various OsRLP1 mutants demonstrated that OsRLP1 modulates rice resistance against RBSDV infection.
+sent-307: 34718775 The loss of OsWRKY5 activity increased sensitivity to ABA, thus promoting ABA-dependent stomatal closure.
+sent-308: 34250718 These results show that knockout of OsSOBIR1 in rice made plants more susceptible to RBSDV infection.
+sent-309: 34830062 Silencing OsI-BAK1 (ir-ibak1) in rice enhanced the BPH-induced transcript levels of three defense-related WRKY genes (OsWRKY24, OsWRKY53 and OsWRKY70) but decreased the induced levels of ethylene.
+sent-310: 34830062 Silencing OsI-BAK1 (ir-ibak1) in rice enhanced the BPH-induced transcript levels of three defense-related WRKY genes (OsWRKY24, OsWRKY53 and OsWRKY70) but decreased the induced levels of ethylene.
+sent-311: 34830062 Silencing OsI-BAK1 (ir-ibak1) in rice enhanced the BPH-induced transcript levels of three defense-related WRKY genes (OsWRKY24, OsWRKY53 and OsWRKY70) but decreased the induced levels of ethylene.
+sent-312: 34830062 Silencing OsI-BAK1 (ir-ibak1) in rice enhanced the BPH-induced transcript levels of three defense-related WRKY genes (OsWRKY24, OsWRKY53 and OsWRKY70) but decreased the induced levels of ethylene.
+sent-313: 34681858 demonstrated that mutation of the EBEs in the promoter regions of OsSWEET13 and OsSWEET14 conferred a broad-spectrum resistance of rice to Xoo variety infections.
+sent-314: 34681858 demonstrated that mutation of the EBEs in the promoter regions of OsSWEET13 and OsSWEET14 conferred a broad-spectrum resistance of rice to Xoo variety infections.
+sent-315: 34735479 MAPKKK17 and MAPKKK18 belong to Ser/Thr protein kinase family and help in the ABA-dependent activation of the MKK3-MPK7 pathway.
+sent-316: 34250718 Upon RBSDV infection, the PTI-related genes were significantly induced in NIP plants, but not in OsRLP1 mutant osrlp1-cas plants (Figure 6a-c).
+sent-317: 34597396 Further, the ATP hydrolysis activity of OsRPT2a seemed to be required for the degradation, because expression of the K240A variant led to an increased RAI1 level (Figure 7C).
+sent-318: 34112901 Specifically mutations G796R) and S762R in hAE1 abolish anion exchange and cause stomatocytosis.
+sent-319: 33602126 RNA-seq analysis revealed that overexpression of OsMBD707 led to reduced photoperiod sensitivity in rice and to expression changes in flowering regulator genes in the Ehd1-Hd3a/RFT1 pathway.
+sent-320: 33602126 RNA-seq analysis revealed that overexpression of OsMBD707 led to reduced photoperiod sensitivity in rice and to expression changes in flowering regulator genes in the Ehd1-Hd3a/RFT1 pathway.
+sent-321: 33602126 RNA-seq analysis revealed that overexpression of OsMBD707 led to reduced photoperiod sensitivity in rice and to expression changes in flowering regulator genes in the Ehd1-Hd3a/RFT1 pathway.
+sent-322: 33647072 The crystal structure of Pikh-HMA bound to AVR-PikC shows that the Asn261Lys polymorphism in Pikh introduces a Pikm-like interface 3 to aid effector binding.
+sent-323: 34681858 reported that the maturation of the gene's mutants was postponed, and double mutation of OsSWEET11 and OsSWEET15 conferred complete infertility (Table 3).
+sent-324: 34681858 reported that the maturation of the gene's mutants was postponed, and double mutation of OsSWEET11 and OsSWEET15 conferred complete infertility (Table 3).
+sent-325: 34515342 The photosynthetic rate was significantly higher in the d1 mutants than in T65 and NB WT (Fig.
+sent-326: 34070845 The presence of Mmp-3 in gastrointestinal ulcer possibly affects tissue repair at multiple stages.
+sent-327: 34476895 Overexpression of EiKCS in rice increased antioxidant enzymes to scavenge ROS, consistent with loss of OsPQT3, AtPQT3, and AtPDR11 from paraquat resistance mutants.
+sent-328: 34884830 Second, silencing OsJMJ715 enhances BPH-elicited accumulation of JA, JA-Ile, ABA, and callose, which subsequently reduces the hatching rate of BPH eggs and BPH feeding.
+sent-329: 34884830 Second, silencing OsJMJ715 enhances BPH-elicited accumulation of JA, JA-Ile, ABA, and callose, which subsequently reduces the hatching rate of BPH eggs and BPH feeding.
+sent-330: 34250718 Viral inoculation on various OsRLP1 mutants demonstrated that OsRLP1 modulates rice resistance against RBSDV infection.
+sent-331: 33602126 RNA-seq analysis revealed that overexpression of OsMBD707 led to reduced photoperiod sensitivity in rice and to expression changes in flowering regulator genes in the Ehd1-Hd3a/RFT1 pathway.
+sent-332: 33602126 RNA-seq analysis revealed that overexpression of OsMBD707 led to reduced photoperiod sensitivity in rice and to expression changes in flowering regulator genes in the Ehd1-Hd3a/RFT1 pathway.
+sent-333: 33602126 RNA-seq analysis revealed that overexpression of OsMBD707 led to reduced photoperiod sensitivity in rice and to expression changes in flowering regulator genes in the Ehd1-Hd3a/RFT1 pathway.
+sent-334: 34830062 Silencing OsI-BAK1 (ir-ibak1) in rice enhanced the BPH-induced transcript levels of three defense-related WRKY genes (OsWRKY24, OsWRKY53 and OsWRKY70) but decreased the induced levels of ethylene.
+sent-335: 34830062 Silencing OsI-BAK1 (ir-ibak1) in rice enhanced the BPH-induced transcript levels of three defense-related WRKY genes (OsWRKY24, OsWRKY53 and OsWRKY70) but decreased the induced levels of ethylene.
+sent-336: 34830062 Silencing OsI-BAK1 (ir-ibak1) in rice enhanced the BPH-induced transcript levels of three defense-related WRKY genes (OsWRKY24, OsWRKY53 and OsWRKY70) but decreased the induced levels of ethylene.
+sent-337: 34830062 Silencing OsI-BAK1 (ir-ibak1) in rice enhanced the BPH-induced transcript levels of three defense-related WRKY genes (OsWRKY24, OsWRKY53 and OsWRKY70) but decreased the induced levels of ethylene.
+sent-338: 34542712 By contrast, knockdown of HDA704 in transgenic rice decreased stomatal closure and accelerated the rate of water loss, leading to decrease drought and salt tolerance.
+sent-339: 33429329 Silencing of rice PPR gene PPS1 exhibited enhanced sensibility to abiotic stress and remarkable accumulation of ROS.
+sent-340: 34679114 The silencing of the OsSYT-5 gene affected the expression of several genes associated with ABA-related stress signaling in the transgenic rice plants.
+sent-341: 33950284 Mutant seeds had yellowish pericarps and exhibited embryonic lethality, with significantly reduced grain size and weight.
+sent-342: 34476681 Upon Xanthomonas oryzae infection, the rerj1-Tos17 mutant developed more severe symptoms than the wildtype.
+sent-343: 33098731 Mutation of G-protein gamma subunit DEP1 increases planting density and resistance to sheath blight disease in rice.
+sent-344: 36480554 Targeted disruption of SRSF1 and SRSF6 in human cells led to embryo lethality or cancer.
+sent-345: 34890109 These results demonstrated that knockout of Pi21 or ERF922 in LK638S background can improve resistance against bacterial blight disease.
+sent-346: 34890109 These results demonstrated that knockout of Pi21 or ERF922 in LK638S background can improve resistance against bacterial blight disease.
+sent-347: 35163555 The significant increase in NA concentration in iro3 mutant root tissues under Fe deficiency is likely due to increased OsNAS3 expression in iro3 mutants relative to WT plants (Figure 4c).
+sent-348: 36217105 Gain-of-function mutant of OsIAA10, proteins at the nexus of the auxin signaling, enhances the rice dwarf virus infection and disease development.
+sent-349: 35163610 The overexpression of soybean CDCP genes, namely GmCBS21 and GmCBSDUF3, have been reported to impart tolerance to low nitrogen and multiple abiotic stresses, respectively.
+sent-350: 35162989 Overexpression or inhibition of OsDER1 would activate the unfolded protein response, making rice more sensitive to ER stress and significantly increasing the ubiquitinated protein level.
+sent-351: 35850632 Silencing of Osa-miR162 showed positive effects on yield by increasing the number of grains per panicle during M. oryzae infection.
+sent-352: 35212723 Finally, they observed that CRISPR knockout of OsGSK2 caused increased LR density and overexpression of OsGSK2 caused decreased LR density (Figure 1B), suggesting that OsGSK2 inhibits LR development.
+sent-353: 35159378 Moreover, overexpression of the rice PC synthesis genes OsPCS5 and OsPCS15 in ycf1, a loss-of-function mutant of YCF1, can enhance the resistance of ycf1 to Cd toxicity (Table 1).
+sent-354: 35159378 Moreover, overexpression of the rice PC synthesis genes OsPCS5 and OsPCS15 in ycf1, a loss-of-function mutant of YCF1, can enhance the resistance of ycf1 to Cd toxicity (Table 1).
+sent-355: 35628595 In contrast, the rice sprl1 mutant had more necrotic lesions under HL conditions but had only a few necrotic lesions under LL conditions and had no necrotic lesion under dim light (DL) conditions.
+sent-356: 35628595 In contrast, the rice sprl1 mutant had more necrotic lesions under HL conditions but had only a few necrotic lesions under LL conditions and had no necrotic lesion under dim light (DL) conditions.
+sent-357: 36514007 Therefore, these results together showed that the mutations of NY1 and EAT1 cause similar reproductive defects during tapetum degeneration.
+sent-358: 36514007 Therefore, these results together showed that the mutations of NY1 and EAT1 cause similar reproductive defects during tapetum degeneration.
+sent-359: 35897795 IDD13 and IDD14 mutants were more susceptible to R. solani infection, while the OX plants were less susceptible.
+sent-360: 35054782 This suggests that the mutation of OsSGT1 affected MT-induced synthesis of endogenous ABA, JA, and SA under drought stress.
+sent-361: 35054782 This suggests that the mutation of OsSGT1 affected MT-induced synthesis of endogenous ABA, JA, and SA under drought stress.
+sent-362: 35054782 This suggests that the mutation of OsSGT1 affected MT-induced synthesis of endogenous ABA, JA, and SA under drought stress.
+sent-363: 35681491 Figure S4: Effect of the rs33 mutation on global gene expression under cold stress.
+sent-364: 35321646 Rice PaO deficiency can also affect the expression of CAO and rccR, accumulate O2-, and increase chlorophyll degradation, which is consistent with that observed in lses1 mutant (Fig.
+sent-365: 36499202 In our assay, the expression levels of OsNAS1, OsNAS2, OsTOM1, OsYSL15, OsNAAT1, and OsIRO2 were strongly induced by Fe deficiency, but this process was unaffected by the osbhlh057 mutants.
+sent-366: 36499202 In our assay, the expression levels of OsNAS1, OsNAS2, OsTOM1, OsYSL15, OsNAAT1, and OsIRO2 were strongly induced by Fe deficiency, but this process was unaffected by the osbhlh057 mutants.
+sent-367: 36499202 In our assay, the expression levels of OsNAS1, OsNAS2, OsTOM1, OsYSL15, OsNAAT1, and OsIRO2 were strongly induced by Fe deficiency, but this process was unaffected by the osbhlh057 mutants.
+sent-368: 36499202 In our assay, the expression levels of OsNAS1, OsNAS2, OsTOM1, OsYSL15, OsNAAT1, and OsIRO2 were strongly induced by Fe deficiency, but this process was unaffected by the osbhlh057 mutants.
+sent-369: 36499202 In our assay, the expression levels of OsNAS1, OsNAS2, OsTOM1, OsYSL15, OsNAAT1, and OsIRO2 were strongly induced by Fe deficiency, but this process was unaffected by the osbhlh057 mutants.
+sent-370: 35163275 Similarly, the rice SAH single and double mutants showed elevated SA and jasmonate levels and attenuated disease susceptibility to different lifestyle pathogens (Figure 2 and Figure 3).
+sent-371: 36513418 Mutation in TUTOU1 that encodes a SUPPRESSOR OF CAMP RECEPTOR (SCAR) like protein also exhibited the apical degeneration phenotype due to disorganization of actin.
+sent-372: 35163610 Mutations in the CBS domain of different CDCPs in humans have been identified to be associated with several hereditary disorders, which implies an indispensable role of CBS domains or broadly CDCPs.
+sent-373: 36259725 The deletion of MoFpk1 leads to PE and PS turnover defects (Table S3) and a series of lipid disorders (Fig.
+sent-374: 35239255 In Arabidopsis, both PANDA441aa /alp1 and PANDA397aa /alp1 can restore the alp1 mutant to wild type in terms of branch number and organ size (Figure 2c-f; Figures S14, S15 and S18).
+sent-375: 35239255 In Arabidopsis, both PANDA441aa /alp1 and PANDA397aa /alp1 can restore the alp1 mutant to wild type in terms of branch number and organ size (Figure 2c-f; Figures S14, S15 and S18).
+sent-376: 35239255 In Arabidopsis, both PANDA441aa /alp1 and PANDA397aa /alp1 can restore the alp1 mutant to wild type in terms of branch number and organ size (Figure 2c-f; Figures S14, S15 and S18).
+sent-377: 36328747 Rice TDD1 is expressed in the tips of leaves, roots, and vascular bundles; its mutant tdd1 produces abnormal flowers and dwarf plants with narrow leaves.
+sent-378: 36328747 Rice TDD1 is expressed in the tips of leaves, roots, and vascular bundles; its mutant tdd1 produces abnormal flowers and dwarf plants with narrow leaves.
+sent-379: 36142568 For example, SOS2 is able to physically interact with ABI2 and it is disrupted by the abi2-1 mutation, which causes increased tolerance to salt shock and ABA insensitivity in plants.
+sent-380: 36142568 For example, SOS2 is able to physically interact with ABI2 and it is disrupted by the abi2-1 mutation, which causes increased tolerance to salt shock and ABA insensitivity in plants.
+sent-381: 36514007 These results together showed that the mutations of NY1 and EAT1 cause similar reproductive defects during tapetum degeneration, which ultimately lead to partial pollen abortion in mutants.
+sent-382: 36514007 These results together showed that the mutations of NY1 and EAT1 cause similar reproductive defects during tapetum degeneration, which ultimately lead to partial pollen abortion in mutants.
+sent-383: 36255375 Because Mn is an essential micronutrient functioning, among others, in PSII, knockout mutants of OsNRAMP5 grew poorly under conditions of low Mn supply and exhibited typical Mn deficiency symptoms.
+sent-384: 36142250 Functional complementation using the WT allele rescued the mutation, and transcription of SS3 was induced by salt stress.
+sent-385: 34476681 Upon Xanthomonas oryzae infection, the rerj1-Tos17 mutant developed more severe symptoms than the wildtype.
+sent-386: 35078247 Brassinosteroid treatment increased the LR number, as did mutation of GSK3/SHAGGY-like kinase 2 (OsGSK2), whereas overexpression of OsGSK2 decreased the LR number.
+sent-387: 35078247 Brassinosteroid treatment increased the LR number, as did mutation of GSK3/SHAGGY-like kinase 2 (OsGSK2), whereas overexpression of OsGSK2 decreased the LR number.
+sent-388: 36233067 Expression analysis of rice ZIP family genes suggested that the knockout of OsNAC15 activates or inhibits their transcriptions under Zn deficiency or Cd stress conditions.
+sent-389: 34983834 QHB/OsWOX5 was isolated as a causative gene of a mutant that is defective in S-type LR formation but produces more L-type LRs than wild-type (WT) plants following root tip excision.
+sent-390: 34983834 QHB/OsWOX5 was isolated as a causative gene of a mutant that is defective in S-type LR formation but produces more L-type LRs than wild-type (WT) plants following root tip excision.
+sent-391: 34983834 QHB/OsWOX5 was isolated as a causative gene of a mutant that is defective in S-type LR formation but produces more L-type LRs than wild-type (WT) plants following root tip excision.
+sent-392: 34983834 The qhb mutants had higher OsWOX10 expression than WT after root tip excision.
+sent-393: 36077191 The lpat2 mutant was more susceptible to osmotic stress and less sensitive to abscisic acid (ABA) than that of WT, which was recovered by either PA supplementation or genetic LPAT2 complementation.
+sent-394: 36077191 The lpat2 mutant was more susceptible to osmotic stress and less sensitive to abscisic acid (ABA) than that of WT, which was recovered by either PA supplementation or genetic LPAT2 complementation.
+sent-395: 36077191 The lpat2 mutant was more susceptible to osmotic stress and less sensitive to abscisic acid (ABA) than that of WT, which was recovered by either PA supplementation or genetic LPAT2 complementation.
+sent-396: 36440495 Here, we observed that mutation in indeterminate domain 10 (IDD10), a key transcription factor in NH4 + signaling, led to NH4 + -sensitive root growth in light but not in dark.
+sent-397: 36073837 Whole-genome bisulfite sequencing analysis of seeds at 15 days after pollination revealed much higher global methylation levels of CG, CHG and CHH contexts in the osdml4 mutants compared to wild type.
+sent-398: 35897795 The IDD12, IDD13, and IDD14 mutants also proved the additive effect of the three IDDs on MDPK expression, which regulates ShB resistance in rice.
+sent-399: 35897795 The IDD12, IDD13, and IDD14 mutants also proved the additive effect of the three IDDs on MDPK expression, which regulates ShB resistance in rice.
+sent-400: 35381246 Knockout of OsNRAMP5 enhances rice tolerance to cadmium toxicity in response to varying external cadmium concentrations via distinct mechanisms.
+sent-401: 35084629 CONCLUSIONS: Aroma production in Biriyanicheera variety is observed to be due to the similar mutation in BADH2 gene as that of the popular scented rice Basmati.
+sent-402: 35189402 Previous studies revealed that mutations in the rice ABNORMAL CYTOKININ RESPONSE1 (ABC1) gene encoding Fd-GOGAT cause a typical nitrogen deficiency syndrome.
+sent-403: 35189402 Previous studies revealed that mutations in the rice ABNORMAL CYTOKININ RESPONSE1 (ABC1) gene encoding Fd-GOGAT cause a typical nitrogen deficiency syndrome.
+sent-404: 34718775 Loss of OsWRKY5 activity increased sensitivity to ABA, thus promoting ABA-dependent stomatal closure.
+sent-405: 35806236 Deletion of Diterpenoid Biosynthetic Genes CYP76M7 and CYP76M8 Induces Cell Death and Enhances Bacterial Blight Resistance in Indica Rice '9311'.
+sent-406: 35806236 Deletion of Diterpenoid Biosynthetic Genes CYP76M7 and CYP76M8 Induces Cell Death and Enhances Bacterial Blight Resistance in Indica Rice '9311'.
+sent-407: 36982870 The mutation of OsPPR6 can lead to abnormal chloroplast development and death due to albinism.
+sent-408: 36734269 Discovery of the semi-dwarf1 (SD1) mutation initiated the Green Revolution, boosting rice yield and fitness, but the underlying genetic regulation of PH in rice remains largely unknown.
+sent-409: 36734269 Discovery of the semi-dwarf1 (SD1) mutation initiated the Green Revolution, boosting rice yield and fitness, but the underlying genetic regulation of PH in rice remains largely unknown.
+sent-410: 36982409 Knockout Mutants of OsPUB7 Generated Using CRISPR/Cas9 Revealed Abiotic Stress Tolerance in Rice.
+sent-411: 36440495 Here, we observed that mutation in indeterminate domain 10 (IDD10), a key transcription factor in NH4 + signaling, led to NH4 + -sensitive root growth in light but not in dark.
+sent-412: 36823690 SAL1 was found to interact with and inhibit the activity of PM H + -ATPases, and mutation of SAL1 increased PM H + -ATPase activity and Al uptake, causing hypersensitivity to internal Al toxicity.
+sent-413: 36437699 The DL-reduced BPH resistance is relieved in osphyB mutants, but aggravated in OsPHYB overexpressing plants.
+sent-414: 36437699 The DL-reduced BPH resistance is relieved in osphyB mutants, but aggravated in OsPHYB overexpressing plants.
+sent-415: 37010621 FLOURY ENDOSPERM 6 mutations enhance the sugary phenotype caused by the loss of ISOAMYLASE1 in barley.
+sent-416: 20215431 On the other hand, the expansion of AAG repeats in intron 1 of the FXN gene is known to cause the recessive disorder Friedreich ataxia (MIM #229300).
+sent-417: 20587534 As has been observed previously, knockdown of endogenous RPA1 causes an accumulation of cells in S- and G2/M-phase (Figure 2A, compare left two panels).
+sent-418: 20587534 In contrast to wild-type RPA1, expression of GFP-RPA1(L221P) resulted in S-phase and G2/M populations similar to the RPA1-depleted phenotype (Figure 2A, rightmost panel).
+sent-419: 20587534 In contrast to wild-type RPA1, expression of GFP-RPA1(L221P) resulted in S-phase and G2/M populations similar to the RPA1-depleted phenotype (Figure 2A, rightmost panel).
+sent-420: 20061189 These include Werner syndrome, Bloom's syndrome, and Rothmund-Thomson syndrome that have mutations in the WRN, BLM, and RECQ4 genes, respectively.
+sent-421: 20061189 These include Werner syndrome, Bloom's syndrome, and Rothmund-Thomson syndrome that have mutations in the WRN, BLM, and RECQ4 genes, respectively.
+sent-422: 21156806 Moreover, overexpression of TOM1 or HvTOM1 resulted in increased tolerance of Fe deficiency.
+sent-423: 21107422 Mutations in the homologue CiSWEET1/Ci-RGA from the sea squirt Ciona leads to early developmental defects, underlining the importance of SWEETs in metazoa.
+sent-424: 20620097 Like the pea GI mutant, GIH1 RNAi induces arrhythmic expression of clock markers, suggesting that GIH1 plays an important role in the circadian clock in duckweed.
+sent-425: 20838584 Therefore, overexpression of EUI causes a dwarf phenotype whereas mutation within this gene increases the internode length in rice.
+sent-426: 20624295 We reasoned that if fbw2 mutations increase AGO1 levels this should result in increased miRNA activity and produce the opposite phenotype, namely, hyposensitivity to ABA.
+sent-427: 20498118 Another explanation for the more severe phenotypes of the d3-1 mutants is that D3 may have roles in SL-independent processes.
+sent-428: 20808518 In this study, silencing of both CBL1  and CIPK15  resulted in ABA hypersensitive phenotype.
+sent-429: 20803423 The effects of uncoupling protein 1 and beta3-adrenergic receptor gene polymorphisms on weight loss and lipid profiles in obese women.
+sent-430: 20803423 The effects of uncoupling protein 1 and beta3-adrenergic receptor gene polymorphisms on weight loss and lipid profiles in obese women.
+sent-431: 20385831 Rice lines silenced for Xb24 display enhanced XA21-mediated immunity, whereas rice lines overexpressing XB24 are compromised for immunity.
+sent-432: 21613379 Expression of OsGMST1 in sgb1-2 mutants rescued the short hypocotyl phenotype to the wild type (P=0.634) (Fig.
+sent-433: 21533105 Cell death lesions resulting from reaction oxidative species (ROS) are associated with F. oxysporum infection in the Arabidopsis cpr5/hys1 mutant, but with growth restriction of F. oxysporum f. sp.
+sent-434: 21814458 Therefore, it is not surprising that the mutations impairing BRCT domain structures or functions in some proteins, such as BRCA1, may lead to tumors or cancers.
+sent-435: 21209026 Introduction of the semi-dominant Bc6 mutant gene into wild-type rice significantly reduced the percentage of cellulose, causing brittle phenotypes.
+sent-436: 21248166 NKCC2, which is mutated in Bartter's disease Type I, displays increased phosphorylation and activity under low Cl- hypotonic conditions.
+sent-437: 21283781 Ku80 and the Mosho1 mutant caused numerous lesions on inoculated leaves.
+sent-438: 21248166 This study proposed that dysregulation of an estrogen receptor-MAP3K signaling network, of which WNK1 is a part, may play a role in the development of osteoporosis.
+sent-439: 21248166 This study proposed that dysregulation of an estrogen receptor-MAP3K signaling network, of which WNK1 is a part, may play a role in the development of osteoporosis.
+sent-440: 21248166 Wilson and colleagues showed that this deletion leads to increased expression of WNK1, although this was only assessed in lymphocytes.
+sent-441: 21248166 Mice lacking WNK1 throughout the body died between E10.5 and E12.5, and displayed multiple cardiovascular abnormalities, resulting in pericardial edema and widespread hemorrhaging.
+sent-442: 21253568 Thus, MEL2 function may be required not only for meiotic entry, but also for synchronous tapetal-cell binucleation, the disruption of which may induce hypertrophy and precocious tapetal-cell death.
+sent-443: 21984651 This shift in amylopectin chain lengths agrees with the enhanced SSI and depressed PUL activities in the mutant (Fig.
+sent-444: 21248166 Regulation of the C subunit in particular may play an important role in squamous cell carcinoma, in which mutations of WNK3 have been identified (Table 5).
+sent-445: 21248166 Mutations in ENaC that eliminate the PY motifs result in increased ENaC activity and Liddle syndrome, a Mendelian form of hypertension.
+sent-446: 21248166 More recently, a different mutation in WNK1 was identified as the cause of hereditary sensory and autonomic neuropathy type II (HSANII), an early-onset autosomal disease of peripheral sensory nerves.
+sent-447: 22194889 Our data suggests that PR-ASG enhances IGF-1 production in STZ-diabetic rat islet beta-cells and INS-1 cells by the same mechanism.
+sent-448: 22195734 Similarly, truncation of a domain with a glutamine rich region in SEU (SEUSS) can cause severe developmental defects.
+sent-449: 21209026 Introduction of the semi-dominant Bc6 mutant gene into wild-type rice significantly reduced the percentage of cellulose, causing brittle phenotypes.
+sent-450: 21807436 Knockdown of OsPAO and OsRCCR1 cause different plant death phenotypes in rice.
+sent-451: 21631533 Current studies, particularly in Arabidopsis, have demonstrated that mutants deficient in cytosolic ascorbate peroxidases (APXs) are susceptible to the oxidative damage induced by abiotic stress.
+sent-452: 21317339 Furthermore, the elongation of primary and adventitious roots was enhanced in the ltn1 mutant under Pi starvation, suggesting that LTN1 is involved in Pi-dependent root architecture alteration.
+sent-453: 22194889 CONCLUSION/SIGNIFICANCE: These findings suggest that PR-ASG may affect pancreatic beta-cells through the activation of an IGF-1-dependent mechanism in the diabetic condition.
+sent-454: 21963665 Here, we characterized the rice (Oryza sativa) lax panicle2 (lax2) mutant, which has altered AM formation.
+sent-455: 22606025 For example, both culm brittleness of rice mutants (BC1, 3, 5, 7, 10) and barley mutants are caused by decreased cellulose content.
+sent-456: 22704619 Though single mutants do not exhibit enhanced local resistance, overexpressing either one of them decreases local SA accumulation and increases plant susceptibility to Pseudomonas syringae infection.
+sent-457: 22611335 In humans, two polycystic kidney disease (PKD) forms are caused by mutations in the PKD1 and PKD2 genes (autosomal, dominant) or in PKHD1 (autosomal recessive,).
+sent-458: 22920995 Double KO mutants of these genes have higher BT levels but lower levels of SAT and LAT than that of the wild type.
+sent-459: 22920995 Double KO mutants of these genes have higher BT levels but lower levels of SAT and LAT than that of the wild type.
+sent-460: 22737387 Some mutations in rhodopsin, which result in the production of misfolded proteins, lead to retinitis pigmentosa (RP).
+sent-461: 23048127 These SSII-deficient mutants also accumulated a modified amylopectin, which was enriched with short chains with DP <=12, instead of intermediate length chains with DP 13-24 (mostly B1 chains).
+sent-462: 23048127 These SSII-deficient mutants also accumulated a modified amylopectin, which was enriched with short chains with DP <=12, instead of intermediate length chains with DP 13-24 (mostly B1 chains).
+sent-463: 22666315 In addition, Ghd7 is a pleiotropic gene and changes to Ghd7 protein may result in changes in the three traits (PH, HD and SPP) simultaneously.
+sent-464: 22666315 In accordance with this, the SNP S_555 in the promoter region was associated with the expression level of Ghd7 and PH rather than HD and SPP.
+sent-465: 23170937 The ability of OsSUT1 and OsSUT1(R188K) to rescue the dwarf phenotype of Arabidopsis atsuc2 mutants was also tested.
+sent-466: 22638584 Mutations in XPF-ERCC1, an NER repair pathway structure-dependent endonuclease, are one of the primary causes of xeroderma pigmentosum (XP).
+sent-467: 22638584 Mutations in XPF-ERCC1, an NER repair pathway structure-dependent endonuclease, are one of the primary causes of xeroderma pigmentosum (XP).
+sent-468: 23020586 AT-less promoters (14.36%) are overestimated in uterus while CG-less and ATCG-balanced promoters are overestimated in testis (Additional file 4: Figure S10E,F,H online).
+sent-469: 22860020 GS is found as two isoforms, cytoplasmic GS1 and chloroplastic GS2, catalyzing the ATP-dependent conversion of glutamine to glutamate.
+sent-470: 22860020 GS is found as two isoforms, cytoplasmic GS1 and chloroplastic GS2, catalyzing the ATP-dependent conversion of glutamine to glutamate.
+sent-471: 22860020 GS is found as two isoforms, cytoplasmic GS1 and chloroplastic GS2, catalyzing the ATP-dependent conversion of glutamine to glutamate.
+sent-472: 22479462 For example, position E152 (corresponding to E141K mutation in alphaTTP) is associated with the disease 'Ataxia with Vitamin E deficiency' (AVED).
+sent-473: 23152915 Compared to its wild-type, Arabidopsis GST-deficient mutant atgstu17 has more tolerant of drought and salt stresses and accumulates higher levels of GSH and ABA.
+sent-474: 22792078 Previous studies have shown that the rice zep1 mutant retains CO formation and successful equal homolog segregation, which renders it difficult to unravel the exact role of SC in rice.
+sent-475: 22483849 Additionally, in an auxin overproducing mutant, yucca, FIT and FRO2 expression were increased in Fe deficiency compared to WT.
+sent-476: 22999234 However, all CMVarII variants were able to initiate systemic infections in N. benthamiana and zucchini squash plants (Additional file 6: Figure S6).
+sent-477: 23217057 In this study we used a rice waxy mutant to gain molecular insights into how amylose deficiency affects carbon allocation in cereal seeds.
+sent-478: 22969430 To test whether CAP1 is functional in S. cerevisiae, the CAP1 ORF was cloned into pYES2 and transformed into the srv2 mutant, which is hypersensitive to osmotic and oxidative stresses.
+sent-479: 23056373 Due to their predicted biological activities, it may be speculated F-sial might be involved in tumor formation, whereas F-M04 might protect the infected cells from NK cell activity.
+sent-480: 22690124 The mutation affects OXPHOS and metabolism by limiting respiratory substrates such as NADH due to the deficiency in CI function.
+sent-481: 23123451 FKBP12 mice mutants show early embryonic death due to cardiac defects.
+sent-482: 22483849 In addition to IRT1 and FRO2, FIT is induced in the epidermis of the root upon Fe-deficiency and like the irt1 mutant, fit is seedling lethal unless watered with supplemental Fe.
+sent-483: 23056373 Finally, transcripts of F-sial and F-M04 but not transcripts of lytic viral genes were detected in tumors from Hawaiian FP-cases.
+sent-484: 22558413 PH1 is an inherited disease characterized by increased oxalate production from accumulated glyoxylate when AGT is deficient, leading to renal failure.
+sent-485: 22558413 PH1 is an inherited disease characterized by increased oxalate production from accumulated glyoxylate when AGT is deficient, leading to renal failure.
+sent-486: 22558386 However, in this study silencing OsCOI1 did not increase BPH-induced SA levels (Fig.
+sent-487: 22558386 However, in this study silencing OsCOI1 did not increase BPH-induced SA levels (Fig.
+sent-488: 22859673 Some mutants of Arabidopsis RecA/RAD51 family members (RAD51, RAD51C, XRCC3, and DMC1) cause abnormalities in meiosis, including chromosome fragmentation and defective homologue pairing and synapsis.
+sent-489: 22969430 Deletion of the MAC1 adenylate cyclase gene affected appressorium formation and plant infection.
+sent-490: 22960246 Our results indicate that OsSPL14 can be used to manipulate the branching patterns of SL-deficient mutants.
+sent-491: 22267486 By contrast, gene silencing of CEBiP in rice allows M. oryzae to cause rice blast disease in the absence of Slp1.
+sent-492: 24218324 The evidence that mutations in the RTN2 gene cause the autosomal dominant spastic paraplegia 12 (SPG12) was very recently demonstrated by our group (Montenegro et al.).
+sent-493: 23755057 Apart from Glc, T6P signaling may also affect mitosis activity in early embryo, as Arabidopsis TPS1-deficient mutant (tps1) shown slower embryo development compare to that of wild-type.
+sent-494: 24418554 However, we were consistently able to observe a 5-6 fold increase at 2 dpi and 2-3 fold increase at 4 dpi in levels of TIP in SL in both wt and mutant virus infections.
+sent-495: 24280112 For example, overexpression of drought-responsive OsDSM2 (Drought-hypersensitive mutant2) and OsCam1-1 genes led to accumulation of ABA and tolerance to salt stress in rice.
+sent-496: 24280112 For example, overexpression of drought-responsive OsDSM2 (Drought-hypersensitive mutant2) and OsCam1-1 genes led to accumulation of ABA and tolerance to salt stress in rice.
+sent-497: 24280112 For example, overexpression of drought-responsive OsDSM2 (Drought-hypersensitive mutant2) and OsCam1-1 genes led to accumulation of ABA and tolerance to salt stress in rice.
+sent-498: 23818893 Transpiration was reduced and stomata closure was more efficient in knock-out plants treated with ABA.
+sent-499: 23612324 Similarly, a loss-of-function mutation in the Arabidopsis D14 ortholog, AtD14, also conferred increased shoot branching and SL-insensitivity.
+sent-500: 24286285 For example in mouse, a dominant mutation within the DNA-binding domain of the bZIP TF Maf causes murine cataracts and results in selective alterations to DNA binding.
+sent-501: 23888162 Alcohol dehydrogenase (adh) deficient rad mutant accumulated pyruvate, which could accelerate respiration and lead to anoxia and irreparable cell damage.
+sent-502: 23641184 A nonsense mutation in the second exon of GS3 results in an increase in cell number, resulting in stigma elongation.
+sent-503: 24253678 Knockdown of a Lotus japonicus HRZ homologue, LjnsRING, reduces symbiotic infection, whereas silencing of another HRZ homologue in tobacco, TARF, enhances tobacco mosaic virus infection.
+sent-504: 23888162 These expansins EXPA1, EXPB11, and EXPB17 were differentially expressed in the rad mutant in comparison with the control, and were affected by deficiency in ADH1.
+sent-505: 23888162 These expansins EXPA1, EXPB11, and EXPB17 were differentially expressed in the rad mutant in comparison with the control, and were affected by deficiency in ADH1.
+sent-506: 23888162 These expansins EXPA1, EXPB11, and EXPB17 were differentially expressed in the rad mutant in comparison with the control, and were affected by deficiency in ADH1.
+sent-507: 23888162 These expansins EXPA1, EXPB11, and EXPB17 were differentially expressed in the rad mutant in comparison with the control, and were affected by deficiency in ADH1.
+sent-508: 23519729 The second clade comprises AtCSLD2, AtCSLD3, OsCSLD1, and ZmCSLD5, and their mutations cause aberrant root-hair development.
+sent-509: 23761487 The Cd-hypersensitive ycf1 mutant transformed with OsMTP1 clearly confers tolerance to low levels of Cd (Fig.
+sent-510: 24313842 In Arabidopsis, Galpha mutations have developmental effects such as fewer stomata, altered leaf morphology, short hypocotyls, and altered signal transduction.
+sent-511: 24336200 D14 encodes a member of alpha/beta-hydrolase fold family protein and is proposed to be a candidate SL receptor, and D3 encodes a Leu-rich repeat F-box protein and participates in SL perception.
+sent-512: 23252338 Ile71 (3.7 A to the O3' in FMN tail) and Leu101 (3.8 A to FMN C7) contact the re-face of the flavin ring and influence solvent access in the FMN binding pocket (Fig.
+sent-513: 23638690 Overexpression of TLD1/OsGH3.13 in the rice tld1-D mutant resulted in IAA deficiency, dramatic changes in plant architecture, and enhanced drought tolerance.
+sent-514: 23382802 These results indicate that eIF(iso)4E is involved in PPV infection in plum, and that silencing of eIF(iso)4E expression can lead to PPV resistance in Prunus species.
+sent-515: 23785469 A mutation just outside this conserved region in human Piezo1 ( Figure 3A ) occurs in familial xerocytosis and alters channel gating.
+sent-516: 24174542 In a second expression construct (HD), a point mutation was introduced in the Walker A box leading to GGGMSLT instead of GGGKSLT, as already characterized for HsWRN, AtRECQ2 and AtRECQ3.
+sent-517: 23437172 Consistently, auxin insensitive mutants exhibit reduced dormancy and exogenous auxin induces ABA hypersensitivity in germinating seeds.
+sent-518: 24174542 Mutations in the human RecQ helicase gene BLM lead to BS, a hereditary disease associated with genomic instability and a predisposition for cancer.
+sent-519: 24174542 Functional analysis of BLM in living mammals is difficult because homozygous mutations of BLM cause embryonic lethality in different mouse models.
+sent-520: 24299927 A spontaneous rice mutant, erect leaf1 (elf1-1), produced a dwarf phenotype with erect leaves and short grains.
+sent-521: 24094741 Rice mutant lines lacking a functional DAO display increased levels of free IAA in anthers and ovaries.
+sent-522: 24143807 Transgenic plants overexpressing OsSIK2 and mutant sik2 exhibit enhanced and reduced tolerance to salt and drought stress, respectively, compared with the controls.
+sent-523: 23289852 Rice faded green leaf (fgl) mutants develop yellow/white leaf variegation and necrotic lesions during leaf elongation in field-grown plants.
+sent-524: 24312593 Down-regulation of OsSPX1 causes high sensitivity to cold and oxidative stresses in rice seedlings.
+sent-525: 25166276 Our approach exposes allelic variants regulating HR since the Rp1-D21 perturbs the system at the very onset of HR initiation.
+sent-526: 25248950 showed that specific variants of miR171 control RL symbiosis in Lotus japonicus and AM fungal colonization in M. truncatula, respectively.
+sent-527: 25008153 The SH3 domain is the site of causal mutations in several individuals affected by Zellweger syndrome.
+sent-528: 24498428 In addition, mutation or strongly overexpression of SD37 results in dwarf plants but moderate overexpression increases plant height.
+sent-529: 24498428 In addition, mutation or strongly overexpression of SD37 results in dwarf plants but moderate overexpression increases plant height.
+sent-530: 25171859 Recent work suggests that mutations in SA2 are found in human tumours.
+sent-531: 25375356 Generally, the variation in some individual traits in the population, such as PRL0d and seed weight, might affect the phenotype of the QW DH population in response to B deficiency.
+sent-532: 24795740 Despite the lack of induction of SA-dependent defense signaling, Arabidopsis mutant plants with high SA levels strongly reduce while those with low SA levels promote tumor growth.
+sent-533: 24974934 Aberrant methylation pattern of the CTCF binding sites of an imprint gene Igf2/H19 causes the development of Beckwith-Wiedemann Syndrome (BWS).
+sent-534: 24512148 A prime example of this is Leber's hereditary optic neuropathy in human where a mitochondrial mutation in an oxidative phosphorylation gene only affects retinal ganglion cells.
+sent-535: 24840062 In addition, AP2/ERF and SRS families were regulated only with short- and long-term Hg treatment, respectively.
+sent-536: 24480542 This is the first time that mutation of a protein of the minor spliceosome has been implicated in patients with isolated GH deficiency.
+sent-537: 25250324 AKT (protein kinase B PKB), a serine/threonine specific protein kinase activation, promotes cell growth, survival, and upregulation of ER-UDP hydrolysis enzyme as observed in human cancers.
+sent-538: 24559590 Such variants of CAM increase WUE and water absorption, resulting in an extension of the plant's life cycle and thus improve reproductive success under water-deficit stress.
+sent-539: 24482761 Xoo strains mutated in raxST, raxA, raxB or raxC can evade XA21-mediated immunity to different degrees and form long disease lesions on rice expressing the XA21 receptor.
+sent-540: 24670252 The changes in amylopectin chain-length distribution were examined in four ss1 allelic mutants, in which Tos17 was inserted into the SSI gene in different positions.
+sent-541: 25275148 Unlike PUB12/13, XB3 positively regulates XA21 signaling and silencing XB3 increases rice susceptibility to Xoo infection.
+sent-542: 24901798 The discontinuities/gaps of ZEP1 signals indicate that the SC integrity might be slightly affected by the mutation of OsHUS1.
+sent-543: 25426127 For instance, rice plants mutated in the hydroperoxide lyase OsHPL3 display strongly enhanced JA levels concomitant with increases in SA production and heightened expression of SA-responsive PR genes.
+sent-544: 25426127 For instance, rice plants mutated in the hydroperoxide lyase OsHPL3 display strongly enhanced JA levels concomitant with increases in SA production and heightened expression of SA-responsive PR genes.
+sent-545: 25103824 For example, Pu and colleagues reported that three miRNA SNPs (i.e., rs713065, rs6886834 and rs2234978) were associated with clinical outcomes in early-stage NSCLC patients.
+sent-546: 25431577 In the case of OsSSI2, the complete loss-of-function mutation of its gene negatively affected plant growth, because of the constitutive activation of the SA pathway.
+sent-547: 25266270 In fact, hypothesized that OsSERK1 serves as OsBAK1, mainly based on the ability of OsSERK1 to restore the dwarf phenotype of the Arabidopsis bri1-5 mutant.
+sent-548: 25266270 In fact, hypothesized that OsSERK1 serves as OsBAK1, mainly based on the ability of OsSERK1 to restore the dwarf phenotype of the Arabidopsis bri1-5 mutant.
+sent-549: 25226037 Finally, of the candidate targets of HRA1, only HUP7 and HRA1 itself (Figure 4A and Table S4) were constitutively up-regulated by HA-RAP2.12 and less hypoxia-induced in OE-HRA1 plants (Figure S14C).
+sent-550: 25273267 However, when exposed to high levels of Cu, the induction of CSD1 and CSD2 mRNA by the down-regulation of miR398 is necessary to activate antioxidant systems.
+sent-551: 25273267 However, when exposed to high levels of Cu, the induction of CSD1 and CSD2 mRNA by the down-regulation of miR398 is necessary to activate antioxidant systems.
+sent-552: 24521882 In the context of Xenopus oocytes, inhibition of PP2A promotes G2/M transition by enabling the activation of the M-Phase Promoting Factor, universal factor of M-Phase entry.
+sent-553: 24505448 This revealed that the majority of cell wall biosynthesis-related genes (CHS1 to CHS6 and GLS1) were up-regulated in the absence of PAX1 and LRG1 (Fig.
+sent-554: 25221560 Mutations that alter circadian clock rhythms can also up regulate FT1 and reduce photoperiod sensitivity, loss of EARLY FLOWERING 3 (ELF3, MAT.a8) or PHYTOCLOCK1/LUX1 function, for example.
+sent-555: 25221560 Variation that influences development irrespective of environmental cues, often referred to as the EARLINESS PER SE (EPS), has also been utilized in crop breeding.
+sent-556: 24632777 Mutation of the GAMYB in Arabidopsis (myb33myb65) results in shorter filaments, pollen abortion and male sterile, similar to the GA-insensitive phenotype.
+sent-557: 25352853 Suspension cells expressing CA-OsRac1 accumulate lignin through enhanced OsCCR1 activity and increased ROS production.
+sent-558: 25153631 Tobacco rattle virus (TRV)-mediated silencing of epsilon-LCY in Nicotiana benthamiana resulted in an increase of beta-branch carotenoids and a reduction in the levels of alpha-branch carotenoids.
+sent-559: 25177324 Over-expression of OsPIN2 results in a larger tiller angle, reduced plant height and an increase in tillers number compared to wild type.
+sent-560: 25177324 Over-expression of OsPIN2 results in a larger tiller angle, reduced plant height and an increase in tillers number compared to wild type.
+sent-561: 24596173 Second, in tomato and Arabidopsis, LR density was increased in SL mutants, suggesting that SLs affect LR formation.
+sent-562: 25342325 Silencing of these cryptic promoters is established first through the RNA-directed DNA Methylation (RdDM) pathway and results in methylation at cytosine residues at CG, CHG and CHH sequence contexts.
+sent-563: 25349712 Expansion of GAA trinucleotide repeats in this gene leads to the development of Friedreich's ataxia.
+sent-564: 25072834 Our results support this idea since the expression of miR396 targets, as well as the miR166 target (NPK1-related protein kinase gene), increased in early infection (Figure 11A-C).
+sent-565: 25072834 Our results support this idea since the expression of miR396 targets, as well as the miR166 target (NPK1-related protein kinase gene), increased in early infection (Figure 11A-C).
+sent-566: 25017161 Rice SAPs are responsive to multiple biotic stresses and overexpression of OsSAP1, an A20/AN1 zinc-finger protein, enhances the basal resistance against pathogen infection in tobacco.
+sent-567: 25052102 Our results indicate that mutations at diverse sites in OsGBSS1 reduces its activity by affecting its starch-binding capacity, its ADP-glucose-binding capability or its protein stability.
+sent-568: 24940877 The rice ortholog of DREB1, OsDREB1b, is transcriptionally induced by cold stress and over-expression of OsDREB1b results in increase tolerance towards high salt and freezing stress.
+sent-569: 25324400 Down-regulation of a LBD-like gene, OsIG1, leads to occurrence of unusual double ovules and developmental abnormalities of various floral organs and megagametophyte in rice.
+sent-570: 25280352 Mutation of the rice ASL2 gene encoding plastid ribosomal protein L21 causes chloroplast developmental defects and seedling death.
+sent-571: 24492654 Expression of OsMATE1 and OsMATE2 alters development, stress responses and pathogen susceptibility in Arabidopsis.
+sent-572: 24492654 Expression of OsMATE1 and OsMATE2 alters development, stress responses and pathogen susceptibility in Arabidopsis.
+sent-573: 25318938 Meanwhile, the expression of ABA-responsive genes was not affected in the ospp18 mutant, and the ABA sensitivities of the ospp18 mutant and OsPP18-overexpressing plants were also not altered.
+sent-574: 26182244 Immunolocalization in B. oleracea PMCs revealed that similar to Arabidopsis, numerous PCH2 foci were detected in late G2/early leptotene (S12A and S12B Fig).
+sent-575: 26074930 Moreover, initiation of swelling of root tips was observed in the atku70-3 mutants at 72 h after radiation (Figure S2).
+sent-576: 26074930 Moreover, initiation of swelling of root tips was observed in the atku70-3 mutants at 72 h after radiation (Figure S2).
+sent-577: 26222686 The deletions of mitochondrial complexes I and V cause production of more ATP through light reactions, thus alter the ATP/NADPH ratio generated by the light cyclic and non-cyclic reactions.
+sent-578: 25923512 Mutation of OsNPF2.2 also caused abnormal vasculature and retarded plant growth and development.
+sent-579: 26398683 The defect was caused by mutation in the gene encoding the CHD3 protein CHR729 (CHD-Related).
+sent-580: 26122204 Cyclin D1 is a Wnt target gene, and mutations of this signaling pathway contribute to nearly 90 % of colorectal cancer.
+sent-581: 26122204 Cyclin D1 is a Wnt target gene, and mutations of this signaling pathway contribute to nearly 90 % of colorectal cancer.
+sent-582: 25728768 Using an unbiased metabolomics analysis, we determined that the accumulation of cytokinin breakdown products was likely responsible for the sensitization of M. tuberculosis PPS mutants to NO.
+sent-583: 26640476 In rice, MHZ4 (homologous to Arabidopsis ABA4) and MHZ5 (carotenoid isomerase), identified from mhz ethylene-response mutants, are involved in ABA biosynthesis.
+sent-584: 26640476 In rice, MHZ4 (homologous to Arabidopsis ABA4) and MHZ5 (carotenoid isomerase), identified from mhz ethylene-response mutants, are involved in ABA biosynthesis.
+sent-585: 27135341 ABA transport likely also functions in the regulation of LR meristem activation, as loss of the ABA transporter, AtABCG40, results in a significant increase in LR formation in the presence of ABA.
+sent-586: 26685190 Alternatively, the defects in processing of plastid transcripts in coe1 may cause a stress syndrome similar to that induced by NF, thereby changing the behavior of GUN1-GFP.
+sent-587: 25674098 Clock proteins, such as, LIGHT-REGULATED WD 1 and 2 (LWD1 and LWD2) also affect the GI expression pattern, since in lwd1lwd2 double mutant GI transcript is most abundant at ZT 6 instead of ZT 10.
+sent-588: 25770588 Upregulation of OsIRT1 and OsYSL15 was observed after 1-d treatment with Fe deficiency in both the WT and d2-1 mutants (Fig.
+sent-589: 25770588 Upregulation of OsIRT1 and OsYSL15 was observed after 1-d treatment with Fe deficiency in both the WT and d2-1 mutants (Fig.
+sent-590: 25770588 Upregulation of OsIRT1 and OsYSL15 was observed after 1-d treatment with Fe deficiency in both the WT and d2-1 mutants (Fig.
+sent-591: 26685186 Partial loss of MIT leads to the accumulation of some oligosaccharides of the raffinose family (RFO) such as galactose and raffinose.
+sent-592: 25856577 The rice OsEPSPS gene encodes a key enzyme in the synthesis of aromatic amino acids, loss of function in this gene results in a lack of essential amino acids, leading to plant death.
+sent-593: 26199317 Inherited mutations in the human GBE1 (hGBE1) gene (chromosome 3p12.3) cause the autosomal recessive glycogen storage disorder type IV (GSDIV; OMIM 232500).
+sent-594: 25439309 As shown in Figure5, over-expression of the TOND1 gene enhanced tolerance of N deficiency in YIL105.
+sent-595: 26579189 Mutation of chloroplastic isoform CKA4 in Arabidopsis gives a phenotype of reduced sensitivity to ABA during seed germination and seedling growth, and increased stomatal aperture and leaf water loss.
+sent-596: 26579189 Mutation of chloroplastic isoform CKA4 in Arabidopsis gives a phenotype of reduced sensitivity to ABA during seed germination and seedling growth, and increased stomatal aperture and leaf water loss.
+sent-597: 25755220 In humans, mutations in hClp1 have been reported as the cause of cerebellar development impairment and neurodegeneration in patients who were homozygous for a single-nucleotide substitution.
+sent-598: 26545919 For instance, a splicing enhancer disruption in exon 51 of FBN1 gene relates to Marfan syndrome and a point mutation in exon 7 of SMN2 gene is associated with Motor Neurone Disease.
+sent-599: 26040493 Altogether, our results suggested that the point mutation in OsCDC48 was responsible for the premature senescence and death phenotype.
+sent-600: 26040493 Altogether, our results suggested that the point mutation in OsCDC48 was responsible for the premature senescence and death phenotype.
+sent-601: 26278778 SNP in CDS region of this biomarker gene can change the fate of this GDPD under P deficiency.
+sent-602: 25628627 In sorghum, inhibition of outgrowth in a phyB mutant and FR treatment were also correlated with a sharp increase in the transcript levels of the SL-signaling gene SbMAX2 in buds.
+sent-603: 25779053 Mutations in the RecQ helicases BLM, WRN or RECQ4 in humans are associated with the hereditary diseases Bloom syndrome, Werner syndrome and Rothmund-Thomson syndrome, respectively.
+sent-604: 25779053 Mutations in the RecQ helicases BLM, WRN or RECQ4 in humans are associated with the hereditary diseases Bloom syndrome, Werner syndrome and Rothmund-Thomson syndrome, respectively.
+sent-605: 25779053 Mutations in the RecQ helicases BLM, WRN or RECQ4 in humans are associated with the hereditary diseases Bloom syndrome, Werner syndrome and Rothmund-Thomson syndrome, respectively.
+sent-606: 25770588 Rice mutant d2-1, which is defective in BR biosynthesis, was more tolerant to Fe deficiency than the WT, and accumulated greater amounts of Fe in roots than the WT under Fe-sufficient conditions.
+sent-607: 25799347 VCY2 is frequently deleted in patients with idiopathic infertility; thus, VCY2 is likely to function in male germ cell development and to be involved in the pathogenesis of male infertility.
+sent-608: 26257754 p5cs2 mutations cause embryo abortion during late stages of seed development though both P5CS mRNAs are detectable throughout embryonic development under warmer climate.
+sent-609: 25922535 Methylation can occur at any cytosine in plants: CG, CHG and CHH (where H = A, C or T).
+sent-610: 26029330 In addition, genes encoding harpin/hypersensitive-induced response protein, leucine-rich repeat (LRR) protein and protein phosphatase 2Cs (PP2Cs) were also induced in spl5 mutant (Table 2).
+sent-611: 26422142 Deletion of DMC1 in S. cerevisiae results in meiotic arrest in prophase I, while DMC1-/- knockout mice remain viable but sterile.
+sent-612: 25688565 Loss-of-function ago18 mutation abolishes, whereas over-expression of AGO18 increases, the AGO1 antiviral activity.
+sent-613: 26115186 The over-expression of aquaporin genes of Rhododendron catawbiense in Arabidopsis plants leads to a significant decrease in cold tolerance and the increase of dehydration rate of leaves.
+sent-614: 25680796 In particular, the truncation of DELLA in the SLR1 gene produces a dwarf phenotype in rice.
+sent-615: 25711711 Interestingly, the phyB mutant exhibited increased grain size (both grain width and length), and high grain chalkiness with reduced plumpness (Supplementary Fig.
+sent-616: 25711711 Interestingly, the phyB mutant exhibited increased grain size (both grain width and length), and high grain chalkiness with reduced plumpness (Supplementary Fig.
+sent-617: 26024229 Lamin A mutations also cause mandibuloacral dysplasia type A and Seip syndrome that also exhibit defects in adipose tissue and diabetes.
+sent-618: 25658704 We found that mutations in NAL1 disturb both anticlinal and periclinal cell divisions in leaves and internodes and that NAL1 plays a role in cell division as early as during leaf primordia initiation.
+sent-619: 25779053 In genome-wide association studies, mutations in the FAN1 gene in humans have been associated with chronic kidney failure, schizophrenia and autism.
+sent-620: 25674098 Mutation in GI is epistatic to mutation in ELF4 and together regulate CO expression.
+sent-621: 26400170 The DNA glycosylase/lyase ROS1 is a DNA demethylase, and ros1 mutants exhibit increased DNA methylation (at CG, CHG and CHH).
+sent-622: 26083713 We found that GA3 application restored BPH resistance in hemi-oeWRKY70 mutants (Figure 9D-F).
+sent-623: 25925167 Therefore, constitutive overexpression of OsTCP19 in Arabidopsis affects initial seedling growth, LR development, trichome and RH formation, and condition-dependent early flowering.
+sent-624: 26530390 Null ago5 mutants are fertile in A. thaliana, but mutations in MEL1 lead to early meiotic arrest and male sterility.
+sent-625: 25874027 This data suggests that the truncation of histone H2A and H2B may alter chromatin structure and affect gene expression, which may be involved in mediating Ni toxicity and carcinogenicity.
+sent-626: 26019638 Recent research showed that the mutations in RAB18 gene are correlated to the Warburg micro syndrome and Martsolf syndrome.
+sent-627: 26690131 Rice sekiguchi lesion (sl) mutants were observed to accumulate tryptamine, and the SL gene was identified as the cytochrome P450 monooxygenase gene (Os12g16720) encoding T5H.
+sent-628: 25990364 The disruption of the SOS1 gene activity renders the plant more sensitive to salt stress and overexpression of AtSOS1, T. salsuginea SOS1 and OsSOS1 conferred salt tolerance in Arabidopsis plants.
+sent-629: 25607985 In rice, a transposon-insertional XB15 mutant exhibits constitutive cell death lesions, enhanced XA21-mediated resistance and induction of defense gene expression.
+sent-630: 26443104 Variation in the ammonia transporters affects the activity GS/GOGAT pathway and the Glu-Gln antiporter.
+sent-631: 26038307 Transcripts that were more abundant under N deficiency included RAV2, 1x bHLH, 1x Zn finger, MYB (4, 38 + 3 MYB related), HSF A4A and several WRKYs.
+sent-632: 26038307 Transcripts that were more abundant under N deficiency included RAV2, 1x bHLH, 1x Zn finger, MYB (4, 38 + 3 MYB related), HSF A4A and several WRKYs.
+sent-633: 25979979 Deletion of the guard cell-expressed ERA1 gene leads to an ABA-hypersensitive activation of guard cell anion-channels resulting in stomatal closure.
+sent-634: 26391765 Moreover, mutations in TDP-43 and FUS genes are associated with rare familial forms of ALS and FTLD.
+sent-635: 26391765 Moreover, mutations in TDP-43 and FUS genes are associated with rare familial forms of ALS and FTLD.
+sent-636: 26391765 Moreover, mutations in TDP-43 and FUS genes are associated with rare familial forms of ALS and FTLD.
+sent-637: 26199317 Mutations in the GBE1 gene lead to the heterogeneous early-onset glycogen storage disorder type IV (GSDIV) or the late-onset adult polyglucosan body disease (APBD).
+sent-638: 25969556 The parental cultivars Westonia and Yitpi both possess the Rht-D1 mutation conferring a semi-dwarf habit yet donated a locus for a large rhizosheath in the Rht-D1 genomic region (Table 1).
+sent-639: 25969556 The parental cultivars Westonia and Yitpi both possess the Rht-D1 mutation conferring a semi-dwarf habit yet donated a locus for a large rhizosheath in the Rht-D1 genomic region (Table 1).
+sent-640: 25788736 Rice LAX PANICLE1 (LAX1) encodes a basic helix-loop-helix (bHLH) transcription factor, and mutants in this affect AM development.
+sent-641: 25788736 Rice LAX PANICLE1 (LAX1) encodes a basic helix-loop-helix (bHLH) transcription factor, and mutants in this affect AM development.
+sent-642: 25688565 The AGO18 promoter is induced in infected plants and the mutants are hypersusceptible to virus infection.
+sent-643: 26020533 However, silencing of eEF1A induced severe developmental defects (Fig A in S1 File).
+sent-644: 25770588 Treatment with Fe deficiency also induced upregulation of expression of OsYSL2, OsNAS1, and OsNAS2 in d2-1 mutant plants (Fig.
+sent-645: 25770588 Treatment with Fe deficiency also induced upregulation of expression of OsYSL2, OsNAS1, and OsNAS2 in d2-1 mutant plants (Fig.
+sent-646: 25770588 Treatment with Fe deficiency also induced upregulation of expression of OsYSL2, OsNAS1, and OsNAS2 in d2-1 mutant plants (Fig.
+sent-647: 26691393 The rls2-2 mutants also exhibited necrotic leaves with ferruginous spots, short plant height, and lower tiller number, similar to observed in the rls2-1 mutants (Fig.
+sent-648: 26057628 The interaction between ABI2 and salt overly sensitive 2 (SOS2) was destroyed by abi2-1 mutation, which caused an improved salt stress resistance and ABA insensitivity in A. thaliana.
+sent-649: 25770588 1), but the BR-deficient mutant d2-1 was more tolerant to Fe deficiency than WT plants (Fig.
+sent-650: 26573512 Knock-down of OsCPS4 caused lower accumulation levels of momilactones and oryzalexin S and the cps4 rice mutant is more susceptible to M. oryzae infection than the wild-type.
+sent-651: 26297385 A knockout mutant in OsCAD7 causes a flexible culm phenotype as well as semi-dwarfism, delayed flowering, and lower grain yields (Li et al.
+sent-652: 26552588 In addition, inhibition of SH containing enzymes by As, alters cellular redox state and finally leads to cytotoxicity.
+sent-653: 25989254 We showed that the fhy3 far1 double null mutant displayed high levels of reactive oxygen species and salicylic acid (SA) and increased resistance to Pseudomonas syringae pathogen infection.
+sent-654: 25804812 Further site-directed mutagenesis analysis revealed that single amino acid substitution of I194F in OsFIE2 could improve its OsCLF binding capacity.
+sent-655: 26275424 Analyses of chromosomal segment substitution lines indicated that a mutation (G1509A single-nucleotide mutation, causing an R233H amino acid substitution in NAL1) was present at the QTL.
+sent-656: 25324400 Down-regulation of a LBD-like gene, OsIG1, leads to occurrence of unusual double ovules and developmental abnormalities of various floral organs and megagametophyte in rice.
+sent-657: 25697101 We isolated a new monoculm mutant, monoculm 3 (moc3), in which a point mutation causes the premature termination of rice O. sativa WUS (OsWUS).
+sent-658: 25647350 Mutation in CCP1 resulted in abnormal palea with ectopic stigmatic tissues and other pleiotropic phenotypes.
+sent-659: 26617267 Because loss of function of DL causes the drooping leaf phenotype in regenerated seedlings, the effect of gene disruption should be easily detected.
+sent-660: 25770588 Rice mutant d2-1, which is defective in BR biosynthesis, was more tolerant to Fe deficiency than the WT, and accumulated greater amounts of Fe in roots than the WT under Fe-sufficient conditions.
+sent-661: 27148296 Mutation of OsGI results in increased proline and sucrose contents and more rapid stomata movement.
+sent-662: 27338359 Additionally, the overexpression of some PA-related biosynthetic genes increased the PA level and concomitantly improved plant stress tolerance with high antioxidant enzymatic activities.
+sent-663: 27226705 Finally, potential implications in cancers driven by mutations in RAC, DOCK, or DBL proteins could be searched in future studies.
+sent-664: 27113712 Inherited mutations of ETF and/or ETFDH can result in multiple acyl-CoA dehydrogenase deficiency (MADD) and disrupt fatty acid beta oxidation leading to a series of metabolic disorders.
+sent-665: 27444058 Deregulation of the OsmiR160 Target Gene OsARF18 Causes Growth and Developmental Defects with an Alteration of Auxin Signaling in Rice.
+sent-666: 27223278 Although Slr1-d3 mutants produced normal floral organs with morphologically normal pistils and stamens, their pollen had very low viability, leading to a semi-fertile phenotype.
+sent-667: 27242844 Semi-dwarf rice mutants altered in GA biosynthesis, were also shown to have improved tolerance to dehydration.
+sent-668: 27767245 Mutations of fyve1 result in the accumulation of PYL4 and showed ABA-hypersensitive phenotype in seed germination and root growth.
+sent-669: 27148296 Results showed that mutation of OsGI conferred tolerance to osmotic stress generated by polyethylene glycol (PEG), increased proline and sucrose contents, and accelerated stomata movement.
+sent-670: 27031246 All of the lines in the NPB Piz-t:HA background showed cell death and dwarf phenotypes (S11A Fig).
+sent-671: 27588462 In the present study, we show that mutations in the rice plastidic PGM, OspPGM, and the plastidic AGP LS, OsAGPL4, result in starch deficiency in pollen grains and induce male sterility.
+sent-672: 27588462 In the present study, we show that mutations in the rice plastidic PGM, OspPGM, and the plastidic AGP LS, OsAGPL4, result in starch deficiency in pollen grains and induce male sterility.
+sent-673: 27833829 And CCA1 influenced the circadian rhythm, overexpression of CCA1 resulted in long hypocotyls and late flowering (Wang and Tobing).
+sent-674: 27472897 Consistent with these results, rice accession IRBB5 (TFIIAgamma5V39E) was more resistant to infection by different Xoc strains than IR24 (TFIIAgamma5) (Figure 5:figure supplement 2C).
+sent-675: 27045099 It is probable that these phenomena were caused by disordered expression of ABA-related genes in the siago1b mutant.
+sent-676: 27113712 In human, ETF or ETFDH mutation can lead to lipid storage myopathy because of disruption of fatty acid metabolism.
+sent-677: 27543605 Phenotypic analysis revealed that the al2 mutation caused obvious albino leaves at the early developmental stage, eventually leading to al2 seedling death.
+sent-678: 27128900 Although the CBS function is unclear, mutations in some human CDCPs lead to genetic diseases.
+sent-679: 27984790 The enzyme analysis demonstrated Cu/Zn-SOD and APX activities were increased whereas Fe-SOD activity was decreased in atmpk4 mutants or atmpk4/ics1 double mutants (Fig.
+sent-680: 27973595 In the presence of barium hydroxide, both O. maius WT and GOGAT mutant rescued the dwarf A. thaliana phenotype caused in the control plates by the presence of this CO2 trap.
+sent-681: 27576450 It was very important and meaningful that the SNP locus rs13562854 was simultaneously associated with the WGP and FT and was detected via both the GLM and MLM (Additional file 1: Table S3, Figs.
+sent-682: 27576450 It was very important and meaningful that the SNP locus rs13562854 was simultaneously associated with the WGP and FT and was detected via both the GLM and MLM (Additional file 1: Table S3, Figs.
+sent-683: 27764161 A recent study showed that mutation in OsFIE1 causes a dwarf stature and various floral defects.
+sent-684: 27135235 Under salt stress the aoc mutants hebiba and cpm2 displayed reduced salt sensitivity in their phenotype showing longer roots and less severe necrotic leaves.
+sent-685: 26834775 The mutation in FD results in late flowering and suppresses the early flowering phenotype of FT overexpression lines, suggesting that FD mediates the function of FT in regulating flowering.
+sent-686: 27241493 We suggest that ribosome aberrancy or polysome insufficiency might be responsible for the aberrant growth and development in the rml1 mutant.
+sent-687: 26753794 In mammals and in yeast, overexpression of TUA or TUB leads to cell-cycle arrest and reduced cell viability.
+sent-688: 27113712 As reported in human, ETF and ETFDH mutation could impact upstream fatty acid metabolism and cause metabolic diseases.
+sent-689: 26793205 The dominant gain-of-function mutant of acd6-1 is influenced by SA and light to activate immune response involving spontaneous cell death to halt pathogen spread during infection.
+sent-690: 27258255 We found that silencing OsWRKY45 enhances levels of BPH-elicited H2O2 and ethylene but did not influence basal and induced levels of JA and SA (Figure 3).
+sent-691: 27258255 We found that silencing OsWRKY45 enhances levels of BPH-elicited H2O2 and ethylene but did not influence basal and induced levels of JA and SA (Figure 3).
+sent-692: 27092155 Moreover, exogenous application of GR24 restored the insensitive phenotype in all the mutants except d3 suggesting that SLs biosynthesis is induced under Pi and N -deficiency.
+sent-693: 27602041 In studies on the A. thaliana mutant max2 and the rice mutant d3 an F-box protein involved in SL signaling was identified that was also part of an SCF ubiquitin ligase protein complex.
+sent-694: 27767245 The null mutant aip2-1 was shown to possess increased levels of ABI3 compared with wild type and to be hypersensitive to ABA.
+sent-695: 27984790 In the Wassilewskija (WS) ecotype A. thaliana, atmkp1 mutants produce higher ROS in response to elf18 (synthetic polypeptide that corresponds to the bacterial PAMP elongation factor-Tu, EF-Tu).
+sent-696: 27504877 This indicates that not all functionally relevant ERCC2 mutations increase cancer susceptibility in their carriers.
+sent-697: 27814357 Suppression of OsPIN1 or over-expression of OsPIN2 (two auxin efflux transporters) alters PAT and increases tiller angle.
+sent-698: 27814357 Suppression of OsPIN1 or over-expression of OsPIN2 (two auxin efflux transporters) alters PAT and increases tiller angle.
+sent-699: 26760772 Dysregulation of family members such as JMJD5, JMJD6, JARID1B, JARID2, PHF8 and JMJD2A causes abnormal embryonic development or promotes cancer cell proliferation and migration.
+sent-700: 26760772 Dysregulation of family members such as JMJD5, JMJD6, JARID1B, JARID2, PHF8 and JMJD2A causes abnormal embryonic development or promotes cancer cell proliferation and migration.
+sent-701: 26760772 Dysregulation of family members such as JMJD5, JMJD6, JARID1B, JARID2, PHF8 and JMJD2A causes abnormal embryonic development or promotes cancer cell proliferation and migration.
+sent-702: 26760772 Dysregulation of family members such as JMJD5, JMJD6, JARID1B, JARID2, PHF8 and JMJD2A causes abnormal embryonic development or promotes cancer cell proliferation and migration.
+sent-703: 28018418 Disruption of HST gene results in PQ content decrease, which subsequently affects carotenoid and ABA biosynthesis.
+sent-704: 27588462 Each of their mutations, osppgm, osagps2, and apl1, caused starch deficiency in rice leaves (Supplementary Fig.
+sent-705: 27606959 The importance of this new mechanism, from a practical point of view and as demonstrated here, is that the engineered reduction of OsIAA10 can improve the resistance of rice to RDV infection.
+sent-706: 27258255 The data suggest that silencing OsWRKY45 significantly increased the levels of BPH-induced ethylene and H2O2 but did not influence the biosynthesis of JA and SA.
+sent-707: 27258255 The data suggest that silencing OsWRKY45 significantly increased the levels of BPH-induced ethylene and H2O2 but did not influence the biosynthesis of JA and SA.
+sent-708: 27258255 We investigated whether silencing OsWRKY45 has an effect on BPH preference and performance.
+sent-709: 27448032 In humans, defects in SCP are associated with severe diseases ranging from obesity to epilepsy to neurodegeneration.
+sent-710: 27618555 Map-based cloning reveals that Lrd6-6 encodes an AAA ATPase, and disruption of the AAA ATPase LRD6-6 leads to autoimmunity and spontaneous cell death in the lrd6-6 mutant.
+sent-711: 28018412 Overexpression of OsABI5 in an abi5 Arabidopsis mutant rescued ABA-insensitive phenotype.
+sent-712: 26994476 Recently, reported that RNAi-mediated inhibition of OsVHA-A resulted in an increase in stomatal aperture and density, and higher susceptibility to drought and salt stress in transgenic rice.
+sent-713: 26800702 It is proposed that the plant R2R3-MYB genes probably evolved from an R1R2R3-MYB gene progenitor through loss of R1 repeat or from an R1-MYB gene through duplication of R1 repeat.
+sent-714: 26800702 It is proposed that the plant R2R3-MYB genes probably evolved from an R1R2R3-MYB gene progenitor through loss of R1 repeat or from an R1-MYB gene through duplication of R1 repeat.
+sent-715: 26830331 Replacement of loop 1 with a BPH GBP increased toxicity of Cry1Ab against BPH nymphs up to 5 folds, and in contrast reduced toxicity against DBM larvae more than 6 folds.
+sent-716: 26830331 Replacement of loop 1 with a BPH GBP increased toxicity of Cry1Ab against BPH nymphs up to 5 folds, and in contrast reduced toxicity against DBM larvae more than 6 folds.
+sent-717: 27040840 pdr1 mutants are indeed more prone to the accumulation of exogenously applied GR24 (a synthetic SL) in the root tip and show alterations in root tip homeostasis, such as cell division.
+sent-718: 27066044 Secondly, the anther-specific expression of mutated melon ET receptor gene Cm-ERS1/H70A delays tapetum degeneration and causes pollen abortion.
+sent-719: 30258892 In the case of protein kinase RPS6KB1, also associated with Alzheimer's diseases there was a deletion of 22 amino acid residues in human (Fig.
+sent-720: 27906626 Dr. Loffler provided an update on two disorders of pyrimidine de novo synthesis: orotic aciduria due to UMP synthase mutations and Miller syndrome caused by dihydroorotate dehydrogenase mutations.
+sent-721: 27332964 By contrast, OsBZR1 and DLT plays positive roles in BR signaling, and OsD2 and OsDWARF4 expression levels were induced in OsBZR1 RNAi plants and dlt mutant.
+sent-722: 27332964 By contrast, OsBZR1 and DLT plays positive roles in BR signaling, and OsD2 and OsDWARF4 expression levels were induced in OsBZR1 RNAi plants and dlt mutant.
+sent-723: 27332964 By contrast, OsBZR1 and DLT plays positive roles in BR signaling, and OsD2 and OsDWARF4 expression levels were induced in OsBZR1 RNAi plants and dlt mutant.
+sent-724: 26751680 Some mutations in DHCR7 lead to human autosomal recessive metabolic disorder, known as the Smith-Lemli-Opitz syndrome (SLOS).
+sent-725: 26947269 The first reported bestrophin gene, VMD2, was discovered in human; several point mutations in this gene (which encodes hBest1) cause Best vitelliform macular dystrophy (Petrukhin et al.
+sent-726: 26994476 6A) suggested that OsPLS1/VHA-A1 mutation resulted in an alteration in the SA signal pathway in rice.
+sent-727: 26994476 6A) suggested that OsPLS1/VHA-A1 mutation resulted in an alteration in the SA signal pathway in rice.
+sent-728: 27328657 1F), indicating that although the silencing of TRE1-1 did not decrease the concentration of TRE, it could affect gene expression and lead to moulting deformities (Fig.
+sent-729: 28122433 The over-expression of COX-2 can promote tumorigenesis through the direct actions on the stromal compartment resulting in the tumor angiogenesis.
+sent-730: 27757103 RDR1 is induced by salicyclic acid (SA) treatment and TMV infection in tobacco and Arabidopsis, and a mutation in RDR1 permits efficient multiplication of ssRNA viruses.
+sent-731: 27436950 For example, overexpression of OsWRKY13 or OsWRKY45 enhanced resistance to Xoo and M. oryzae in rice by mediating SA signaling.
+sent-732: 27436950 For example, overexpression of OsWRKY13 or OsWRKY45 enhanced resistance to Xoo and M. oryzae in rice by mediating SA signaling.
+sent-733: 26994476 Therefore, the phenotypes of the ospls1 mutant were, at least in part, a result of the elevated SA levels, which were ultimately linked to a null mutation of the OsPLS1/VHA-A1 gene.
+sent-734: 26994476 Therefore, the phenotypes of the ospls1 mutant were, at least in part, a result of the elevated SA levels, which were ultimately linked to a null mutation of the OsPLS1/VHA-A1 gene.
+sent-735: 27194802 In this study, we have identified a new mutant of OsWUS named srt1, which would produce a nearly full-length WUS peptide except for the deletion of seven amino acids in the HD.
+sent-736: 27194802 In this study, we have identified a new mutant of OsWUS named srt1, which would produce a nearly full-length WUS peptide except for the deletion of seven amino acids in the HD.
+sent-737: 27194802 The 21-bp deletion occurs at exon 1 of OsWUS and would result in deletion of seven amino acids in the highly conserved HD (Figure 7, A-D).
+sent-738: 27606959 Finally, we show that knock-down of OsIAA10 enhances the resistance of rice to RDV infection, whereas OsIAA10 overexpression has the opposite effect.
+sent-739: 26858735 Microarray Analysis of Rice d1 (RGA1) Mutant Reveals the Potential Role of G-Protein Alpha Subunit in Regulating Multiple Abiotic Stresses Such as Drought, Salinity, Heat, and Cold.
+sent-740: 27328657 These results demonstrated that TRE silencing could affect the regulation of chitin biosynthesis and degradation, causing moulting deformities.
+sent-741: 27242844 Semi-dwarf rice mutants altered in GA biosynthesis, were also shown to have improved tolerance to dehydration.
+sent-742: 27444058 Deregulation of the OsmiR160 Target Gene OsARF18 Causes Growth and Developmental Defects with an Alteration of Auxin Signaling in Rice.
+sent-743: 28083003 Expression pattern analyses revealed that OsPIL16 transcripts were induced by cold stress and was significantly higher in the phyB mutant than in the WT.
+sent-744: 28083003 Expression pattern analyses revealed that OsPIL16 transcripts were induced by cold stress and was significantly higher in the phyB mutant than in the WT.
+sent-745: 27642009 Deletion of GCN5 led to impaired growth, loss of conidiation and alteration of SM biosynthesis.
+sent-746: 27543605 Phenotypic analysis revealed that the al2 mutation caused obvious albino leaves at the early developmental stage, eventually leading to al2 seedling death.
+sent-747: 26903527 Targeted Knockdown of GDCH in Rice Leads to a Photorespiratory-Deficient Phenotype Useful as a Building Block for C4 Rice.
+sent-748: 26903527 Targeted Knockdown of GDCH in Rice Leads to a Photorespiratory-Deficient Phenotype Useful as a Building Block for C4 Rice.
+sent-749: 27113712 Moreover, ETF mutant etfb(-) induced ROS accumulation in infected host cells and exogenous antioxidant GSH accelerated mutant invading growth without increasing the penetration rate.
+sent-750: 26617267 Because loss of function of DL causes the drooping leaf phenotype in regenerated seedlings, the effect of gene disruption should be easily detected.
+sent-751: 27095476 The Uvhog1 mutant was reduced in growth rate and conidiation but had increased sensitivities to SDS, Congo red, and hyperosmotic stress.
+sent-752: 27059015 Whereas the Deltatrx1 mutants had no detectable phenotypes, deletion of TRX2 caused pleiotropic defects in growth, conidiation, light sensing, responses to stresses and plant infection progresses.
+sent-753: 28304073 proBRP4:ORC6 RNAi mutants with reduced expression of ORC6 display pollen developmental defects, and aborted generative cells have a lower DNA content, suggesting impairment at the G1/S phase.
+sent-754: 28369122 The change of this amino acid to Met results in the relatively strong BRI1-deficient phenotype (d61-2), and thus a very strong interaction of BRs with V491 may not be preferable in rice.
+sent-755: 28814265 Salinity evokes a cytosolic calcium signal that is perceived by SOS3 and activates SOS2, a serine/threonine protein kinase.
+sent-756: 28814265 Salinity evokes a cytosolic calcium signal that is perceived by SOS3 and activates SOS2, a serine/threonine protein kinase.
+sent-757: 28814265 Salinity evokes a cytosolic calcium signal that is perceived by SOS3 and activates SOS2, a serine/threonine protein kinase.
+sent-758: 28742127 In the DeltanoxD mutant, we observed an increase in superoxide production at hyphal tips and a significant reduction in appressoria based on mean pixel intensity measurements (p<0.01) (Fig 7A).
+sent-759: 28694815 On the other hand, overexpression of OsPP2C49, an ABA signaling negative regulator, resulted in a severe dehydration phenotype even under the normal condition.
+sent-760: 28472292 This is in agreement with a previous report that showed that rice plants with constitutively active OsCPK10, formed by deleting its regulatory domains, were more resistant to M. oryzae infection.
+sent-761: 28242684 Importantly, the U12-type introns affected in rgh3 and ZRSR2 mutants were maintained since the divergence of plants and animals.
+sent-762: 28369580 ML1p:HA-AIP2C/S,E/G induced seedling growth arrest (Supplementary Table S2), glabrous leaves (Fig.
+sent-763: 29272270 Quantitative RT-PCR analysis showed that POQR was induced ~5.2 times upon S. sclerotiorum infection in Col-0 wild type plants but this induction was abolished in poqr mutants (S1 Fig).
+sent-764: 28242684 Somatic mutations in ZRSR2 are found in patients with myelodysplastic syndrome (MDS).
+sent-765: 28242684 Somatic mutations in ZRSR2 are found in patients with myelodysplastic syndrome (MDS).
+sent-766: 28068433 Therefore, overexpression of EUI causes a dwarf phenotype, whereas mutation within this gene increases the internode length in rice.
+sent-767: 28973976 Genetic variation in the HLA underlies susceptibility differences for viral infections, such as HIV-1, Hepatitis B and C virus, Eppstein-Barr virus, and measles virus.
+sent-768: 28242684 MDS subtypes with ZRSR2 mutations more frequently progress to acute myeloid leukemia, and consequently, loss of ZRSR2 is considered a driver toward cancer.
+sent-769: 28242684 MDS subtypes with ZRSR2 mutations more frequently progress to acute myeloid leukemia, and consequently, loss of ZRSR2 is considered a driver toward cancer.
+sent-770: 28575006 Plants with loss of functional SNAP25-type proteins gradually develop large necrotic lesions on leaves and eventually result in a lethal dwarf phenotype.
+sent-771: 28139777 The result indicated that the 57-bp missing in Fd-GOGAT cDNA was responsible for the necrotic spots in the spl32 mutant.
+sent-772: 28139777 The result indicated that the 57-bp missing in Fd-GOGAT cDNA was responsible for the necrotic spots in the spl32 mutant.
+sent-773: 29170677 Importantly, both D14-GFP and D14K280E-GFP rescue the defect of D53 degradation in d14, indicating that D14K280E-GFP could trigger SL-induced D53 degradation and potential SL signaling (Figure 3C).
+sent-774: 28424372 For example, overexpression of an Arabidopsis cysteine-rich receptor-like protein kinase, CRK5, was reported to enhance ABA sensitivity and confer drought resistance.
+sent-775: 28536352 Moreover, a GrB variant that can kill both PI-9 positive and PI-9 negative tumor cells will provide a significant advantage for the treatment of relapsing tumors.
+sent-776: 28536352 Moreover, a GrB variant that can kill both PI-9 positive and PI-9 negative tumor cells will provide a significant advantage for the treatment of relapsing tumors.
+sent-777: 29033966 Therefore, it is plausible that the amino-acid substitution of Leu to Phe in the ygl18 protein may impact the ChlM activity by changing its binding or catalyzing ability to SAM.
+sent-778: 28331197 Interestingly, the HR efficiency was slightly enhanced in the ago4/6 double mutant and nrpd2 mutant, and substantially enhanced in the ago1 mutant (Supplementary Figures S9 and S10).
+sent-779: 28331197 Interestingly, the HR efficiency was slightly enhanced in the ago4/6 double mutant and nrpd2 mutant, and substantially enhanced in the ago1 mutant (Supplementary Figures S9 and S10).
+sent-780: 28067270 Furthermore, overexpression of OsMYC2 causes upregulation of early JA-responsive genes, leading to JA-hypersensitive phenotypes such as bacterial blight resistance.
+sent-781: 28331197 In our experiment, however, the HR efficiency was not altered in the ago2 mutant (Supplementary Figures S9 and S10).
+sent-782: 28331197 In our experiment, however, the HR efficiency was not altered in the ago2 mutant (Supplementary Figures S9 and S10).
+sent-783: 29300985 In our study, we found that mutation of OsSEC3A caused spontaneous leaf lesions resembling those caused by hypersensitive response (HR) in the absence of pathogen infection.
+sent-784: 28360923 A. thaliana autophagy deficient mutants (atg) develop spreading necrosis upon Alternaria brassicicola infection, and fungal toxin fumonisin B1 treatment.
+sent-785: 28855565 Previously, genetic variants of BRCA1 were mainly related to breast or ovarian related diseases in human and cattle.
+sent-786: 27762067 GmSIZ1a and GmSIZ1b expression was induced by SA, heat, and dehydration treatments (Figure 2A-C).
+sent-787: 28878796 Such differences become clearer as the stress conditions become more severe (Figure 4 and Supplementary Figure S5), especially on the two autophagy deficient mutant, atg5 and atg7.
+sent-788: 28331197 The expression of both transgenes was elevated in ago4/6 and nrpe1 mutants, and suppressed in the other mutants (Supplementary Figure S9).
+sent-789: 28734771 The amplified oxidative stress due to depletion of the antioxidant anthocyanin and SA accumulation together lead to hypersensitivity of atg mutants to stress, causing cell death.
+sent-790: 28204535 The OsMADS13 expression level is up-regulated in the fon4 mutant, though its expression remains restricted to the FM and ovule primordia (Fig.
+sent-791: 28331197 The levels of diRNA were similar between Col-0, ago2, ag4/6 and nrpd1, but highly elevated in nrpe1 mutant (Supplementary Figure S9).
+sent-792: 28893254 As expected, the skip-1 mutation activated the expression of SOC1, FT, and TSF, but not of FD, and it promoted flowering under LD and SD conditions (Fig.
+sent-793: 28428794 Our results also showed that dg1 mutant was a brassinosteroid (BR)-hypersensitive and DG1 was involved in regulating BR signaling.
+sent-794: 29232920 Knockdown of an HD-Zip III member, OsHox33, accelerates leaf senescence in rice.
+sent-795: 29127328 Stable expression of OsMTP11 in the Mn-hypersensitive Arabidopsis mutant mtp11-3 restores Mn tolerance to the level of the WT, indicating a conservation of function between species.
+sent-796: 28424711 Moreover, a mutation of this gene showed suppression of the ABA-induced delay in germination and alteration of the expression of some ABA-regulated genes (van Hengel and Roberts,).
+sent-797: 28487704 MATE1 mutant display altered seed coat structure and PAs accumulation (Zhao and Dixon,) and also has significantly lower seed dormancy levels (Smykal, unpublished).
+sent-798: 28266527 Interestingly, GH3 promoted a dwarf phenotype through the control of IAA level in Arabidopsis mutants and rice plants over-expressing GH3.
+sent-799: 29326745 Furthermore, rice BR biosynthetic mutant d2-1, exhibited enhanced tolerance to Fe-deficiency and this response could be reversed partially by exogenous BR application.
+sent-800: 28973976 Experiments combining molecular and quantitative genetic mapping techniques showed that polymorphisms in the gene Mx1 control several viral infections in mice.
+sent-801: 29059212 Na+ influx triggers an increase in cytosolic Ca2+ level; this is sensed by SOS3, which activates the serine/threonine protein kinase SOS2.
+sent-802: 29059212 Na+ influx triggers an increase in cytosolic Ca2+ level; this is sensed by SOS3, which activates the serine/threonine protein kinase SOS2.
+sent-803: 29059212 Na+ influx triggers an increase in cytosolic Ca2+ level; this is sensed by SOS3, which activates the serine/threonine protein kinase SOS2.
+sent-804: 28400785 Mutations in DFR may explain the color transition in some species such as Andean genus Iochroma.
+sent-805: 29162684 Taken together, TSV3 might be involved in a protective mechanism under cold stress and the reduction of TSV3 would lead to a cold-sensitive chloroplast deficiency.
+sent-806: 28743949 Major and minor CHO metabolisms were altered greatly, and photosynthesis was inhibited in the phyA phyB mutant (Fig.
+sent-807: 28743949 Major and minor CHO metabolisms were altered greatly, and photosynthesis was inhibited in the phyA phyB mutant (Fig.
+sent-808: 28878247 The Arabidopsis elf4-1 (Ws) mutant was sourced from the Feldmann T-DNA insertion mutant population, resulting in plants flowering early in both LD and SD with long hypocotyls and petioles.
+sent-809: 28272375 Another class of G4-unwinding helicases includes RecQ-related helicases WRN (Werner's syndrome) and BLM, whose mutations cause cancer susceptible disorders Werner and Bloom syndromes, respectively.
+sent-810: 28272375 Another class of G4-unwinding helicases includes RecQ-related helicases WRN (Werner's syndrome) and BLM, whose mutations cause cancer susceptible disorders Werner and Bloom syndromes, respectively.
+sent-811: 28272375 Another class of G4-unwinding helicases includes RecQ-related helicases WRN (Werner's syndrome) and BLM, whose mutations cause cancer susceptible disorders Werner and Bloom syndromes, respectively.
+sent-812: 29202197 Therefore, ovary swelling is unlikely to be associated with the specific genetic mutation for ms1 or ms5, but is likely to be due to either an absence of fertile pollen or a lack of pollination.
+sent-813: 29202197 Therefore, ovary swelling is unlikely to be associated with the specific genetic mutation for ms1 or ms5, but is likely to be due to either an absence of fertile pollen or a lack of pollination.
+sent-814: 28082511 10A-C), but also two transcription factors (TDR and its interaction protein TIP2), which are associated with tapetum degeneration and lipid metabolism (Fig.
+sent-815: 28082511 10A-C), but also two transcription factors (TDR and its interaction protein TIP2), which are associated with tapetum degeneration and lipid metabolism (Fig.
+sent-816: 29268717 It has been demonstrated that these MAX/D/RMS/DAD mutants are involved in either SL biosynthesis or SL signal perception and transductions.
+sent-817: 29204081 Reports showed that OsCIPK15 in involved in the up-regulation of Ramy3D causing elongation in Sub1A mutant and allowing starch degradation under O2-deficient condition.
+sent-818: 29204081 Reports showed that OsCIPK15 in involved in the up-regulation of Ramy3D causing elongation in Sub1A mutant and allowing starch degradation under O2-deficient condition.
+sent-819: 28199446 Firstly, loss of NIK function in Arabidopsis is linked to an enhanced susceptibility phenotype to infection by a coat protein-less mutant of CaLCuV.
+sent-820: 28837383 Consequently, mutation in OsATG7 results in pollen germination failure.
+sent-821: 28536352 These results suggest that mutant GrB-based hCFPs targeting CD64 show a great potential for a specific improved immunotherapy against CMML and AMML.
+sent-822: 28536352 These results suggest that mutant GrB-based hCFPs targeting CD64 show a great potential for a specific improved immunotherapy against CMML and AMML.
+sent-823: 28536352 These results suggest that mutant GrB-based hCFPs targeting CD64 show a great potential for a specific improved immunotherapy against CMML and AMML.
+sent-824: 28242684 ZRSR2 mutations are associated with myelodysplastic syndrome (MDS) and cause U12 splicing defects.
+sent-825: 28242684 ZRSR2 mutations are associated with myelodysplastic syndrome (MDS) and cause U12 splicing defects.
+sent-826: 28924217 On the other hand, however, SA delays fruit ripening, and SA deficiency mutants increase seed yield and antioxidant vitamin concentration.
+sent-827: 28743949 6, both major and minor CHO metabolisms were significantly affected in the phyA phyB mutant.
+sent-828: 28743949 6, both major and minor CHO metabolisms were significantly affected in the phyA phyB mutant.
+sent-829: 28208702 Recently, deregulation of hGDH2 function was found to influence Parkinson's disease (PD) onset.
+sent-830: 28208702 Recently, deregulation of hGDH2 function was found to influence Parkinson's disease (PD) onset.
+sent-831: 28448624 Modification of the expression of ZmPP2AA1 in maize also influenced LR development under the LP condition.
+sent-832: 28525758 Importantly, CTCF depletion in mESCs did not block cells in a specific phase of the cell cycle, and did not induce DNA damage or aneuploidy (Supplementary figures 1D-E).
+sent-833: 28526728 The abnormal expressions of some MADS-box genes, such as OsMADS3, OsMADS13, OsMADS16, and OsMADS58, could lead to a developmental disorder in rice flower organs.
+sent-834: 28526728 The abnormal expressions of some MADS-box genes, such as OsMADS3, OsMADS13, OsMADS16, and OsMADS58, could lead to a developmental disorder in rice flower organs.
+sent-835: 28526728 The abnormal expressions of some MADS-box genes, such as OsMADS3, OsMADS13, OsMADS16, and OsMADS58, could lead to a developmental disorder in rice flower organs.
+sent-836: 28526728 The abnormal expressions of some MADS-box genes, such as OsMADS3, OsMADS13, OsMADS16, and OsMADS58, could lead to a developmental disorder in rice flower organs.
+sent-837: 28292004 However, overexpression of OsAMT1;3 causes growth retardation.
+sent-838: 28743949 Based on the list of genes up-regulated in the phyA phyB mutant, it was found that a large proportion of these genes (35/68, 51.5%) were encoding glycoside hydrolases and beta-galactosidases.
+sent-839: 28743949 Based on the list of genes up-regulated in the phyA phyB mutant, it was found that a large proportion of these genes (35/68, 51.5%) were encoding glycoside hydrolases and beta-galactosidases.
+sent-840: 29300985 Disruption of OsSEC3A by CRISPR/Cas9 (clustered regularly interspaced short palindromic repeats/CRISPR-associated protein 9) caused dwarf stature and a lesion-mimic phenotype.
+sent-841: 29021797 FIDGETIN is a member of the AAA (ATPase Associated with diverse cellular Activities) protein superfamily, the mutation of which causes multiple developmental defects in mice.
+sent-842: 28743949 Considering that enzymes of glycoside hydrolase families 3, 9, 10 and beta-galactosidases can hydrolyze cellulose, cellulose hydrolysis should be accelerated in the phyA phyB mutant.
+sent-843: 28743949 Considering that enzymes of glycoside hydrolase families 3, 9, 10 and beta-galactosidases can hydrolyze cellulose, cellulose hydrolysis should be accelerated in the phyA phyB mutant.
+sent-844: 28771200 Inactivation of the S. cerevisiae TPS gene (ScTPS1) causes a growth defect when grown in the presence of glucose in the medium associated with deregulation of the initial part of glycolysis.
+sent-845: 29312378 In addition, we suspect that the overexpression or mutation of OsJAZ1 may cause fertility abnormalities, since this gene has been reported with a role in the control of spikelet development.
+sent-846: 28262713 Similarly, mutation in the ABORTED MICROSPORE1 (AMS1) gene in Arabidopsis, and its rice ortholog, TAPETUM DEGENERATION RETARDATION (TDR) result in pollen abortion and a hypertrophic tapetum.
+sent-847: 28081268 Mutations in DRPs such as OPA1, Mitofusin2, Atlastin, and Drp1 have been identified as the causes of many genetic disorders in humans.
+sent-848: 28855620 In rice, overexpression of OsTCP19 led to developmental abnormalities like fewer lateral root formation and contributed to better stress tolerance.
+sent-849: 28106309 Mutated chromatin-remodeling factor DDM1 alters the distribution of DNase I hypersensitive (DH) sites that are closely associated with RNA Polymerase II binding sites.
+sent-850: 29129383 Mutation of Gly1924Ser in the DUF490 domain of SSG4 leads to enlarged starch granules and seed chalkiness.
+sent-851: 29170677 We then evaluated whether the K280 mutation influence the function of D14 in SL signaling.
+sent-852: 28596552 ONAC131 (Os12g03040) was reported to involve in biotic stress response that silencing of ONAC131 yielded rice to be more susceptible to Magnaporthe grisea infection (the causal agent of rice blast).
+sent-853: 29268717 The atmax4-1 mutant showed more auxiliary branches and reduced shoot height, as compared to the wild-type Col-0, due to the deficiency of SL biosynthesis.
+sent-854: 28562599 In mice, mutations in any of the paralogs, except DMC1, lead to embryonic lethality following spontaneous DNA damage or errors.
+sent-855: 28265276 Therefore under arsenic stress, over-expression of GPX6 and GPX3 at separate time durations controlled the level of ROS and opening of stomata.
+sent-856: 28102545 Here, we test the hypothesis that OsCPK17 plays a role in rice cold stress response by analysing OsCPK17 knockout, silencing and overexpressing rice lines under low temperature.
+sent-857: 29085070 Duplication of an upstream silencer of FZP increases grain yield in rice.
+sent-858: 28960566 Accordingly, the loss of CLD1/SRL1 function causes abnormal expression of genes and proteins associated with cell wall formation, cuticle development and water stress.
+sent-859: 29237723 ROC4 degradation was promoted by DHS but delayed in dhs mutants.
+sent-860: 30065734 CRISPR/Cas9 technology has been used to develop two knockout mutants of OsSWEET13 that target its promoter, leading to improved resistance to bacterial blight disease in indica rice, IR24.
+sent-861: 29891689 1 and SI Appendix, Table S1) in lpe1 mutants suggested that LPE1 is involved in the biogenesis of PSII complexes but not in other photosynthetic complexes.
+sent-862: 29954078 Indeed, treatment with racGR24 increased the number of ARs in the SL biosynthesis mutant d10, but not in the SL signalling mutant d3.
+sent-863: 29954078 Indeed, treatment with racGR24 increased the number of ARs in the SL biosynthesis mutant d10, but not in the SL signalling mutant d3.
+sent-864: 29755498 The mutation in the PLS2 caused PLS.
+sent-865: 30111359 We therefore analyzed gene variants (alleles) in a diverse collection of barley genotypes (Additional file 2: Tables S1-S3) for significant association with the severity of powdery mildew infection.
+sent-866: 30111359 We therefore analyzed gene variants (alleles) in a diverse collection of barley genotypes (Additional file 2: Tables S1-S3) for significant association with the severity of powdery mildew infection.
+sent-867: 30150985 Of note, the here reported novel AIRE mutation is the first NLS mutation affecting Aire shuttling to the nucleus that is associated with APS-1 syndrome.
+sent-868: 29632179 However, mutation of the OsIAA26 protein caused root wave growth in the presence of 10 ppm ethylene (SI Appendix, Fig.
+sent-869: 29367855 Meanwhile, variations in mitochondrial ETC (mtECT) complex subunit gene expression might lead to energy deficiency and oxidative stress during anther development, thus triggering pollen abortion.
+sent-870: 30177627 The protonema cells of gain-of-function mutants, PpSARKg, were not sensitive to ABA treatment, while the gametophore cells enhanced tolerance to salt stress treatment (Figure 4).
+sent-871: 30067784 For example, OsARF16 is required for the phosphate starvation response in rice, and knocking out OsARF16 leads to primary roots, lateral roots and root hairs losing sensitivity to Pi deficiency.
+sent-872: 30483293 Depletion of frataxin causes the neurodegenerative disease Friedreich's ataxia, attributed to defective Fe-S protein activity and iron accumulation.
+sent-873: 30075014 In comparison with Wt Arabidopsis plants, all mutants showed enhanced susceptibility to TuMV infection by accumulation of higher levels of viral RNA (S8 Fig).
+sent-874: 30072633 The SSIIIa-deficient mutant causes a floury endosperm and reduces the content of long branch-chains of amylopectin.
+sent-875: 29709017 Since wrky33 mutant studies revealed the increased expression of several SA regulated genes (EDS5/SID1, SID2/ICS1, NIMIN1, PAD4, EDS1 PR1, PR2, and PR3) and higher accumulation of SA.
+sent-876: 29709017 Since wrky33 mutant studies revealed the increased expression of several SA regulated genes (EDS5/SID1, SID2/ICS1, NIMIN1, PAD4, EDS1 PR1, PR2, and PR3) and higher accumulation of SA.
+sent-877: 29709017 Since wrky33 mutant studies revealed the increased expression of several SA regulated genes (EDS5/SID1, SID2/ICS1, NIMIN1, PAD4, EDS1 PR1, PR2, and PR3) and higher accumulation of SA.
+sent-878: 29709017 Since wrky33 mutant studies revealed the increased expression of several SA regulated genes (EDS5/SID1, SID2/ICS1, NIMIN1, PAD4, EDS1 PR1, PR2, and PR3) and higher accumulation of SA.
+sent-879: 29709017 Since wrky33 mutant studies revealed the increased expression of several SA regulated genes (EDS5/SID1, SID2/ICS1, NIMIN1, PAD4, EDS1 PR1, PR2, and PR3) and higher accumulation of SA.
+sent-880: 29559992 OsSTAR1 and OsSTAR2 function in Al tolerance in rice, and the disruption of either gene severely increases Al toxicity.
+sent-881: 29559992 OsSTAR1 and OsSTAR2 function in Al tolerance in rice, and the disruption of either gene severely increases Al toxicity.
+sent-882: 29951071 We showed that mutation of IQM4 modulated the ABA level and the sensitivity to ABA in the seed (Figures 4B,D); therefore, iqm4 may exhibit a specific phenotype under high-salt and hyperosmotic stress.
+sent-883: 29868714 Third, CPK27 silencing reduced the cold acclimation-induced accumulation of ABA, H2O2, and NO, as well as the activation of MPK1/2 (Figs 1D, 2B, D, E; Supplementary Fig.
+sent-884: 29868714 Third, CPK27 silencing reduced the cold acclimation-induced accumulation of ABA, H2O2, and NO, as well as the activation of MPK1/2 (Figs 1D, 2B, D, E; Supplementary Fig.
+sent-885: 29701802 In addition, expression of OsCYCA2;1 in the cyca2;34 mutant background induced formation of excessive stomata, reflected by an increased stomatal density and stomatal index (Fig.
+sent-886: 29868714 Silencing of CPK27 abolished the ABA-induced increase in accumulation of H2O2 and NO, and activation of MPK1/2 in response to cold acclimation (Fig.
+sent-887: 30631334 Notably, SG1 overexpression was previously reported to induce a dwarf phenotype and to decrease the response to brassinosteroid.
+sent-888: 29298909 Knockout of OsSPX1, OsSPX2 and OsSPX4 results in P accumulation in the shoot and significant leaf tip necrosis.
+sent-889: 29298909 Knockout of OsSPX1, OsSPX2 and OsSPX4 results in P accumulation in the shoot and significant leaf tip necrosis.
+sent-890: 29298909 Knockout of OsSPX1, OsSPX2 and OsSPX4 results in P accumulation in the shoot and significant leaf tip necrosis.
+sent-891: 30519254 Frataxin is a nuclear-encoded mitochondrial protein whose deficiency is the cause of Friedreich's ataxia, a hereditary cardio- and neurodegenerative disease in humans.
+sent-892: 30519254 Frataxin is a nuclear-encoded mitochondrial protein whose deficiency is the cause of Friedreich's ataxia, a hereditary cardio- and neurodegenerative disease in humans.
+sent-893: 30336563 The mutation of AtCML9 led to increased sensitivity to ABA, and enhanced tolerance to salt stress and water deficit.
+sent-894: 29434610 Overexpression of SLY2 can rescue dwarfism and infertility in sly1-10 mutants by reducing the accumulation of DELLA proteins, RGA, and GA.
+sent-895: 30071023 In humans, mutation in the SUR1 (sulfonylurea receptor 1, ABCC8) gene causes neonatal diabetes.
+sent-896: 29425321 QK1 and SRSF1 deregulation could lead to mental disorders such as schizophrenia.
+sent-897: 30322086 Consistent with this, the GA-deficient pea mutant, na-1, showed a substantially increased AM colonization and arbuscule incidence, which could be reversed by application of GA3.
+sent-898: 29587629 Lack of FKBP12 or FKBP12.6 leads to sever cardiac dysfunction, and results in early death of FKBP12 gene deletion mouse shortly after birth.
+sent-899: 29868714 Silencing of CPK27 attenuated cold acclimation-induced H2O2 accumulation in the apoplast, NO accumulation in the leaves, and activation of MPK1/2 (Fig.
+sent-900: 29395728 Loss of TKL1 in M. oryzae has severe effects on ATP levels, IH growth and cell cycle progression in planta.
+sent-901: 30410573 Up to date, three OsCesA4 mutants have been identified in rice, and all of them show brittleness due to reductions of cellulose content.
+sent-902: 29893903 Conversely, transcript levels of OsICS1 and OsPAL as well as SA concentrations were clearly increased in the lhdd10 mutant at 24 h post-infestation (Supplementary Fig.
+sent-903: 29463697 Gene expression analysis revealed that neither mhz3 mutation nor MHZ3 overexpression significantly altered the transcript levels of OsEIN2 compared with those in WT seedlings (SI Appendix, Fig.
+sent-904: 29463697 Gene expression analysis revealed that neither mhz3 mutation nor MHZ3 overexpression significantly altered the transcript levels of OsEIN2 compared with those in WT seedlings (SI Appendix, Fig.
+sent-905: 30341356 In case of tiller number, compared to N22 in E1; 166 mutants had a higher tiller number and 79 had lower tiller number.
+sent-906: 29946142 Majority of smRNAs were associated with hypermethylated DMRs in CHH context and with hypomethylated CG and CHG DMRs in roots and flowers (Fig.
+sent-907: 29385213 The observation of induction of OsAKT1 and OsCIPK23 at the later stage of M. oryzae infection may further strengthen this hypothesis (S5A and S10A Figs).
+sent-908: 29385213 The observation of induction of OsAKT1 and OsCIPK23 at the later stage of M. oryzae infection may further strengthen this hypothesis (S5A and S10A Figs).
+sent-909: 29385213 The observation of induction of OsAKT1 and OsCIPK23 at the later stage of M. oryzae infection may further strengthen this hypothesis (S5A and S10A Figs).
+sent-910: 29946142 In wild chickpea, most of the smRNAs were associated with hypermethylated DMRs in CHH context, and hypomethylated DMRs in CG/CHG context (Fig.
+sent-911: 30217178 reported that an InDel in the Sl-ALMT9 promoter contributes to fruit malate accumulation and enhances aluminium tolerance in tomato.
+sent-912: 30150985 The presence of the novel c.396G>C (p.Arg132Ser) homozygous mutation of the AIRE gene confirms the diagnosis of APECED syndrome based on the new criteria.
+sent-913: 29588443 In contrast, null gs9 mutation caused a slender grain shape, while GS9 overexpression resulted in a rounder grain shape (Fig.
+sent-914: 29951071 Loss-of-function mutants of WRKY2, WRKY40, and WRKY63 all yield the ABA-hypersensitive phenotype during seed germination and post-germination growth in Arabidopsis.
+sent-915: 30461082 Several somatic POLQ variants have been identified in melanoma patients.
+sent-916: 29928286 These dramatic reductions in pigment content in the wp3 mutant may be attributed to the severe chloroplast developmental defects caused by the mutation in WP3.
+sent-917: 29971082 For example, the anti-CO Atfigl1 Arabidopsis mutant shows increased recombination rates and fertility is unaffected, while Osfignl1 rice is infertile.
+sent-918: 30308970 A loss-of-function mutation in qSD1-2 enhances seed dormancy and results in semi-dwarfism, which has been used to develop high-yield, semi-dwarf varieties worldwide.
+sent-919: 29891689 We found that the higher levels of NPQ in lpe1 mutants were primarily due to an increase in qI (SI Appendix, Table S1), indicating higher photoinhibition.
+sent-920: 30050553 Similarly, knockdown of the ortholog of NFP/NFR5 in tomato (SlLYK10) affects AM colonization, whereas the ortholog of NFP/NFR5 in rice is not required for AM symbiosis.
+sent-921: 29843474 In rice, chl1 and chl9 mutants exhibit a yellowish-green leaf color phenotype where the abnormal leaf color is controlled by a single recessive gene.
+sent-922: 29390074 In human, a missense mutation at the conserved Phe382 in SEC23A leads to a reduction of its affinity for SEC31 and causes cranio-lenticulo-sutural dysplasia disease.
+sent-923: 29559992 OsALS1 is responsible for sequestering cytoplasmic Al into the vacuole, and knockout of OsALS1 leads to an increase in cytosolic and nuclear Al content and increased sensitivity to Al toxicity.
+sent-924: 29559992 OsALS1 is responsible for sequestering cytoplasmic Al into the vacuole, and knockout of OsALS1 leads to an increase in cytosolic and nuclear Al content and increased sensitivity to Al toxicity.
+sent-925: 30233631 For instance, overexpression of rice OsLEA5 confers tolerance to drought and high salinity, and LEA3 and RAB16D are involved in adaptive response to water deficit conditions.
+sent-926: 30233631 For instance, overexpression of rice OsLEA5 confers tolerance to drought and high salinity, and LEA3 and RAB16D are involved in adaptive response to water deficit conditions.
+sent-927: 29643863 Collectively, our results indicated that the mutation of OsABA2 may alter ABA biosynthesis, which in turn, promote JA signaling pathway to activate defense against different pathogens.
+sent-928: 30587128 A loss-of-function mutation in RBM25, rbm25-1, resulted in an increase in the HAB1.2:HAB1.1 ratio and ABA-hypersensitive phenotypes.
+sent-929: 29685101 Over-expression of heat shock transcription factor (TF) HSFA9 may increase water deficit tolerance by protecting the photosynthetic complex in seedlings of tobacco.
+sent-930: 30274246 Some of these MDS genes may possess a variant of the MDM with a single nucleotide deviation.
+sent-931: 30483298 Recently, a point mutation in the barley gene Fra corresponding to FLO6 was shown to cause fractured starch granules.
+sent-932: 30461082 Furthermore, the aberrant release of extracellular ATP can contribute to injury and disease, such as in epilepsy, cancer, and infections.
+sent-933: 30336563 On the other hand, in tomato, the silencing of CBL10 led to improved resistance to Pto DC3000 infection.
+sent-934: 29540758 4e and Supplementary information, Figure S8); som2169 has a G1374A point mutation leading to the G250D amino acid change (Fig.
+sent-935: 29390074 These findings suggested that lack of AtSEC23A and AtSEC23D causes structural abnormalities and an incomplete development of tapetal cells.
+sent-936: 29868714 Silencing of CPK27 compromised acclimation-induced cold tolerance, generation of hydrogen peroxide (H2O2) in the apoplast, NO and ABA accumulation, and the activation of MPK1/2.
+sent-937: 29868714 Silencing of CPK27 compromised acclimation-induced cold tolerance, generation of hydrogen peroxide (H2O2) in the apoplast, NO and ABA accumulation, and the activation of MPK1/2.
+sent-938: 29868714 Silencing of CPK27 compromised acclimation-induced cold tolerance, generation of hydrogen peroxide (H2O2) in the apoplast, NO and ABA accumulation, and the activation of MPK1/2.
+sent-939: 30275307 Furthermore, using an in-house TILLING platform, we identified an additional 23 ta2 alleles with point mutations in OsROS1 (SI Appendix, Table S2).
+sent-940: 30275307 Furthermore, using an in-house TILLING platform, we identified an additional 23 ta2 alleles with point mutations in OsROS1 (SI Appendix, Table S2).
+sent-941: 30595993 Casein kinase II mutants (ckb1) exhibit reduced sensitivity to ABA and increased stomatal aperture, leaf water loss, and proline accumulation.
+sent-942: 30018623 Loss of SNAP29 impairs endocytic recycling and cell motility, resulting in cerebral dysgenesis, neuropathy, ichthyosis, and keratoderma syndrome.
+sent-943: 30441780 Mutations in the PsbO gene in Arabidopsis caused growth retardation.
+sent-944: 30323826 More recently, Hoagland's solution has also been shown the significantly increase CO formation in wheat and wheat-rye hybrids lacking the Ph1 locus, which suppresses COs between homoeologs.
+sent-945: 30105043 Remarkably, in contrast to DCD mutants in C3 rice, sistl2 showed a significant reduction in leaf cell size and affected C4 photosynthetic capacity in foxtail millet.
+sent-946: 30461082 Mutations in UBQLN2 precipitate the protein into intraneuronal inclusions found in rare familial amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD) cases.
+sent-947: 30461082 Missense mutations in numerous RNA-binding proteins have been associated with the neurodegenerative disease amyotrophic lateral sclerosis (ALS).
+sent-948: 29309410 In the present study, the flag leaf of the esl mutant promoted the O2- production and increased the ABA levels during leaf senescence (Fig 1, S1 Table).
+sent-949: 30322086 Application of the synthetic SL analog GR24 increased the AM colonization in the pea ccd8 mutant to a similar level as in the pea wild-type with normal strigolactone levels.
+sent-950: 30575749 Survival of root tips under hypoxia was much greater in prt6-1 than Col-0, but was significantly reduced in the prt6-1 vrn2-5 double mutant (Fig.
+sent-951: 30461082 Oculocutaneous albinism (OCA), an autosomal recessive disorder, is caused by mutations in human tyrosinase (Tyr) and tyrosinase-related protein 1 (Tyrp1) leading to OCA1 and OCA3, respectively.
+sent-952: 30461082 Oculocutaneous albinism (OCA), an autosomal recessive disorder, is caused by mutations in human tyrosinase (Tyr) and tyrosinase-related protein 1 (Tyrp1) leading to OCA1 and OCA3, respectively.
+sent-953: 30113309 Both AtFH2 and AtFH1 play a role in the regulation of the movement of GFP and are more susceptible to CMV infection, and mutants in both formins show greater movement of CMV MP between cells.
+sent-954: 30367631 In contrast, silencing of OsWRKY67 increased the susceptibility to blast and bacterial blight diseases.
+sent-955: 29298909 OsSPX1 is induced by P starvation in the roots, and inhibition of OsSPX1 by RNAi leads to an excessive accumulation of P and thus induces severe toxicity.
+sent-956: 29587629 Mutations in the Drosophila FKBP59 (mammalian FKBP52) exacerbate Abeta toxicity while transgenic flies that over-express wild type dFKBP59 decrease Abeta toxicity.
+sent-957: 30305670 The TIA-biosynthesis genes, G10H, SLS, TDC, STR, DXS and PRX1 were found to be significantly induced.
+sent-958: 30305670 The TIA-biosynthesis genes, G10H, SLS, TDC, STR, DXS and PRX1 were found to be significantly induced.
+sent-959: 29883789 Dysregulation of histone acetyltransferases and histone deacetylases have been implicated in a wide variety of diseases like cancer and inflammation.
+sent-960: 30461082 Certain mutations in parkin lead to the accumulation of toxic substrates that damage dopaminergic neurons, causing the autosomal recessive form of Parkinsons disease (PD).
+sent-961: 29643863 Here, we identified that lmm9150 was an ABA-deficient mutant (Figures 7B-D) and exhibited cell death lesions on leaves (Figure 1A and Supplementary Figures S1A,B).
+sent-962: 30464344 However, the C-terminally truncated D3 mutant protein could neither form a ternary complex with D14 and D53-D2 on a sizing column, nor restore the D53 degradation activity of the max2-1 extracts (Fig.
+sent-963: 30464344 However, the C-terminally truncated D3 mutant protein could neither form a ternary complex with D14 and D53-D2 on a sizing column, nor restore the D53 degradation activity of the max2-1 extracts (Fig.
+sent-964: 30305670 G10H, DAT and SLS were downregulated, while TDC, STR and PRX1 were upregulated.
+sent-965: 30461082 The mutations in PARKIN (PARK2 gene), a RING-between-RING E3 ubiquitin ligase, along with PINK1 (PARK6 gene), a protein kinase, are responsible for autosomal-recessive juvenile Parkinsonism [1].
+sent-966: 30461082 Hexanucleotide repeat expansions located in the c9orf72 gene are the most common mutations associated with familial amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD) cases.
+sent-967: 30542157 Triple knockout of the genes BBM1, BBM2 and BBM3 causes embryo arrest and abortion, which are fully rescued by male-transmitted BBM1.
+sent-968: 30542157 Triple knockout of the genes BBM1, BBM2 and BBM3 causes embryo arrest and abortion, which are fully rescued by male-transmitted BBM1.
+sent-969: 30542157 Triple knockout of the genes BBM1, BBM2 and BBM3 causes embryo arrest and abortion, which are fully rescued by male-transmitted BBM1.
+sent-970: 29660235 Inhibition of OsSWEET11 function in mesophyll cells improves resistance of rice to sheath blight disease.
+sent-971: 29237723 ROC4 degradation was promoted by DHS but delayed in dhs mutants.
+sent-972: 30092010 In this report, it is demonstrated that over-expression of the rice gene OsSIZ1 in Arabidopsis leads to increased tolerance to multiple abiotic stresses.
+sent-973: 30241349 Knocking Out the Gene RLS1 Induces Hypersensitivity to Oxidative Stress and Premature Leaf Senescence in Rice.
+sent-974: 29604140 In addition, the loss of CDS5 led to an elevated PA level and enhanced hyperosmotic tolerance.
+sent-975: 30367631 In contrast, silencing of OsWRKY67 increased the susceptibility to blast and bacterial blight diseases.
+sent-976: 31068124 CMS can result from either intraspecific mtDNA variation or from the introduction of cytoplasm from a different species (alloplasmic CMS).
+sent-977: 30893760 However, silencing any of these genes individually increased the mortality of BPH nymphs (Figure 8).
+sent-978: 31086007 The transcription levels of OsbZIP81.1 and OsbZIP81.2 were strongly induced by Agrobacterium infection and MeJA, PGE6000 treatments, and weakly induced by AS treatment (Figure 8A-C).
+sent-979: 31399602 D3G, its related metabolites and extracts, and C3G inhibited PD-L1, which could decrease the binding of PD-L1 to PD-1 resulting in activation of T cells in the tumor microenvironment.
+sent-980: 31399602 D3G, its related metabolites and extracts, and C3G inhibited PD-L1, which could decrease the binding of PD-L1 to PD-1 resulting in activation of T cells in the tumor microenvironment.
+sent-981: 29284393 This property of Top1 explains why a mutation at the catalytic tyrosine (Y727F of yeast Top1) elevates G4-associated genome instability more than does complete deletion of the TOP1 gene.
+sent-982: 31134113 The pretreatment of stressed berries with appropriate inhibitors of DAO and PAO further increased PA level and greatly lowered defense responses, leading to higher susceptibility to B. cinerea.
+sent-983: 31821678 The defects in the TAS pathway led to the up-regulation of ETTI/ARF gene expression, while miR166, a suppressor of HD-ZIPIII, increased in abundance in the mutant.
+sent-984: 31156685 Subsequently, ABA-activated SnRK2-type protein kinases may phosphorylate the Ser/Thr residues of RXXS/T sites and activate IbABF4 protein similar to AtAREB1.
+sent-985: 31505882 Among the three OsCOI genes, the mutant of OsCOI1b revealed a higher susceptibility to infection by the Rice black-streaked dwarf virus.
+sent-986: 31505882 Among the three OsCOI genes, the mutant of OsCOI1b revealed a higher susceptibility to infection by the Rice black-streaked dwarf virus.
+sent-987: 31584235 Meanwhile, the leaves were more wilted in the pif4 mutant, but less wilted in the SlPIF4-OE plants, respectively, than those in WT after cold stress (Figure S5a).
+sent-988: 31842355 Removal of D53/SMXL6/7/8 allows SL-based signal transduction, which alters various physiological and biochemical functions (Figure 2A).
+sent-989: 30693020 Mutations of SF3B1 of the U2 snRNP complex and U2AF35 cause aberrant 3' splice site usage in leukemia, melanoma, breast and lung cancers.
+sent-990: 30693020 Mutations of SF3B1 of the U2 snRNP complex and U2AF35 cause aberrant 3' splice site usage in leukemia, melanoma, breast and lung cancers.
+sent-991: 30626112 A lack of NPF7.3/NRT1.5 resulted in K deficiency in shoots under low NO3- conditions by affecting xylem loading and root-to-shoot K+ translocation through SKOR channel.
+sent-992: 30693020 In a step further from their association with cancer, we show that they are highly enriched in the aberrant 3' SS in cancers containing U2AF35 or SF3B1 mutations (Figure 4).
+sent-993: 30693020 In a step further from their association with cancer, we show that they are highly enriched in the aberrant 3' SS in cancers containing U2AF35 or SF3B1 mutations (Figure 4).
+sent-994: 30693020 In a step further from their association with cancer, we show that they are highly enriched in the aberrant 3' SS in cancers containing U2AF35 or SF3B1 mutations (Figure 4).
+sent-995: 31199816 Overall, these results indicated that mutation of cytoplasmic ORF138 retro-regulated genes from the nucleus, and interactions between them led to male sterility in Ogura-CMS turnip.
+sent-996: 30717226 Furthermore, the oxidant and antioxidant enzymes showed that the mutant cotton seedlings were highly affected by the disease infection as compared to the wild types.
+sent-997: 31766518 In tobacco plants infected with the tobacco mosaic virus, over-expression of PAL increases SAR to the tobacco mosaic virus while under-expression weakens it.
+sent-998: 31701152 Increases in SA levels were achieved by overexpression of SLC1 in rice, and the involvement of SLC1 and SLC2 in maintaining the balance of SA levels was demonstrated.
+sent-999: 30992454 4g), and given the observed phenotypes for gas2 and GAS2-OE, we postulated that DHGA12 is a bioactive GA, and alterations in DHGA12 could affect seedling development and ABA responses.
+sent-1000: 31466256 Similarly, OsFIE2 RNA interference (RNAi) transgenic genotypes and mutant fie2 also exhibited a dwarf phenotype.

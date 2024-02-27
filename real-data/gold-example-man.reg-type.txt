@@ -1,0 +1,33 @@
+
+sent-1: 20838584 Therefore, overexpression of EUI causes a dwarf phenotype whereas mutation within this gene increases the internode length in rice.
+chain-1: EUI -- overexpression -- causes (Reg) -- dwarf phenotype
+chain-2: EUI -- mutation -- increases (PosReg) -- internode length
+
+sent-2: 20385831 Rice lines silenced for Xb24 display enhanced XA21-mediated immunity, whereas rice lines overexpressing XB24 are compromised for immunity.
+chain-1: Xb24 -- silenced -- enhanced (PosReg) -- XA21-mediated immunity
+chain-2: XB24 -- overexpressing -- compromised (NegReg) -- immunity
+
+sent-3: 21209026 Introduction of the semi-dominant Bc6 mutant gene into wild-type rice significantly reduced the percentage of cellulose, causing brittle phenotypes.
+chain-1: Bc6 -- mutant -- reduced (NegReg) -- percentage of cellulose
+chain-1: Bc6 -- mutant -- causing (Reg) -- brittle phenotypes
+
+sent-4: 21963665 Here, we characterized the rice (Oryza sativa) lax panicle2 (lax2) mutant, which has altered AM formation.
+chain-1: lax panicle2 -- mutant -- altered (Reg) -- AM formation
+chain-2: lax2 -- mutant -- altered (Reg) -- AM formation
+
+sent-5: 21807436 Knockdown of OsPAO and OsRCCR1 cause different plant death phenotypes in rice.
+chain-1: OsPAO -- Knockdown -- cause (Reg) -- plant death phenotypes
+chain-2: OsRCCR1 -- knockdown -- cause (Reg) -- plant death phenotypes
+
+# example sentence, not in the 1k sent.
+sent-11: 32449922 Among the 11 ZF-HD genes in rice, the overexpression of OsZHD1 and OsZHD2 induces leaf curling by controlling the number and arrangement of bulliform cells.
+chain-1: OsZHD1 -- overexpression -- induces (Reg) -- leaf curling
+chain-2: OsZHD2 -- overexpression -- induces (Reg) -- leaf curling
+chain-3: OsZHD1 -- overexpression -- controlling (Reg) -- number of bulliform cells
+chain-4: OsZHD2 -- overexpression -- controlling (Reg) -- number of bulliform cells
+chain-5: OsZHD1 -- overexpression -- induces (Reg) -- leaf curling
+chain-6: OsZHD2 -- overexpression -- controlling (Reg) -- number of bulliform cells
+chain-7: OsZHD1 -- overexpression -- controlling (Reg) -- arrangement of bulliform cells
+chain-8: OsZHD2 -- overexpression -- controlling (Reg) -- arrangement of bulliform cells
+
+

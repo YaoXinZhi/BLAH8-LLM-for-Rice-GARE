@@ -1,0 +1,13 @@
+chain-1: EUI -- overexpression -- causes -- dwarf phenotype
+chain-2: EUI -- mutation -- increases -- internode length
+
+chain-1: Xb24 -- silenced -- enhances -- XA21-mediated immunity
+chain-2: XB24 -- overexpression -- compromises -- immunity
+
+chain-1: Bc6 -- mutant -- reduces -- percentage of cellulose
+chain-2: Bc6 -- mutant -- causes -- brittle phenotypes
+
+chain-1: lax panicle2 -- characterized -- has -- altered AM formation
+
+chain-1: OsPAO -- knockdown -- causes -- plant death phenotypes
+chain-2: OsRCCR1 -- knockdown -- causes -- plant death phenotypes

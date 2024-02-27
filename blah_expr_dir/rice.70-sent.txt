@@ -1,0 +1,70 @@
+sent-1: 20838584 Therefore, overexpression of EUI causes a dwarf phenotype whereas mutation within this gene increases the internode length in rice.
+sent-2: 20385831 Rice lines silenced for Xb24 display enhanced XA21-mediated immunity, whereas rice lines overexpressing XB24 are compromised for immunity.
+sent-3: 21209026 Introduction of the semi-dominant Bc6 mutant gene into wild-type rice significantly reduced the percentage of cellulose, causing brittle phenotypes.
+sent-4: 21963665 Here, we characterized the rice (Oryza sativa) lax panicle2 (lax2) mutant, which has altered AM formation.
+sent-5: 21807436 Knockdown of OsPAO and OsRCCR1 cause different plant death phenotypes in rice.
+sent-6: 22792078 Previous studies have shown that the rice zep1 mutant retains CO formation and successful equal homolog segregation, which renders it difficult to unravel the exact role of SC in rice.
+sent-7: 23217057 In this study we used a rice waxy mutant to gain molecular insights into how amylose deficiency affects carbon allocation in cereal seeds.
+sent-8: 22267486 By contrast, gene silencing of CEBiP in rice allows M. oryzae to cause rice blast disease in the absence of Slp1.
+sent-9: 24312593 Down-regulation of OsSPX1 causes high sensitivity to cold and oxidative stresses in rice seedlings.
+sent-10: 24094741 Rice mutant lines lacking a functional DAO display increased levels of free IAA in anthers and ovaries.
+sent-11: 23289852 Rice faded green leaf (fgl) mutants develop yellow/white leaf variegation and necrotic lesions during leaf elongation in field-grown plants.
+sent-12: 24299927 A spontaneous rice mutant, erect leaf1 (elf1-1), produced a dwarf phenotype with erect leaves and short grains.
+sent-13: 24940877 The rice ortholog of DREB1, OsDREB1b, is transcriptionally induced by cold stress and over-expression of OsDREB1b results in increase tolerance towards high salt and freezing stress.
+sent-14: 25324400 Down-regulation of a LBD-like gene, OsIG1, leads to occurrence of unusual double ovules and developmental abnormalities of various floral organs and megagametophyte in rice.
+sent-15: 25017161 Rice SAPs are responsive to multiple biotic stresses and overexpression of OsSAP1, an A20/AN1 zinc-finger protein, enhances the basal resistance against pathogen infection in tobacco.
+sent-16: 25280352 Mutation of the rice ASL2 gene encoding plastid ribosomal protein L21 causes chloroplast developmental defects and seedling death.
+sent-17: 25856577 The rice OsEPSPS gene encodes a key enzyme in the synthesis of aromatic amino acids, loss of function in this gene results in a lack of essential amino acids, leading to plant death.
+sent-18: 25607985 In rice, a transposon-insertional XB15 mutant exhibits constitutive cell death lesions, enhanced XA21-mediated resistance and induction of defense gene expression.
+sent-19: 26573512 Knock-down of OsCPS4 caused lower accumulation levels of momilactones and oryzalexin S and the cps4 rice mutant is more susceptible to M. oryzae infection than the wild-type.
+sent-20: 26690131 Induced TDC activity by M. oryzae infection was reported in sekiguchi lesion (sl) mutant rice.
+sent-21: 26690131 Rice sekiguchi lesion (sl) mutants were observed to accumulate tryptamine, and the SL gene was identified as the cytochrome P450 monooxygenase gene (Os12g16720) encoding T5H.
+sent-22: 25788736 Rice LAX PANICLE1 (LAX1) encodes a basic helix-loop-helix (bHLH) transcription factor, and mutants in this affect AM development.
+sent-23: 25697101 We isolated a new monoculm mutant, monoculm 3 (moc3), in which a point mutation causes the premature termination of rice O. sativa WUS (OsWUS).
+sent-24: 27472897 Consistent with these results, rice accession IRBB5 (TFIIAgamma5V39E) was more resistant to infection by different Xoc strains than IR24 (TFIIAgamma5) (Figure 5:figure supplement 2C).
+sent-25: 27606959 Finally, we show that knock-down of OsIAA10 enhances the resistance of rice to RDV infection, whereas OsIAA10 overexpression has the opposite effect.
+sent-26: 27444058 Deregulation of the OsmiR160 Target Gene OsARF18 Causes Growth and Developmental Defects with an Alteration of Auxin Signaling in Rice.
+sent-27: 27588462 Each of their mutations, osppgm, osagps2, and apl1, caused starch deficiency in rice leaves (Supplementary Fig.
+sent-28: 27606959 The importance of this new mechanism, from a practical point of view and as demonstrated here, is that the engineered reduction of OsIAA10 can improve the resistance of rice to RDV infection.
+sent-29: 26994476 Recently, reported that RNAi-mediated inhibition of OsVHA-A resulted in an increase in stomatal aperture and density, and higher susceptibility to drought and salt stress in transgenic rice.
+sent-30: 26994476 6A) suggested that OsPLS1/VHA-A1 mutation resulted in an alteration in the SA signal pathway in rice.
+sent-31: 27588462 In the present study, we show that mutations in the rice plastidic PGM, OspPGM, and the plastidic AGP LS, OsAGPL4, result in starch deficiency in pollen grains and induce male sterility.
+sent-32: 26903527 Targeted Knockdown of GDCH in Rice Leads to a Photorespiratory-Deficient Phenotype Useful as a Building Block for C4 Rice.
+sent-33: 28102545 Here, we test the hypothesis that OsCPK17 plays a role in rice cold stress response by analysing OsCPK17 knockout, silencing and overexpressing rice lines under low temperature.
+sent-34: 29085070 Duplication of an upstream silencer of FZP increases grain yield in rice.
+sent-35: 29385213 The observation of induction of OsAKT1 and OsCIPK23 at the later stage of M. oryzae infection may further strengthen this hypothesis (S5A and S10A Figs).
+sent-36: 29395728 Loss of TKL1 in M. oryzae has severe effects on ATP levels, IH growth and cell cycle progression in planta.
+sent-37: 29660235 Inhibition of OsSWEET11 function in mesophyll cells improves resistance of rice to sheath blight disease.
+sent-38: 30241349 Knocking Out the Gene RLS1 Induces Hypersensitivity to Oxidative Stress and Premature Leaf Senescence in Rice.
+sent-39: 30840766 Furthermore, over-expression of OsHMA3 also increases tolerance to Cd toxicity in rice, indicating that OsHMA3 localized at the tonoplast transports both Cd and Zn into to the vacuoles.
+sent-40: 31096659 These findings were further supported by a recent experimental study that CRISPR-Cas9 knockout of OsPGSIP-C1 led to dwarf plant height and spike shape changes of rice.
+sent-41: 30771248 In this study, we isolated and characterized the rice mutant ds8, which exhibited increased sensitivity to drought stress.
+sent-42: 31207967 RICE SALT SENSITIVE3 (RSS3) acts as a negative regulator of JA signaling by interacting with OsJAZ9 and OsJAZ11, and the rss3 mutant exhibits the salt-hypersensitive phenotype.
+sent-43: 31615964 The mutants caused typical disease symptoms similar to those caused by Guy11 and complemented strains in the injected-rice assays (Table S1).
+sent-44: 31701152 Increases in SA levels were achieved by overexpression of SLC1 in rice, and the involvement of SLC1 and SLC2 in maintaining the balance of SA levels was demonstrated.
+sent-45: 31318448 This finding was supported by the fact that RBSDV infection in rice can be promoted through knockdown of OsCSN5A in rice via stable transformation (Fig.
+sent-46: 31667503 These results indicate that endogenous GA overproduction caused by the mutation of EUI1 can enhance sensitivity of rice to NH4+ toxicity.
+sent-47: 31248369 Mutation of OsMET1 led to a global loss of 75% CmG in rice, causing developmental abnormities.
+sent-48: 31861687 The overexpression of OsIRO2 in rice increases MA secretion and Fe content in shoots, and thus improves the tolerance of rice plants to Fe deficiency.
+sent-49: 31412785 CONCLUSION: Our results revealed two DNA polymorphisms regulating maize RCA gene ZmRCAbeta expression, and the RCA gene promoter activity of rice was stronger than that of maize.
+sent-50: 31627334 Overexpression of OsPIN2 Regulates Root Growth and Formation in Response to Phosphate Deficiency in Rice.
+sent-51: 33009432 By comparison with non-Bt control, Bt rice T1C-19 with or without RDV infection had no significant effects on the life-table parameters of BPH including rm, R0, T, DT and lambda.
+sent-52: 33009432 Thus, it could be concluded that Bt rice T1C-19 doesn't affect the ecological fitness of BPH either under RDV stress or not.
+sent-53: 31952365 In marked contrast, downregulation of SNAT2 in rice (snat2) led to an enhanced tolerance to abiotic stress, a semidwarf phenotype with erect leaves, and a decrease in melatonin content.
+sent-54: 31811745 A JA-deficient rice mutant, hebiba, exhibited enhanced susceptibility to the sheath blight disease (Taheri and Tarighi, 2010), suggesting the involvement of JA in resistance response.
+sent-55: 33009432 Thus, it is clear that Bt rice T1C-19 doesn't affect the ecological fitness of BPH either under RDV stress or not.
+sent-56: 33301482 The knockout of OsNRAMP1 brought about noteworthy reductions in root take-up of Cd and Mn and their amassing in rice shoot and grain, and expanded affectability to Mn insufficiency.
+sent-57: 33264360 We previously showed that knocking down OsIAA10 expression in rice causes enhanced resistance to RDV infection, suggesting that OsIAA10 negatively regulates rice response to RDV infection.
+sent-58: 32521717 Knockdown of a Novel Gene OsTBP2.2 Increases Sensitivity to Drought Stress in Rice.
+sent-59: 31828801 Deleting UPL3 depleted Sir2 during growth in rice cells, triggering host immunity and preventing infection.
+sent-60: 32691446 Loss of rice PARAQUAT TOLERANCE 3 confers enhanced resistance to abiotic stresses and increases grain yield in field.
+sent-61: 33098731 Mutation of G-protein gamma subunit DEP1 increases planting density and resistance to sheath blight disease in rice.
+sent-62: 34250718 Overexpression of OsRLP1 increased rice defence, while the OsRLP1 mutant was more susceptible to RBSDV infection, compared with wild-type plants.
+sent-63: 34679114 The silencing of the OsSYT-5 gene affected the expression of several genes associated with ABA-related stress signaling in the transgenic rice plants.
+sent-64: 34186295 The smax1 and d3/smax1 transcriptome analysis also revealed that removal of SMAX1 causes induction of SL biosynthesis, which was mirrored by significantly elevated SL levels in rice roots.
+sent-65: 33368943 These results indicate that an enhanced defence response was activated by P. oryzae infection both in the rlr1 mutant lines and in OsRLR1-OX lines.
+sent-66: 34866195 Here, we show that mutation of OsSCYL2 in rice gave rise to a novel phenotype:hypersensitive response-like (HR) cell death in a light-dependent manner.
+sent-67: 33531490 These results confirmed that PM H+-ATPase modification in rice roots regulated NH4+ absorption.
+sent-68: 34250718 Viral inoculation on various OsRLP1 mutants demonstrated that OsRLP1 modulates rice resistance against RBSDV infection.
+sent-69: 34250718 These results show that knockout of OsSOBIR1 in rice made plants more susceptible to RBSDV infection.
+sent-70: 34681858 demonstrated that mutation of the EBEs in the promoter regions of OsSWEET13 and OsSWEET14 conferred a broad-spectrum resistance of rice to Xoo variety infections.
