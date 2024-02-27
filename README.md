@@ -37,6 +37,6 @@ Extracting biological regulation events has long been a focal point in the field
 ## Citation
 If you use this code in your research, please cite the following paper: 
 
-```python
+```bibtex
 Bioregulatory Event Extraction Using Large Language Models: A Case Study of Rice Literature
 ```
