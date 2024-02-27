@@ -1,0 +1,84 @@
+
+# 指代消解错误
+sent-1: 20838584 Therefore, overexpression of EUI causes a dwarf phenotype whereas mutation within this gene increases the internode length in rice.
+event-1: EUI -- overexpression -- causes (Reg) -- dwarf phenotype
+event-2: mutation within this gene -- increases (PosReg) -- internode length
+
+# 基因边界识别
+sent-3: 20498118 Another explanation for the more severe phenotypes of the d3-1 mutants is that D3 may have roles in SL-independent processes.
+event-1: d3-1 mutants -- more severe phenotypes -- have roles in (Reg) -- SL-independent processes
+
+
+# BP边界识别
+sent-4: 21156806 Moreover, overexpression of TOM1 or HvTOM1 resulted in increased tolerance of Fe deficiency.
+event-1: TOM1 or HvTOM1 -- overexpression -- resulted in increased tolerance of (PosReg) -- Fe deficiency
+
+sent-19: 26573512 Knock-down of OsCPS4 caused lower accumulation levels of momilactones and oryzalexin S and the cps4 rice mutant is more susceptible to M. oryzae infection than the wild-type.
+event-1: OsCPS4 -- Knock-down -- caused (Reg) -- lower accumulation levels of momilactones
+event-2: OsCPS4 -- Knock-down -- caused (Reg) -- lower accumulation levels of oryzalexin S
+event-3: cps4 -- mutant -- is (Reg) -- more susceptible to M. oryzae infection
+
+# 补充的gare
+## 在pipeline中由于标准化丢失的gare
+sent-63: 26573512 Knock-down of OsCPS4 caused lower accumulation levels of mo
+milactones and oryzalexin S and the cps4 rice mutant is more susceptible to M
+. oryzae infection than the wild-type.
+event-1: OsCPS4 -- Knock-down -- caused (NegReg) -- lower accumulation levels
+ of momilactones
+event-2: OsCPS4 -- Knock-down -- caused (NegReg) -- lower accumulation levels
+ of oryzalexin S
+event-3: cps4 rice mutant -- more susceptible -- to M. oryzae infection (NegR
+eg) -- than the wild-type
+
+sent-106: 27606959 Finally, we show that knock-down of OsIAA10 enhances the r
+esistance of rice to RDV infection, whereas OsIAA10 overexpression has the opposite effect.
+event-1: knock-down of OsIAA10 -- enhances (PosReg) -- resistance of rice to RDV infection
+event-2: OsIAA10 overexpression -- has (NegReg) -- opposite effect
+
+## 指代消解
+sent-881: 29559992 OsSTAR1 and OsSTAR2 function in Al tolerance in rice, and the disruption of either gene severely increases Al toxicity.
+event-1: OsSTAR1 -- disruption -- increases (PosReg) -- Al toxicity
+event-2: OsSTAR2 -- disruption -- increases (PosReg) -- Al toxicity
+
+# Negation
+sent-6: 22792078 Previous studies have shown that the rice zep1 mutant retains CO formation and successful equal homolog segregation, which renders it difficult to unravel the exact role of SC in rice.
+
+# 相反的语意，negation
+sent-25: 27606959 Finally, we show that knock-down of OsIAA10 enhances the resistance of rice to RDV infection, whereas OsIAA10 overexpression has the opposite effect.
+chain-1: OsIAA10 -- knock-down -- enhances -- resistance of rice to RDV infection
+
+# 突破NER的限制
+sent-3: 21209026 Introduction of the semi-dominant Bc6 mutant gene into wild-type rice significantly reduced the percentage of cellulose, causing brittle phenotypes.
+event-1: Bc6 -- semi-dominant mutant -- significantly reduced (NegReg) -- percentage of cellulose
+event-2: Bc6 -- semi-dominant mutant -- causing (Reg) -- brittle phenotypes
+
+sent-18: 25607985 In rice, a transposon-insertional XB15 mutant exhibits constitutive cell death lesions, enhanced XA21-mediated resistance and induction of defense gene expression.
+chain-1: XB15 -- mutant -- exhibits -- constitutive cell death lesions
+chain-2: XB15 -- mutant -- enhanced -- XA21-mediated resistance
+chain-3: XB15 -- mutant -- induction -- defense gene expression
+
+## 错误的BP
+sent-21: 26690131 Rice sekiguchi lesion (sl) mutants were observed to accumulate tryptamine, and the SL gene was identified as the cytochrome P450 monooxygenase gene (Os12g16720) encoding T5H.
+event-1: SL -- mutant -- accumulate (PosReg) -- tryptamine
+event-2: SL -- mutant -- identified as (Reg) -- cytochrome P450 monooxygenase gene
+
+# 假阳性
+sent-7: 23217057 In this study we used a rice waxy mutant to gain molecular insights into how amylose deficiency affects carbon allocation in cereal seeds.
+event-1: waxy -- mutant -- affects (Reg) -- carbon allocation
+
+# 触发词识别错误
+sent-8: 22267486 By contrast, gene silencing of CEBiP in rice allows M. oryzae to cause rice blast disease in the absence of Slp1.
+event-1: CEBiP -- gene silencing -- allows (Reg) -- rice blast disease
+
+# 更有意义的拆解
+sent-14: 25324400 Down-regulation of a LBD-like gene, OsIG1, leads to occurrence of unusual double ovules and developmental abnormalities of various floral organs and megagametophyte in rice.
+event-1: OsIG1 -- Down-regulation -- leads to (Reg) -- occurrence of unusual double ovules
+event-2: OsIG1 -- Down-regulation -- leads to (Reg) -- developmental abnormalities of various floral organs
+event-3: OsIG1 -- Down-regulation -- leads to (Reg) -- developmental abnormalities of megagametophyte
+
+
+## negation 假阳性
+sent-51: 33009432 By comparison with non-Bt control, Bt rice T1C-19 with or without RDV infection had no significant effects on the life-table parameters of BPH including rm, R0, T, DT and lambda.
+event-1: Bt rice T1C-19 -- with or without RDV infection -- had no significant effects (NegReg) -- life-table parameters of BPH
+
+
