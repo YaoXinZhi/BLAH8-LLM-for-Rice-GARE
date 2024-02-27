@@ -1,6 +1,6 @@
 
 
-# Bioregulatory Event Extraction Using Large Language Models: A Case Study of Rice Literature
+# BLAH8 Project: Bioregulatory Event Extraction Using Large Language Models: A Case Study of Rice Literature
 
 
 ## Abstract
