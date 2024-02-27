@@ -37,7 +37,7 @@ def main():
     # openai api 使用参考 https://zhuanlan.zhihu.com/p/656959227
 
     # 1-8 blah-8 xzyao api
-    api_key = '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'
+    api_key = '***'
     # model = "gpt-3.5-turbo"
     model = 'gpt-4'
 
